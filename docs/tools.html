@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI 工具库｜Daily AI Tools</title>
+  <meta name="description" content="搜索、筛选和收藏 Daily AI Tools 已收录的 AI 工具，支持分类、来源、开源状态、评分与热度排序。">
+  <meta name="theme-color" content="#0b0d10">
+  <link rel="canonical" href="https://wuc093855-coder.github.io/daily-ai-tool-discovery/tools.html">
+  <link rel="icon" href="assets/icons/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="alternate" type="application/rss+xml" title="Daily AI Tools RSS" href="feed.xml">
+  <meta property="og:title" content="AI 工具库｜Daily AI Tools">
+  <meta property="og:description" content="搜索、筛选和收藏每日精选的 AI 工具。">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <script>
+    (() => { try { const t = JSON.parse(localStorage.getItem("daily-ai-tools:theme")); document.documentElement.dataset.theme = t || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"); } catch { document.documentElement.dataset.theme = "light"; } })();
+  </script>
+  <link rel="stylesheet" href="assets/css/variables.css">
+  <link rel="stylesheet" href="assets/css/base.css">
+  <link rel="stylesheet" href="assets/css/components.css">
+  <link rel="stylesheet" href="assets/css/responsive.css">
+</head>
+<body id="top" data-page="tools">
+  <a class="skip-link" href="#main">跳到主要内容</a>
+  <div id="site-header"></div>
+  <main id="main" class="page-main">
+    <header class="library-header" id="categories">
+      <div class="container">
+        <span class="eyebrow">Tool library</span>
+        <h1>AI 工具库</h1>
+        <p>搜索、筛选并保存值得继续了解的工具。你的视图与筛选条件会保存在当前浏览器。</p>
+      </div>
+    </header>
+    <div class="container library-layout">
+      <div id="filter-backdrop" class="filter-drawer-backdrop" hidden></div>
+      <aside class="filter-sidebar" id="filter-sidebar" aria-label="工具筛选器">
+        <div class="filter-header"><strong>筛选条件</strong><button class="text-button" type="button" data-clear-all>清除全部</button><button class="icon-button filter-toggle" type="button" data-filter-close aria-label="关闭筛选器">×</button></div>
+        <div class="filter-group">
+          <label for="filter-category">分类</label>
+          <select class="select" id="filter-category"><option value="all">全部分类</option></select>
+        </div>
+        <div class="filter-group">
+          <label for="filter-source">来源</label>
+          <select class="select" id="filter-source">
+            <option value="all">全部来源</option><option value="github">GitHub</option><option value="producthunt">Product Hunt</option><option value="huggingface">Hugging Face</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label for="filter-open">开源状态</label>
+          <select class="select" id="filter-open"><option value="all">全部</option><option value="yes">仅开源</option><option value="no">仅非开源</option></select>
+        </div>
+        <div class="filter-group">
+          <label for="filter-pricing">价格类型</label>
+          <select class="select" id="filter-pricing"><option value="all">全部</option><option value="free">免费</option><option value="open_source">开源</option><option value="paid">付费</option></select>
+        </div>
+        <div class="filter-group">
+          <label for="filter-date">收录日期</label>
+          <select class="select" id="filter-date"><option value="all">全部日期</option><option value="today">今天</option><option value="week">最近 7 天</option><option value="month">最近 30 天</option></select>
+        </div>
+        <div class="filter-group">
+          <label for="filter-score">最低站内评分</label>
+          <input id="filter-score" type="range" min="0" max="95" step="5" value="0">
+          <div class="range-output"><span>0</span><strong data-score-output>0+</strong><span>95</span></div>
+        </div>
+      </aside>
+
+      <section aria-label="工具搜索结果">
+        <div class="library-toolbar">
+          <label class="search-field">
+            <span class="visually-hidden">搜索工具名称或简介</span>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+            <input class="input" id="library-search" type="search" placeholder="搜索名称、简介、功能或分类…" autocomplete="off">
+            <kbd class="search-shortcut">/</kbd>
+          </label>
+          <button class="button filter-toggle" type="button" data-filter-toggle aria-expanded="false">筛选</button>
+          <select class="select toolbar-select" id="sort-tools" aria-label="工具排序">
+            <option value="heat">按热度排序</option><option value="latest">按最新排序</option><option value="stars">按 Star 排序</option><option value="recommendation">按推荐指数排序</option>
+          </select>
+          <div class="view-switcher" aria-label="视图切换">
+            <button class="view-button" type="button" data-view="grid" aria-label="网格视图" aria-pressed="true">▦</button>
+            <button class="view-button" type="button" data-view="list" aria-label="紧凑列表视图" aria-pressed="false">☷</button>
+          </div>
+        </div>
+        <div class="result-meta"><span data-result-count>正在读取工具…</span><span>按 / 快速搜索，Esc 清空</span></div>
+        <div class="active-filters" id="active-filters" hidden></div>
+        <div id="library-grid" aria-live="polite"></div>
+      </section>
+    </div>
+  </main>
+  <div id="site-footer"></div>
+  <div id="site-overlays"></div>
+  <script type="module" src="assets/js/tools-page.js"></script>
+</body>
+</html>

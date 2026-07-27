@@ -3,137 +3,165 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="每天从 GitHub Trending、Product Hunt 和 Hugging Face 中发现 5 个值得关注的 AI 工具。">
-  <meta name="theme-color" content="#f4f1e8">
-  <title>每日 AI 工具发现</title>
-  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='30' fill='%231f5c45'/%3E%3Cpath d='M32 13l4 15 15 4-15 4-4 15-4-15-15-4 15-4z' fill='%23f4f1e8'/%3E%3C/svg%3E">
-  <link rel="stylesheet" href="assets/styles.css">
+  <title>Daily AI Tools｜每日发现 5 个值得使用的 AI 工具</title>
+  <meta name="description" content="从 GitHub、Product Hunt 和 Hugging Face 中筛选真正值得关注的 AI 工具，每天自动更新。">
+  <meta name="theme-color" content="#0b0d10">
+  <link rel="canonical" href="https://wuc093855-coder.github.io/daily-ai-tool-discovery/">
+  <link rel="icon" href="assets/icons/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="alternate" type="application/rss+xml" title="Daily AI Tools RSS" href="feed.xml">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="zh_CN">
+  <meta property="og:site_name" content="Daily AI Tools">
+  <meta property="og:title" content="Daily AI Tools｜每日发现 5 个值得使用的 AI 工具">
+  <meta property="og:description" content="从 GitHub、Product Hunt 和 Hugging Face 中筛选真正值得关注的 AI 工具，每天自动更新。">
+  <meta property="og:url" content="https://wuc093855-coder.github.io/daily-ai-tool-discovery/">
+  <meta property="og:image" content="https://wuc093855-coder.github.io/daily-ai-tool-discovery/assets/images/og-card.svg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Daily AI Tools｜每日发现 5 个值得使用的 AI 工具">
+  <meta name="twitter:description" content="从 GitHub、Product Hunt 和 Hugging Face 中筛选真正值得关注的 AI 工具，每天自动更新。">
+  <meta name="twitter:image" content="https://wuc093855-coder.github.io/daily-ai-tool-discovery/assets/images/og-card.svg">
+  <script>
+    (() => {
+      try {
+        const saved = JSON.parse(localStorage.getItem("daily-ai-tools:theme"));
+        const dark = matchMedia("(prefers-color-scheme: dark)").matches;
+        document.documentElement.dataset.theme = saved || (dark ? "dark" : "light");
+      } catch { document.documentElement.dataset.theme = "light"; }
+    })();
+  </script>
+  <link rel="stylesheet" href="assets/css/variables.css">
+  <link rel="stylesheet" href="assets/css/base.css">
+  <link rel="stylesheet" href="assets/css/components.css">
+  <link rel="stylesheet" href="assets/css/responsive.css">
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Daily AI Tools",
+      "alternateName": "每日 AI 工具发现",
+      "url": "https://wuc093855-coder.github.io/daily-ai-tool-discovery/",
+      "description": "每天从 GitHub、Product Hunt 和 Hugging Face 中筛选真正值得关注的 AI 工具。",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://wuc093855-coder.github.io/daily-ai-tool-discovery/tools.html?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+  </script>
 </head>
-<body>
-  <div class="page-shell">
-    <header class="hero">
-      <nav class="nav">
-        <a class="brand" href="#" aria-label="返回顶部">
-          <span class="brand-mark" aria-hidden="true">✦</span>
-          <span>DAILY AI<span class="brand-cn">每日发现</span></span>
-        </a>
-        <div class="nav-actions">
-          <div class="nav-meta">
-            <span class="live-dot" aria-hidden="true"></span>
-            每天 08:30 更新
-          </div>
-          <a
-            class="github-cta"
-            href="https://github.com/wuc093855-coder/daily-ai-tool-discovery"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="一键打开每日 AI 工具发现的 GitHub 仓库"
-          >
-            <svg viewBox="0 0 24 24" aria-hidden="true">
-              <path d="M12 .7a11.5 11.5 0 0 0-3.64 22.4c.58.1.79-.25.79-.56v-2.23c-3.22.7-3.9-1.37-3.9-1.37-.52-1.34-1.28-1.7-1.28-1.7-1.05-.72.08-.7.08-.7 1.16.08 1.77 1.18 1.77 1.18 1.03 1.77 2.7 1.26 3.36.96.1-.75.4-1.26.73-1.55-2.57-.3-5.27-1.29-5.27-5.69 0-1.26.45-2.28 1.19-3.09-.12-.29-.52-1.47.11-3.05 0 0 .97-.31 3.16 1.18a10.9 10.9 0 0 1 5.76 0c2.2-1.49 3.16-1.18 3.16-1.18.63 1.58.23 2.76.11 3.05.74.81 1.19 1.83 1.19 3.09 0 4.41-2.71 5.39-5.29 5.68.42.36.79 1.06.79 2.14v3.18c0 .31.21.67.8.56A11.5 11.5 0 0 0 12 .7Z"/>
-            </svg>
-            GitHub 仓库
-            <span aria-hidden="true">↗</span>
-          </a>
-        </div>
-      </nav>
+<body id="top" data-page="home">
+  <a class="skip-link" href="#main">跳到主要内容</a>
+  <div id="site-header"></div>
 
-      <div class="hero-grid">
+  <main id="main" class="page-main">
+    <section class="hero">
+      <div class="container hero-grid">
         <div>
-          <p class="eyebrow">NO HYPE · JUST USEFUL TOOLS</p>
-          <h1>每天五个<br><em>值得关注</em>的 AI 工具</h1>
-          <p class="hero-copy">替你逛完 GitHub Trending、Product Hunt 和 Hugging Face，只留下真正值得花时间了解的新工具。</p>
+          <span class="eyebrow">Curated daily · 08:30 CST</span>
+          <h1>每天发现 5 个<br><span>真正值得用</span>的 AI 工具</h1>
+          <p class="hero-description">从 GitHub、Product Hunt 和 Hugging Face 中筛选，替你过滤噪音，只留下值得关注的新工具。</p>
+          <div class="hero-actions">
+            <a class="button button--primary" href="#today">查看今日精选 →</a>
+            <a class="button" href="tools.html">浏览全部工具</a>
+          </div>
+          <div class="hero-stats" aria-label="平台数据">
+            <div class="hero-stat"><strong data-stat="today">5</strong><span>今日精选</span></div>
+            <div class="hero-stat"><strong data-stat="total">5</strong><span>已收录工具</span></div>
+            <div class="hero-stat"><strong data-stat="days">1</strong><span>连续更新天数</span></div>
+            <div class="hero-stat"><strong data-stat="sources">3</strong><span>数据来源</span></div>
+            <div class="hero-stat"><strong data-stat="updated">读取中</strong><span>最后更新时间</span></div>
+          </div>
         </div>
-        <div class="hero-orbit" aria-hidden="true">
-          <div class="orbit orbit-one"></div>
-          <div class="orbit orbit-two"></div>
-          <div class="orbit-center">5<span>/ DAY</span></div>
-          <span class="orbit-label label-a">GITHUB</span>
-          <span class="orbit-label label-b">PRODUCT HUNT</span>
-          <span class="orbit-label label-c">HUGGING FACE</span>
+        <aside class="scan-panel" aria-label="今日扫描数据">
+          <div class="scan-panel-header"><strong>今日数据面板</strong><span class="status-live">LIVE</span></div>
+          <div class="scan-grid">
+            <div class="scan-metric"><span>扫描项目</span><strong data-stat="scanned">—</strong></div>
+            <div class="scan-metric"><span>筛选后</span><strong data-stat="selected">5</strong></div>
+            <div class="scan-metric"><span>最高评分</span><strong data-stat="highest">—</strong></div>
+            <div class="scan-metric"><span>更新时间</span><strong data-scan-time style="font-size:13px">读取中</strong></div>
+          </div>
+          <div class="data-health"><span class="status-live"></span><span data-data-health>正在校验数据状态</span></div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section" id="today">
+      <div class="container">
+        <div class="section-heading">
+          <div>
+            <span class="eyebrow">Today’s selection</span>
+            <h2>今日精选</h2>
+            <p data-today-subtitle>正在读取今天的精选工具…</p>
+          </div>
+          <a class="button" href="tools.html">进入工具库 →</a>
+        </div>
+        <div id="today-grid" aria-live="polite" aria-busy="true"></div>
+        <!-- LATEST_TOOLS_START -->
+        <noscript>
+          <section class="panel" aria-label="今日工具静态列表">
+            <h3>2026-07-27 精选工具</h3>
+            <ol>
+              <li><a href="https://github.com/alibaba/open-code-review">open-code-review</a> — open-code-review 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。</li>
+              <li><a href="https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev">KAT-Coder-V2.5-Dev</a> — KAT-Coder-V2.5-Dev 是一款聚焦于AI 智能体与任务执行的AI 模型，适合用来提升产出效率或快速验证想法。</li>
+              <li><a href="https://huggingface.co/fdtn-ai/antares-1b">antares-1b</a> — antares-1b 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。</li>
+              <li><a href="https://github.com/moeru-ai/airi">airi</a> — airi 是一款聚焦于AI 音频、语音与音乐处理的开源项目，适合用来提升产出效率或快速验证想法。</li>
+              <li><a href="https://www.producthunt.com/products/grok">Grok 4.5</a> — Grok 4.5 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。</li>
+            </ol>
+          </section>
+        </noscript>
+        <!-- LATEST_TOOLS_END -->
+      </div>
+    </section>
+
+    <section class="section section--compact" id="categories">
+      <div class="container">
+        <div class="section-heading">
+          <div><span class="eyebrow">Explore by category</span><h2>按场景发现工具</h2><p>从任务出发，快速进入你真正关心的 AI 工具类型。</p></div>
+        </div>
+        <div class="category-grid" id="category-grid"></div>
+      </div>
+    </section>
+
+    <section class="section" id="trends" hidden>
+      <div class="container">
+        <div class="section-heading">
+          <div><span class="eyebrow">Weekly signals</span><h2>本周趋势</h2><p>仅在积累足够历史数据后展示，不用虚构数字填充图表。</p></div>
+        </div>
+        <div class="trend-panel">
+          <article class="panel"><div class="panel-title"><h3>站内综合评分领先</h3><span class="muted">最近 7 天</span></div><div class="bar-chart" id="trend-bars"></div></article>
+          <article class="panel"><div class="panel-title"><h3>来源占比</h3></div><div class="donut-wrap" id="source-donut"></div></article>
         </div>
       </div>
+    </section>
 
-      <div class="source-strip" aria-label="数据来源">
-        <span>每日扫描</span>
-        <strong>GitHub Trending</strong>
-        <i>×</i>
-        <strong>Product Hunt</strong>
-        <i>×</i>
-        <strong>Hugging Face</strong>
+    <section class="section" id="recent">
+      <div class="container">
+        <div class="section-heading">
+          <div><span class="eyebrow">Recent editions</span><h2>最近更新</h2><p>按日期查看每日筛选结果，历史数据将持续保留至少 90 天。</p></div>
+        </div>
+        <div class="timeline" id="recent-timeline"></div>
       </div>
-    </header>
+    </section>
 
-    <main>
-      <section class="edition-bar" aria-labelledby="edition-heading">
-        <div>
-          <p class="section-kicker">TODAY'S EDITION</p>
-          <h2 id="edition-heading">今日精选</h2>
+    <section class="section">
+      <div class="container">
+        <div class="section-heading">
+          <div><span class="eyebrow">How it works</span><h2>筛选，不是搬运</h2><p>评分用于帮助发现，不代表绝对客观；最终判断仍应回到原项目和真实使用场景。</p></div>
+          <a class="button" href="about.html">了解评分方法</a>
         </div>
-        <div class="date-control">
-          <label for="date-select">浏览往期</label>
-          <select id="date-select" aria-label="选择日期"></select>
+        <div class="process-grid">
+          <article class="process-step"><span class="process-number">01 / SCAN</span><h3>扫描多个平台</h3><p>每日读取 GitHub Trending、Product Hunt Feed 和 Hugging Face Hub。</p></article>
+          <article class="process-step"><span class="process-number">02 / CLEAN</span><h3>清洗与去重</h3><p>移除低相关项目，并通过官方 URL、仓库地址和名称规范化避免重复。</p></article>
+          <article class="process-step"><span class="process-number">03 / SCORE</span><h3>多维评分</h3><p>结合实用性、热度、新鲜度、产品完整度和商业价值进行同日比较。</p></article>
+          <article class="process-step"><span class="process-number">04 / PUBLISH</span><h3>中文摘要发布</h3><p>提炼用途、人群、费用、开源情况和商业潜力，自动生成网页与 RSS。</p></article>
         </div>
-      </section>
-
-      <div id="status" class="status" role="status">正在装载今天的发现…</div>
-      <section id="tool-list" class="tool-list" aria-live="polite"></section>
-
-      <section class="method">
-        <div>
-          <p class="section-kicker">HOW IT WORKS</p>
-          <h2>不是列表搬运，<br>是每天一次认真筛选。</h2>
-        </div>
-        <ol>
-          <li><span>01</span><div><strong>跨平台采集</strong><p>扫描三个平台的趋势、新鲜度和社区反馈。</p></div></li>
-          <li><span>02</span><div><strong>综合评分</strong><p>结合 AI 相关性、热度、时效和变现潜力排序。</p></div></li>
-          <li><span>03</span><div><strong>中文精读</strong><p>提炼功能、费用、适用人群和副业思路。</p></div></li>
-        </ol>
-      </section>
-    </main>
-
-    <footer>
-      <p>每日 AI 工具发现 <span>·</span> 公开数据自动整理，仅供发现与研究</p>
-      <a href="https://github.com/wuc093855-coder/daily-ai-tool-discovery">查看项目源码 ↗</a>
-    </footer>
-  </div>
-
-  <template id="tool-template">
-    <article class="tool-card">
-      <div class="rank"></div>
-      <div class="tool-body">
-        <div class="tool-topline">
-          <div class="badges">
-            <span class="source-badge"></span>
-            <span class="category-badge"></span>
-          </div>
-          <span class="score"></span>
-        </div>
-        <h3></h3>
-        <p class="one-liner"></p>
-        <div class="detail-grid">
-          <div class="detail feature-detail">
-            <span class="detail-icon">⌁</span>
-            <div><h4>主要功能</h4><ul></ul></div>
-          </div>
-          <div class="detail">
-            <span class="detail-icon">¥</span>
-            <div><h4>费用与开源</h4><p class="pricing"></p></div>
-          </div>
-          <div class="detail">
-            <span class="detail-icon">◎</span>
-            <div><h4>适合人群</h4><p class="best-for"></p></div>
-          </div>
-          <div class="detail hustle-detail">
-            <span class="detail-icon">↗</span>
-            <div><h4>副业潜力</h4><p class="side-hustle"></p></div>
-          </div>
-        </div>
-        <a class="project-link" target="_blank" rel="noopener noreferrer">查看原始项目 <span>↗</span></a>
       </div>
-    </article>
-  </template>
+    </section>
+  </main>
 
-  <script src="assets/app.js" defer></script>
+  <div id="site-footer"></div>
+  <div id="site-overlays"></div>
+  <script type="module" src="assets/js/home.js"></script>
 </body>
 </html>
