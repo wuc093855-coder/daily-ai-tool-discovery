@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="每天从 GitHub Trending、Product Hunt 和 Hugging Face 中发现 5 个值得关注的 AI 工具。">
+  <meta name="theme-color" content="#f4f1e8">
+  <title>每日 AI 工具发现</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='30' fill='%231f5c45'/%3E%3Cpath d='M32 13l4 15 15 4-15 4-4 15-4-15-15-4 15-4z' fill='%23f4f1e8'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <nav class="nav">
+        <a class="brand" href="#" aria-label="返回顶部">
+          <span class="brand-mark" aria-hidden="true">✦</span>
+          <span>DAILY AI<span class="brand-cn">每日发现</span></span>
+        </a>
+        <div class="nav-meta">
+          <span class="live-dot" aria-hidden="true"></span>
+          每天 08:30 更新
+        </div>
+      </nav>
+
+      <div class="hero-grid">
+        <div>
+          <p class="eyebrow">NO HYPE · JUST USEFUL TOOLS</p>
+          <h1>每天五个<br><em>值得关注</em>的 AI 工具</h1>
+          <p class="hero-copy">替你逛完 GitHub Trending、Product Hunt 和 Hugging Face，只留下真正值得花时间了解的新工具。</p>
+        </div>
+        <div class="hero-orbit" aria-hidden="true">
+          <div class="orbit orbit-one"></div>
+          <div class="orbit orbit-two"></div>
+          <div class="orbit-center">5<span>/ DAY</span></div>
+          <span class="orbit-label label-a">GITHUB</span>
+          <span class="orbit-label label-b">PRODUCT HUNT</span>
+          <span class="orbit-label label-c">HUGGING FACE</span>
+        </div>
+      </div>
+
+      <div class="source-strip" aria-label="数据来源">
+        <span>每日扫描</span>
+        <strong>GitHub Trending</strong>
+        <i>×</i>
+        <strong>Product Hunt</strong>
+        <i>×</i>
+        <strong>Hugging Face</strong>
+      </div>
+    </header>
+
+    <main>
+      <section class="edition-bar" aria-labelledby="edition-heading">
+        <div>
+          <p class="section-kicker">TODAY'S EDITION</p>
+          <h2 id="edition-heading">今日精选</h2>
+        </div>
+        <div class="date-control">
+          <label for="date-select">浏览往期</label>
+          <select id="date-select" aria-label="选择日期"></select>
+        </div>
+      </section>
+
+      <div id="status" class="status" role="status">正在装载今天的发现…</div>
+      <section id="tool-list" class="tool-list" aria-live="polite"></section>
+
+      <section class="method">
+        <div>
+          <p class="section-kicker">HOW IT WORKS</p>
+          <h2>不是列表搬运，<br>是每天一次认真筛选。</h2>
+        </div>
+        <ol>
+          <li><span>01</span><div><strong>跨平台采集</strong><p>扫描三个平台的趋势、新鲜度和社区反馈。</p></div></li>
+          <li><span>02</span><div><strong>综合评分</strong><p>结合 AI 相关性、热度、时效和变现潜力排序。</p></div></li>
+          <li><span>03</span><div><strong>中文精读</strong><p>提炼功能、费用、适用人群和副业思路。</p></div></li>
+        </ol>
+      </section>
+    </main>
+
+    <footer>
+      <p>每日 AI 工具发现 <span>·</span> 公开数据自动整理，仅供发现与研究</p>
+      <a href="https://github.com/wuc093855-coder/daily-ai-tool-discovery">查看项目源码 ↗</a>
+    </footer>
+  </div>
+
+  <template id="tool-template">
+    <article class="tool-card">
+      <div class="rank"></div>
+      <div class="tool-body">
+        <div class="tool-topline">
+          <div class="badges">
+            <span class="source-badge"></span>
+            <span class="category-badge"></span>
+          </div>
+          <span class="score"></span>
+        </div>
+        <h3></h3>
+        <p class="one-liner"></p>
+        <div class="detail-grid">
+          <div class="detail feature-detail">
+            <span class="detail-icon">⌁</span>
+            <div><h4>主要功能</h4><ul></ul></div>
+          </div>
+          <div class="detail">
+            <span class="detail-icon">¥</span>
+            <div><h4>费用与开源</h4><p class="pricing"></p></div>
+          </div>
+          <div class="detail">
+            <span class="detail-icon">◎</span>
+            <div><h4>适合人群</h4><p class="best-for"></p></div>
+          </div>
+          <div class="detail hustle-detail">
+            <span class="detail-icon">↗</span>
+            <div><h4>副业潜力</h4><p class="side-hustle"></p></div>
+          </div>
+        </div>
+        <a class="project-link" target="_blank" rel="noopener noreferrer">查看原始项目 <span>↗</span></a>
+      </div>
+    </article>
+  </template>
+
+  <script src="assets/app.js" defer></script>
+</body>
+</html>

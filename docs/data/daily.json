@@ -1,0 +1,159 @@
+{
+  "site": {
+    "title": "每日 AI 工具发现",
+    "timezone": "Asia/Shanghai",
+    "update_time": "08:30"
+  },
+  "updated_at": "2026-07-27T16:49:11+08:00",
+  "days": [
+    {
+      "date": "2026-07-27",
+      "display_date": "2026年07月27日",
+      "weekday": "星期一",
+      "tools": [
+        {
+          "rank": 1,
+          "name": "Kwaipilot/KAT-Coder-V2.5-Dev",
+          "category": "编程开发",
+          "one_liner": "KAT-Coder-V2.5-Dev 是一款聚焦于AI 编程与开发提效的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "main_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "pricing": "开源可用；具体许可证、托管与模型调用成本请查看原项目说明。",
+          "best_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "side_hustle": "可以。可用于更快交付网站、自动化脚本或客户定制开发服务；商用前请确认许可证、隐私和平台条款。",
+          "side_hustle_potential": true,
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "url": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
+          "original_description": "transformers safetensors qwen3_5_moe image-text-to-text code agent agentic-coding moe",
+          "attention_score": 85.8,
+          "metrics": {
+            "likes": 208,
+            "downloads": 3764,
+            "trending_score": 207.0,
+            "kind": "model"
+          },
+          "published_at": "2026-07-23T09:54:08.000Z"
+        },
+        {
+          "rank": 2,
+          "name": "baidu/Unlimited-OCR",
+          "category": "编程开发",
+          "one_liner": "Unlimited-OCR 是一款聚焦于AI 编程与开发提效的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "main_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "pricing": "开源可用；具体许可证、托管与模型调用成本请查看原项目说明。",
+          "best_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "side_hustle": "可以。可用于更快交付网站、自动化脚本或客户定制开发服务；商用前请确认许可证、隐私和平台条款。",
+          "side_hustle_potential": true,
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "url": "https://huggingface.co/baidu/Unlimited-OCR",
+          "original_description": "transformers safetensors unlimited-ocr feature-extraction baidu vision-language ocr custom_code",
+          "attention_score": 83.4,
+          "metrics": {
+            "likes": 3252,
+            "downloads": 2645773,
+            "trending_score": 843.0,
+            "kind": "model"
+          },
+          "published_at": "2026-06-19T09:40:33.000Z"
+        },
+        {
+          "rank": 3,
+          "name": "citrolabs/ego-lite",
+          "category": "编程开发",
+          "one_liner": "ego-lite 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。",
+          "main_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "pricing": "开源可用；具体许可证、托管与模型调用成本请查看原项目说明。",
+          "best_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "side_hustle": "可以。可用于更快交付网站、自动化脚本或客户定制开发服务；商用前请确认许可证、隐私和平台条款。",
+          "side_hustle_potential": true,
+          "source": "GitHub Trending",
+          "source_key": "github",
+          "url": "https://github.com/citrolabs/ego-lite",
+          "original_description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+          "attention_score": 79.0,
+          "metrics": {
+            "stars": 16,
+            "stars_today": 900,
+            "language": "JavaScript"
+          },
+          "published_at": ""
+        },
+        {
+          "rank": 4,
+          "name": "alibaba/open-code-review",
+          "category": "编程开发",
+          "one_liner": "open-code-review 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。",
+          "main_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "pricing": "开源可用；具体许可证、托管与模型调用成本请查看原项目说明。",
+          "best_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "side_hustle": "可以。可用于更快交付网站、自动化脚本或客户定制开发服务；商用前请确认许可证、隐私和平台条款。",
+          "side_hustle_potential": true,
+          "source": "GitHub Trending",
+          "source_key": "github",
+          "url": "https://github.com/alibaba/open-code-review",
+          "original_description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "attention_score": 74.6,
+          "metrics": {
+            "stars": 16,
+            "stars_today": 832,
+            "language": "Go"
+          },
+          "published_at": ""
+        },
+        {
+          "rank": 5,
+          "name": "HeyZoku",
+          "category": "编程开发",
+          "one_liner": "HeyZoku 是一款聚焦于AI 编程与开发提效的AI 产品，适合用来提升产出效率或快速验证想法。",
+          "main_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "pricing": "是否免费需查看官网当前定价；新产品通常可能提供试用或基础额度。",
+          "best_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "side_hustle": "可以。可用于更快交付网站、自动化脚本或客户定制开发服务；商用前请确认许可证、隐私和平台条款。",
+          "side_hustle_potential": true,
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "url": "https://www.producthunt.com/products/heyzoku",
+          "original_description": "Orchestrate an army of coding agents with your voice. Discussion | Link",
+          "attention_score": 67.5,
+          "metrics": {},
+          "published_at": "2026-07-27T06:25:42+00:00"
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 7
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 22
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    }
+  ]
+}
