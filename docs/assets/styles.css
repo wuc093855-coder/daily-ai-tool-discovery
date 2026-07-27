@@ -81,6 +81,46 @@ a { color: inherit; }
   font-size: 12px;
 }
 
+.nav-actions {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+.github-cta {
+  display: inline-flex;
+  min-height: 42px;
+  align-items: center;
+  gap: 8px;
+  padding: 0 16px;
+  border: 1px solid var(--ink);
+  border-radius: 999px;
+  color: var(--paper);
+  background: var(--ink);
+  font-size: 12px;
+  font-weight: 700;
+  text-decoration: none;
+  box-shadow: 0 8px 24px rgba(23, 32, 29, 0.12);
+  transition: color 0.2s ease, background 0.2s ease, transform 0.2s ease;
+}
+
+.github-cta svg {
+  width: 17px;
+  height: 17px;
+  fill: currentColor;
+}
+
+.github-cta:hover {
+  color: var(--ink);
+  background: var(--yellow);
+  transform: translateY(-2px);
+}
+
+.github-cta:focus-visible {
+  outline: 3px solid var(--coral);
+  outline-offset: 3px;
+}
+
 .live-dot {
   width: 7px;
   height: 7px;
@@ -427,6 +467,9 @@ footer a { color: var(--green); font-weight: 700; text-decoration: none; }
 @media (max-width: 560px) {
   .page-shell { width: min(100% - 24px, 1180px); }
   .brand-cn, .source-strip > span, .source-strip i { display: none; }
+  .nav-meta { display: none; }
+  .nav-actions { gap: 0; }
+  .github-cta { min-height: 38px; padding: 0 13px; }
   h1 { font-size: 54px; }
   .edition-bar { align-items: flex-start; flex-direction: column; gap: 24px; }
   select { width: 100%; }
