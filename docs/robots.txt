@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wuc093855-coder.github.io/daily-ai-tool-discovery/sitemap.xml

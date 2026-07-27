@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>关于与评分方法｜Daily AI Tools</title>
+  <meta name="description" content="了解 Daily AI Tools 如何采集、清洗、评分并发布每日 AI 工具。">
+  <meta name="theme-color" content="#0b0d10">
+  <link rel="canonical" href="https://wuc093855-coder.github.io/daily-ai-tool-discovery/about.html">
+  <link rel="icon" href="assets/icons/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
+  <script>
+    (() => { try { const t = JSON.parse(localStorage.getItem("daily-ai-tools:theme")); document.documentElement.dataset.theme = t || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"); } catch { document.documentElement.dataset.theme = "light"; } })();
+  </script>
+  <link rel="stylesheet" href="assets/css/variables.css">
+  <link rel="stylesheet" href="assets/css/base.css">
+  <link rel="stylesheet" href="assets/css/components.css">
+  <link rel="stylesheet" href="assets/css/responsive.css">
+</head>
+<body id="top" data-page="about">
+  <a class="skip-link" href="#main">跳到主要内容</a>
+  <div id="site-header"></div>
+  <main id="main" class="page-main">
+    <section class="section">
+      <div class="container about-grid">
+        <div class="about-copy">
+          <span class="eyebrow">About the product</span>
+          <h1>减少噪音，<br>发现真正有用的工具。</h1>
+          <p>Daily AI Tools 每天扫描多个公开平台，先清洗重复与低相关项目，再用统一规则进行同日横向比较。我们关心的不只是热度，也关心工具能否解决真实问题、适合谁，以及是否具备持续价值。</p>
+          <div class="hero-stats">
+            <div class="hero-stat"><strong data-about-tools>—</strong><span>已收录工具</span></div>
+            <div class="hero-stat"><strong data-about-days>—</strong><span>历史天数</span></div>
+            <div class="hero-stat"><strong>3</strong><span>公开数据来源</span></div>
+          </div>
+        </div>
+        <div class="method-card">
+          <span class="eyebrow">Scoring model</span>
+          <h2>站内综合评分</h2>
+          <p class="muted">评分用于同一天候选工具之间的比较，不代表绝对质量，也不构成购买或投资建议。</p>
+          <div class="score-method" id="score-method"></div>
+        </div>
+      </div>
+    </section>
+    <section class="section section--compact">
+      <div class="container">
+        <div class="section-heading"><div><span class="eyebrow">Methodology</span><h2>每日四步工作流</h2></div></div>
+        <div class="process-grid">
+          <article class="process-step"><span class="process-number">01</span><h3>公开来源扫描</h3><p>采集 GitHub Trending、Product Hunt 官方 Feed 与 Hugging Face 公共 Hub API。</p></article>
+          <article class="process-step"><span class="process-number">02</span><h3>相关性与去重</h3><p>使用名称、描述、标签与 URL 判断 AI 相关性，并规范化工具身份。</p></article>
+          <article class="process-step"><span class="process-number">03</span><h3>多维评分</h3><p>综合实用性、热度、新鲜度、产品完整度与商业价值，避免只看单一热度。</p></article>
+          <article class="process-step"><span class="process-number">04</span><h3>中文信息整理</h3><p>生成结构化中文摘要，缺失的价格、许可证和指标保持为空，不虚构。</p></article>
+        </div>
+      </div>
+    </section>
+    <section class="section" id="privacy">
+      <div class="container about-grid">
+        <div>
+          <span class="eyebrow">Privacy</span>
+          <h2>隐私说明</h2>
+          <p class="muted">本站不提供账户系统。主题、筛选条件和收藏仅存储在你的浏览器 localStorage 中，不会上传到服务器。外部链接将打开对应平台，适用其各自隐私政策。</p>
+        </div>
+        <div>
+          <span class="eyebrow">Disclaimer</span>
+          <h2>免责声明</h2>
+          <p class="muted">工具价格、许可证、商用权限、Star 数与功能可能发生变化。正式使用、部署或商业化前，请以原项目页面、许可证文本和官方定价为准。</p>
+        </div>
+      </div>
+    </section>
+  </main>
+  <div id="site-footer"></div>
+  <div id="site-overlays"></div>
+  <script type="module" src="assets/js/about-page.js"></script>
+</body>
+</html>

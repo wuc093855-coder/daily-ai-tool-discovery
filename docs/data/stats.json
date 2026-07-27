@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-27T21:26:37+08:00",
+  "history_sufficient": false,
+  "days": 1,
+  "total_tools": 5,
+  "today_tools": 5,
+  "today_scanned": 122,
+  "category_counts": {
+    "编程开发": 1,
+    "AI Agent": 2,
+    "开源模型": 1,
+    "音频工具": 1
+  },
+  "source_counts": {
+    "GitHub": 2,
+    "Hugging Face": 2,
+    "Product Hunt": 1
+  },
+  "open_source_ratio": 0.75,
+  "free_ratio": null,
+  "top_scored": [
+    {
+      "id": "github-alibaba-open-code-review",
+      "name": "open-code-review",
+      "score": 83.5
+    },
+    {
+      "id": "huggingface-kwaipilot-kat-coder-v2-5-dev",
+      "name": "KAT-Coder-V2.5-Dev",
+      "score": 82.3
+    },
+    {
+      "id": "huggingface-fdtn-ai-antares-1b",
+      "name": "antares-1b",
+      "score": 80.4
+    },
+    {
+      "id": "github-moeru-ai-airi",
+      "name": "airi",
+      "score": 79.2
+    },
+    {
+      "id": "producthunt-grok-4-5",
+      "name": "Grok 4.5",
+      "score": 72.8
+    }
+  ],
+  "top_growth": [
+    {
+      "id": "github-alibaba-open-code-review",
+      "name": "open-code-review",
+      "growth": 980
+    },
+    {
+      "id": "github-moeru-ai-airi",
+      "name": "airi",
+      "growth": 554
+    }
+  ]
+}

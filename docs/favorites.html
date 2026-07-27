@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>我的收藏｜Daily AI Tools</title>
+  <meta name="description" content="查看保存在当前浏览器中的 Daily AI Tools 收藏列表。">
+  <meta name="theme-color" content="#0b0d10">
+  <link rel="canonical" href="https://wuc093855-coder.github.io/daily-ai-tool-discovery/favorites.html">
+  <link rel="icon" href="assets/icons/favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
+  <script>
+    (() => { try { const t = JSON.parse(localStorage.getItem("daily-ai-tools:theme")); document.documentElement.dataset.theme = t || (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"); } catch { document.documentElement.dataset.theme = "light"; } })();
+  </script>
+  <link rel="stylesheet" href="assets/css/variables.css">
+  <link rel="stylesheet" href="assets/css/base.css">
+  <link rel="stylesheet" href="assets/css/components.css">
+  <link rel="stylesheet" href="assets/css/responsive.css">
+</head>
+<body id="top" data-page="favorites">
+  <a class="skip-link" href="#main">跳到主要内容</a>
+  <div id="site-header"></div>
+  <main id="main" class="page-main">
+    <header class="library-header">
+      <div class="container">
+        <span class="eyebrow">Saved locally</span>
+        <h1>我的收藏 <span class="favorite-header-count" data-favorite-count>0</span></h1>
+        <p>无需登录，收藏只保存在当前浏览器，不会上传任何个人数据。</p>
+      </div>
+    </header>
+    <section class="container section--compact">
+      <div class="section-heading">
+        <div><h2>收藏列表</h2><p>随时取消收藏，或一次清空当前浏览器的收藏记录。</p></div>
+        <button class="button" type="button" data-clear-favorites hidden>清空收藏</button>
+      </div>
+      <div id="favorites-grid" aria-live="polite"></div>
+    </section>
+  </main>
+  <div id="site-footer"></div>
+  <div id="site-overlays"></div>
+  <script type="module" src="assets/js/favorites-page.js"></script>
+</body>
+</html>

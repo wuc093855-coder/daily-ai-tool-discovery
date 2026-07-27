@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0b0d10"/>
+  <circle cx="1050" cy="20" r="430" fill="#5965f2" opacity=".12"/>
+  <circle cx="1060" cy="70" r="280" fill="#55c8d3" opacity=".08"/>
+  <rect x="72" y="70" width="54" height="54" rx="15" fill="#11141a" stroke="#343c49"/>
+  <path d="M89 97h20M99 87v20" stroke="#8b93ff" stroke-width="6" stroke-linecap="round" transform="rotate(45 99 97)"/>
+  <text x="146" y="105" fill="#f2f4f7" font-family="Arial, sans-serif" font-size="30" font-weight="700">Daily AI Tools</text>
+  <text x="74" y="265" fill="#f2f4f7" font-family="Arial, sans-serif" font-size="72" font-weight="700">每天发现 5 个</text>
+  <text x="74" y="355" fill="#a4aaff" font-family="Arial, sans-serif" font-size="72" font-weight="700">真正值得用的 AI 工具</text>
+  <text x="76" y="438" fill="#a5adba" font-family="Arial, sans-serif" font-size="27">GitHub · Product Hunt · Hugging Face</text>
+  <rect x="74" y="500" width="322" height="52" rx="26" fill="#11141a" stroke="#343c49"/>
+  <text x="106" y="535" fill="#a5adba" font-family="Arial, sans-serif" font-size="20">每日北京时间 08:30 更新</text>
+</svg>

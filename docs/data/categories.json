@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-27T21:26:37+08:00",
+  "categories": [
+    {
+      "name": "AI Agent",
+      "count": 2
+    },
+    {
+      "name": "编程开发",
+      "count": 1
+    },
+    {
+      "name": "图像生成",
+      "count": 0
+    },
+    {
+      "name": "视频生成",
+      "count": 0
+    },
+    {
+      "name": "音频工具",
+      "count": 1
+    },
+    {
+      "name": "写作办公",
+      "count": 0
+    },
+    {
+      "name": "数据分析",
+      "count": 0
+    },
+    {
+      "name": "搜索研究",
+      "count": 0
+    },
+    {
+      "name": "自动化",
+      "count": 0
+    },
+    {
+      "name": "开源模型",
+      "count": 1
+    },
+    {
+      "name": "本地工具",
+      "count": 0
+    },
+    {
+      "name": "商业与营销",
+      "count": 0
+    }
+  ]
+}
