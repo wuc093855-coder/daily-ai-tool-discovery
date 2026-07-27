@@ -135,7 +135,6 @@ export function createToolCard(tool, { featured = false, delay = 0 } = {}) {
   card.dataset.toolId = tool.id;
   card.style.animationDelay = `${Math.min(delay, 240)}ms`;
   const saved = isFavorite(tool.id);
-  const detailLabel = `查看 ${tool.name} 详情`;
   const main = `
     <div class="tool-card-main">
       <div class="tool-card-top">
@@ -152,7 +151,7 @@ export function createToolCard(tool, { featured = false, delay = 0 } = {}) {
       <div class="tag-list">${toolTags(tool)}</div>
       <div class="tool-metrics">${metricMarkup(tool)}</div>
       <div class="tool-card-footer">
-        <button class="button button--ghost" type="button" data-detail-id="${escapeHTML(tool.id)}" aria-label="${escapeHTML(detailLabel)}">
+        <button class="button button--ghost" type="button" data-detail-id="${escapeHTML(tool.id)}" aria-label="查看详情">
           查看详情 ${icon("arrow")}
         </button>
         <div class="card-actions">
