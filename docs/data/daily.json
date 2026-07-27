@@ -4,7 +4,7 @@
     "timezone": "Asia/Shanghai",
     "update_time": "08:30"
   },
-  "updated_at": "2026-07-27T16:49:11+08:00",
+  "updated_at": "2026-07-27T16:59:05+08:00",
   "days": [
     {
       "date": "2026-07-27",
@@ -32,7 +32,7 @@
           "attention_score": 85.8,
           "metrics": {
             "likes": 208,
-            "downloads": 3764,
+            "downloads": 5312,
             "trending_score": 207.0,
             "kind": "model"
           },
@@ -58,9 +58,9 @@
           "original_description": "transformers safetensors unlimited-ocr feature-extraction baidu vision-language ocr custom_code",
           "attention_score": 83.4,
           "metrics": {
-            "likes": 3252,
+            "likes": 3253,
             "downloads": 2645773,
-            "trending_score": 843.0,
+            "trending_score": 840.0,
             "kind": "model"
           },
           "published_at": "2026-06-19T09:40:33.000Z"
