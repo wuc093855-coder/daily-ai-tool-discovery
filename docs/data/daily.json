@@ -17,8 +17,385 @@
       "business": 0.1
     }
   },
-  "updated_at": "2026-07-27T21:26:37+08:00",
+  "updated_at": "2026-07-28T11:47:56+08:00",
   "days": [
+    {
+      "date": "2026-07-28",
+      "display_date": "2026年07月28日",
+      "weekday": "星期二",
+      "updated_at": "2026-07-28T11:47:56+08:00",
+      "tools": [
+        {
+          "id": "github-alibaba-open-code-review",
+          "slug": "open-code-review",
+          "name": "open-code-review",
+          "original_name": "alibaba/open-code-review",
+          "tagline_zh": "open-code-review 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "open-code-review 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/alibaba/open-code-review",
+          "official_url": "https://open-codereview.ai",
+          "repo_url": "https://github.com/alibaba/open-code-review",
+          "logo_url": "https://avatars.githubusercontent.com/u/1961952?v=4",
+          "category": "编程开发",
+          "tags": [
+            "编程开发",
+            "Go"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "Apache-2.0",
+          "stars": 15008,
+          "star_growth": 979,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-07-27",
+          "updated_at": "2026-07-28T03:46:53Z",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 83.5,
+          "score_heat": 98.8,
+          "score_freshness": 78,
+          "score_usefulness": 87,
+          "score_product": 83,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-07-27",
+              "score": 83.5
+            },
+            {
+              "date": "2026-07-28",
+              "score": 83.5
+            }
+          ],
+          "rank": 1,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-kwaipilot-kat-coder-v2-5-dev",
+          "slug": "kat-coder-v2-5-dev",
+          "name": "KAT-Coder-V2.5-Dev",
+          "original_name": "Kwaipilot/KAT-Coder-V2.5-Dev",
+          "tagline_zh": "KAT-Coder-V2.5-Dev 是一款聚焦于AI 智能体与任务执行的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "KAT-Coder-V2.5-Dev 是一款聚焦于AI 智能体与任务执行的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors qwen3_5_moe image-text-to-text code agent agentic-coding moe",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
+          "official_url": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent",
+            "transformers",
+            "safetensors",
+            "qwen3_5_moe",
+            "image-text-to-text",
+            "code",
+            "agent",
+            "agentic-coding",
+            "moe",
+            "coding",
+            "text-generation",
+            "conversational"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 246,
+          "trending_score": 245,
+          "published_at": "2026-07-23T09:54:08.000Z",
+          "discovered_at": "2026-07-27",
+          "updated_at": "2026-07-25T09:19:26.000Z",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 82.3,
+          "score_heat": 100,
+          "score_freshness": 77.2,
+          "score_usefulness": 84.1,
+          "score_product": 76.4,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-07-27",
+              "score": 82.3
+            },
+            {
+              "date": "2026-07-28",
+              "score": 82.3
+            }
+          ],
+          "rank": 2,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-microsoft-fara1-5-27b",
+          "slug": "fara1-5-27b",
+          "name": "Fara1.5-27B",
+          "original_name": "microsoft/Fara1.5-27B",
+          "tagline_zh": "Fara1.5-27B 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Fara1.5-27B 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors qwen3_5 image-text-to-text computer-use cua web-agent multimodal",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/microsoft/Fara1.5-27B",
+          "official_url": "https://huggingface.co/microsoft/Fara1.5-27B",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "transformers",
+            "safetensors",
+            "qwen3_5",
+            "image-text-to-text",
+            "computer-use",
+            "cua",
+            "web-agent",
+            "multimodal",
+            "vision-language",
+            "agent",
+            "browser-automation"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 156,
+          "trending_score": 155,
+          "published_at": "2026-07-17T20:09:59.000Z",
+          "discovered_at": "2026-07-28",
+          "updated_at": "2026-07-27T16:07:09.000Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 80.5,
+          "score_heat": 100,
+          "score_freshness": 50.5,
+          "score_usefulness": 93.4,
+          "score_product": 76.9,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-07-28",
+              "score": 80.5
+            }
+          ],
+          "rank": 3,
+          "carried_forward": false
+        },
+        {
+          "id": "github-moeru-ai-airi",
+          "slug": "airi",
+          "name": "airi",
+          "original_name": "moeru-ai/airi",
+          "tagline_zh": "airi 是一款聚焦于AI 音频、语音与音乐处理的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "airi 是一款聚焦于AI 音频、语音与音乐处理的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/moeru-ai/airi",
+          "official_url": "https://airi.moeru.ai/docs/",
+          "repo_url": "https://github.com/moeru-ai/airi",
+          "logo_url": "https://avatars.githubusercontent.com/u/165476306?v=4",
+          "category": "音频工具",
+          "tags": [
+            "音频工具",
+            "TypeScript"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "MIT",
+          "stars": 44172,
+          "star_growth": 572,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-07-27",
+          "updated_at": "2026-07-28T03:47:23Z",
+          "suitable_for": "播客主、视频创作者、配音从业者和内容团队",
+          "core_features": [
+            "处理语音或音频内容",
+            "支持转写、生成或增强场景",
+            "降低音频制作的时间成本"
+          ],
+          "use_cases": [
+            "语音转写与字幕",
+            "配音和音频增强",
+            "播客内容制作"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。提供转写与配音服务；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "提供转写与配音服务",
+            "承接播客后期",
+            "制作音频内容产品"
+          ],
+          "score_total": 79.3,
+          "score_heat": 95.5,
+          "score_freshness": 78,
+          "score_usefulness": 78,
+          "score_product": 83,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-07-27",
+              "score": 79.2
+            },
+            {
+              "date": "2026-07-28",
+              "score": 79.3
+            }
+          ],
+          "rank": 4,
+          "carried_forward": false
+        },
+        {
+          "id": "producthunt-grok-4-5",
+          "slug": "grok-4-5",
+          "name": "Grok 4.5",
+          "original_name": "Grok 4.5",
+          "tagline_zh": "Grok 4.5 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Grok 4.5 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "SpaceXAI's model for coding, agentic tasks & knowledge work Discussion | Link",
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "source_url": "https://www.producthunt.com/products/grok",
+          "official_url": "https://www.producthunt.com/products/grok",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": null,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": null,
+          "trending_score": null,
+          "published_at": "2026-07-26T21:24:53+00:00",
+          "discovered_at": "2026-07-27",
+          "updated_at": "2026-07-28T11:47:56+08:00",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 70.6,
+          "score_heat": 67.4,
+          "score_freshness": 93.9,
+          "score_usefulness": 74.5,
+          "score_product": 54.6,
+          "score_business": 44,
+          "score_history": [
+            {
+              "date": "2026-07-27",
+              "score": 72.8
+            },
+            {
+              "date": "2026-07-28",
+              "score": 70.6
+            }
+          ],
+          "rank": 5,
+          "carried_forward": false
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 5
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 23
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    },
     {
       "date": "2026-07-27",
       "display_date": "2026年07月27日",

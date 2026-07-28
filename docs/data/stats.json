@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-27T21:26:37+08:00",
-  "history_sufficient": false,
-  "days": 1,
-  "total_tools": 5,
+  "generated_at": "2026-07-28T11:47:56+08:00",
+  "history_sufficient": true,
+  "days": 2,
+  "total_tools": 6,
   "today_tools": 5,
-  "today_scanned": 122,
+  "today_scanned": 123,
   "category_counts": {
     "编程开发": 1,
     "AI Agent": 2,
-    "开源模型": 1,
+    "开源模型": 2,
     "音频工具": 1
   },
   "source_counts": {
     "GitHub": 2,
-    "Hugging Face": 2,
+    "Hugging Face": 3,
     "Product Hunt": 1
   },
-  "open_source_ratio": 0.75,
+  "open_source_ratio": 0.8,
   "free_ratio": null,
   "top_scored": [
     {
@@ -31,6 +31,11 @@
       "score": 82.3
     },
     {
+      "id": "huggingface-microsoft-fara1-5-27b",
+      "name": "Fara1.5-27B",
+      "score": 80.5
+    },
+    {
       "id": "huggingface-fdtn-ai-antares-1b",
       "name": "antares-1b",
       "score": 80.4
@@ -38,24 +43,19 @@
     {
       "id": "github-moeru-ai-airi",
       "name": "airi",
-      "score": 79.2
-    },
-    {
-      "id": "producthunt-grok-4-5",
-      "name": "Grok 4.5",
-      "score": 72.8
+      "score": 79.3
     }
   ],
   "top_growth": [
     {
       "id": "github-alibaba-open-code-review",
       "name": "open-code-review",
-      "growth": 980
+      "growth": 979
     },
     {
       "id": "github-moeru-ai-airi",
       "name": "airi",
-      "growth": 554
+      "growth": 572
     }
   ]
 }
