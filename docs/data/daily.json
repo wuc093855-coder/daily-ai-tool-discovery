@@ -17,8 +17,385 @@
       "business": 0.1
     }
   },
-  "updated_at": "2026-07-28T11:47:56+08:00",
+  "updated_at": "2026-07-29T11:51:52+08:00",
   "days": [
+    {
+      "date": "2026-07-29",
+      "display_date": "2026年07月29日",
+      "weekday": "星期三",
+      "updated_at": "2026-07-29T11:51:52+08:00",
+      "tools": [
+        {
+          "id": "huggingface-kwaipilot-kat-coder-v2-5-dev",
+          "slug": "kat-coder-v2-5-dev",
+          "name": "KAT-Coder-V2.5-Dev",
+          "original_name": "Kwaipilot/KAT-Coder-V2.5-Dev",
+          "tagline_zh": "KAT-Coder-V2.5-Dev 是一款聚焦于AI 智能体与任务执行的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "KAT-Coder-V2.5-Dev 是一款聚焦于AI 智能体与任务执行的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors qwen3_5_moe image-text-to-text code agent agentic-coding moe",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
+          "official_url": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent",
+            "transformers",
+            "safetensors",
+            "qwen3_5_moe",
+            "image-text-to-text",
+            "code",
+            "agent",
+            "agentic-coding",
+            "moe",
+            "coding",
+            "text-generation",
+            "conversational"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 290,
+          "trending_score": 287,
+          "published_at": "2026-07-23T09:54:08.000Z",
+          "discovered_at": "2026-07-27",
+          "updated_at": "2026-07-28T04:35:27.000Z",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 82,
+          "score_heat": 100,
+          "score_freshness": 72.4,
+          "score_usefulness": 84.1,
+          "score_product": 76.4,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-07-27",
+              "score": 82.3
+            },
+            {
+              "date": "2026-07-28",
+              "score": 82.3
+            },
+            {
+              "date": "2026-07-29",
+              "score": 82.0
+            }
+          ],
+          "rank": 1,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-unsloth-kimi-k3",
+          "slug": "kimi-k3",
+          "name": "Kimi-K3",
+          "original_name": "unsloth/Kimi-K3",
+          "tagline_zh": "Kimi-K3 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Kimi-K3 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors kimi_k3 feature-extraction compressed-tensors unsloth conversational image-text-to-text",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/unsloth/Kimi-K3",
+          "official_url": "https://huggingface.co/unsloth/Kimi-K3",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "transformers",
+            "safetensors",
+            "kimi_k3",
+            "feature-extraction",
+            "compressed-tensors",
+            "unsloth",
+            "conversational",
+            "image-text-to-text",
+            "custom_code",
+            "base_model:moonshotai/Kimi-K3",
+            "base_model:quantized:moonshotai/Kimi-K3"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 149,
+          "trending_score": 148,
+          "published_at": "2026-07-27T15:17:00.000Z",
+          "discovered_at": "2026-07-29",
+          "updated_at": "2026-07-28T06:38:35.000Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 80.8,
+          "score_heat": 100,
+          "score_freshness": 92.7,
+          "score_usefulness": 68,
+          "score_product": 79.4,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-07-29",
+              "score": 80.8
+            }
+          ],
+          "rank": 2,
+          "carried_forward": false
+        },
+        {
+          "id": "github-moeru-ai-airi",
+          "slug": "airi",
+          "name": "airi",
+          "original_name": "moeru-ai/airi",
+          "tagline_zh": "airi 是一款聚焦于AI 音频、语音与音乐处理的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "airi 是一款聚焦于AI 音频、语音与音乐处理的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/moeru-ai/airi",
+          "official_url": "https://airi.moeru.ai/docs/",
+          "repo_url": "https://github.com/moeru-ai/airi",
+          "logo_url": "https://avatars.githubusercontent.com/u/165476306?v=4",
+          "category": "音频工具",
+          "tags": [
+            "音频工具",
+            "TypeScript"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "MIT",
+          "stars": 44879,
+          "star_growth": 797,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-07-27",
+          "updated_at": "2026-07-29T03:51:31Z",
+          "suitable_for": "播客主、视频创作者、配音从业者和内容团队",
+          "core_features": [
+            "处理语音或音频内容",
+            "支持转写、生成或增强场景",
+            "降低音频制作的时间成本"
+          ],
+          "use_cases": [
+            "语音转写与字幕",
+            "配音和音频增强",
+            "播客内容制作"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。提供转写与配音服务；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "提供转写与配音服务",
+            "承接播客后期",
+            "制作音频内容产品"
+          ],
+          "score_total": 79.6,
+          "score_heat": 99.2,
+          "score_freshness": 78,
+          "score_usefulness": 78,
+          "score_product": 83,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-07-27",
+              "score": 79.2
+            },
+            {
+              "date": "2026-07-28",
+              "score": 79.3
+            },
+            {
+              "date": "2026-07-29",
+              "score": 79.6
+            }
+          ],
+          "rank": 3,
+          "carried_forward": false
+        },
+        {
+          "id": "github-affaan-m-ecc",
+          "slug": "ecc",
+          "name": "ECC",
+          "original_name": "affaan-m/ECC",
+          "tagline_zh": "ECC 是一款聚焦于AI 搜索、研究与知识管理的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "ECC 是一款聚焦于AI 搜索、研究与知识管理的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/affaan-m/ECC",
+          "official_url": "https://ecc.tools",
+          "repo_url": "https://github.com/affaan-m/ECC",
+          "logo_url": "https://avatars.githubusercontent.com/u/124439313?v=4",
+          "category": "搜索研究",
+          "tags": [
+            "搜索研究",
+            "JavaScript"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "MIT",
+          "stars": 234949,
+          "star_growth": 636,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-07-29",
+          "updated_at": "2026-07-29T03:51:38Z",
+          "suitable_for": "研究人员、学生、知识工作者和咨询团队",
+          "core_features": [
+            "检索并整理分散信息",
+            "对文档或知识库进行问答",
+            "提高研究与阅读效率"
+          ],
+          "use_cases": [
+            "行业与竞品研究",
+            "私有知识库问答",
+            "长文档快速理解"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。交付研究报告；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "交付研究报告",
+            "搭建企业知识库",
+            "提供资料整理服务"
+          ],
+          "score_total": 75.4,
+          "score_heat": 100,
+          "score_freshness": 78,
+          "score_usefulness": 63.2,
+          "score_product": 74,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-07-29",
+              "score": 75.4
+            }
+          ],
+          "rank": 4,
+          "carried_forward": false
+        },
+        {
+          "id": "producthunt-growth-opt-playbook",
+          "slug": "growth-opt-playbook",
+          "name": "Growth Opt Playbook",
+          "original_name": "Growth Opt Playbook",
+          "tagline_zh": "Growth Opt Playbook 是一款聚焦于AI 商业增长与营销的AI 产品，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Growth Opt Playbook 是一款聚焦于AI 商业增长与营销的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Turn campaign data into your next marketing move Discussion | Link",
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "source_url": "https://www.producthunt.com/products/growth-opt-playbook",
+          "official_url": "https://www.producthunt.com/products/growth-opt-playbook",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "商业与营销",
+          "tags": [
+            "商业与营销"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": null,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": null,
+          "trending_score": null,
+          "published_at": "2026-07-27T13:18:23+00:00",
+          "discovered_at": "2026-07-29",
+          "updated_at": "2026-07-29T11:51:52+08:00",
+          "suitable_for": "创业者、销售、市场团队和电商经营者",
+          "core_features": [
+            "辅助获客、销售或营销执行",
+            "提升内容和触达效率",
+            "支持业务增长实验"
+          ],
+          "use_cases": [
+            "营销内容生成",
+            "销售线索处理",
+            "增长流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。提供营销代运营；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "提供营销代运营",
+            "交付增长自动化",
+            "开发垂直营销工具"
+          ],
+          "score_total": 71,
+          "score_heat": 89.4,
+          "score_freshness": 92.3,
+          "score_usefulness": 55.7,
+          "score_product": 53.3,
+          "score_business": 55,
+          "score_history": [
+            {
+              "date": "2026-07-29",
+              "score": 71.0
+            }
+          ],
+          "rank": 5,
+          "carried_forward": false
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 6
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 25
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    },
     {
       "date": "2026-07-28",
       "display_date": "2026年07月28日",

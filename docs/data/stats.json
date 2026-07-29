@@ -1,23 +1,25 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-28T11:47:56+08:00",
+  "generated_at": "2026-07-29T11:51:52+08:00",
   "history_sufficient": true,
-  "days": 2,
-  "total_tools": 6,
+  "days": 3,
+  "total_tools": 9,
   "today_tools": 5,
-  "today_scanned": 123,
+  "today_scanned": 126,
   "category_counts": {
     "编程开发": 1,
     "AI Agent": 2,
-    "开源模型": 2,
-    "音频工具": 1
+    "开源模型": 3,
+    "音频工具": 1,
+    "搜索研究": 1,
+    "商业与营销": 1
   },
   "source_counts": {
-    "GitHub": 2,
-    "Hugging Face": 3,
-    "Product Hunt": 1
+    "GitHub": 3,
+    "Hugging Face": 4,
+    "Product Hunt": 2
   },
-  "open_source_ratio": 0.8,
+  "open_source_ratio": 0.8571,
   "free_ratio": null,
   "top_scored": [
     {
@@ -28,7 +30,12 @@
     {
       "id": "huggingface-kwaipilot-kat-coder-v2-5-dev",
       "name": "KAT-Coder-V2.5-Dev",
-      "score": 82.3
+      "score": 82
+    },
+    {
+      "id": "huggingface-unsloth-kimi-k3",
+      "name": "Kimi-K3",
+      "score": 80.8
     },
     {
       "id": "huggingface-microsoft-fara1-5-27b",
@@ -39,11 +46,6 @@
       "id": "huggingface-fdtn-ai-antares-1b",
       "name": "antares-1b",
       "score": 80.4
-    },
-    {
-      "id": "github-moeru-ai-airi",
-      "name": "airi",
-      "score": 79.3
     }
   ],
   "top_growth": [
@@ -55,7 +57,12 @@
     {
       "id": "github-moeru-ai-airi",
       "name": "airi",
-      "growth": 572
+      "growth": 797
+    },
+    {
+      "id": "github-affaan-m-ecc",
+      "name": "ECC",
+      "growth": 636
     }
   ]
 }
