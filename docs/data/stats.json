@@ -1,36 +1,31 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-29T11:51:52+08:00",
+  "generated_at": "2026-07-30T11:42:33+08:00",
   "history_sufficient": true,
-  "days": 3,
-  "total_tools": 9,
+  "days": 4,
+  "total_tools": 11,
   "today_tools": 5,
-  "today_scanned": 126,
+  "today_scanned": 127,
   "category_counts": {
     "编程开发": 1,
-    "AI Agent": 2,
-    "开源模型": 3,
+    "AI Agent": 3,
+    "开源模型": 4,
     "音频工具": 1,
     "搜索研究": 1,
     "商业与营销": 1
   },
   "source_counts": {
     "GitHub": 3,
-    "Hugging Face": 4,
-    "Product Hunt": 2
+    "Hugging Face": 5,
+    "Product Hunt": 3
   },
-  "open_source_ratio": 0.8571,
+  "open_source_ratio": 0.875,
   "free_ratio": null,
   "top_scored": [
     {
-      "id": "github-alibaba-open-code-review",
-      "name": "open-code-review",
-      "score": 83.5
-    },
-    {
       "id": "huggingface-kwaipilot-kat-coder-v2-5-dev",
       "name": "KAT-Coder-V2.5-Dev",
-      "score": 82
+      "score": 81
     },
     {
       "id": "huggingface-unsloth-kimi-k3",
@@ -46,23 +41,28 @@
       "id": "huggingface-fdtn-ai-antares-1b",
       "name": "antares-1b",
       "score": 80.4
+    },
+    {
+      "id": "huggingface-unsloth-kimi-k3-gguf",
+      "name": "Kimi-K3-GGUF",
+      "score": 79.8
     }
   ],
   "top_growth": [
     {
-      "id": "github-alibaba-open-code-review",
-      "name": "open-code-review",
-      "growth": 979
-    },
-    {
       "id": "github-moeru-ai-airi",
       "name": "airi",
-      "growth": 797
+      "growth": 682
     },
     {
       "id": "github-affaan-m-ecc",
       "name": "ECC",
       "growth": 636
+    },
+    {
+      "id": "github-alibaba-open-code-review",
+      "name": "open-code-review",
+      "growth": 359
     }
   ]
 }
