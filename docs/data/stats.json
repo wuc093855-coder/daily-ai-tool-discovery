@@ -1,31 +1,32 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-30T11:42:33+08:00",
+  "generated_at": "2026-07-31T12:02:47+08:00",
   "history_sufficient": true,
-  "days": 4,
-  "total_tools": 11,
+  "days": 5,
+  "total_tools": 14,
   "today_tools": 5,
-  "today_scanned": 127,
+  "today_scanned": 128,
   "category_counts": {
     "编程开发": 1,
-    "AI Agent": 3,
+    "AI Agent": 4,
     "开源模型": 4,
-    "音频工具": 1,
+    "音频工具": 2,
     "搜索研究": 1,
-    "商业与营销": 1
+    "商业与营销": 1,
+    "写作办公": 1
   },
   "source_counts": {
-    "GitHub": 3,
-    "Hugging Face": 5,
-    "Product Hunt": 3
+    "GitHub": 4,
+    "Hugging Face": 6,
+    "Product Hunt": 4
   },
-  "open_source_ratio": 0.875,
+  "open_source_ratio": 0.9,
   "free_ratio": null,
   "top_scored": [
     {
-      "id": "huggingface-kwaipilot-kat-coder-v2-5-dev",
-      "name": "KAT-Coder-V2.5-Dev",
-      "score": 81
+      "id": "huggingface-audio8-audio8-tts-preview-0-6b",
+      "name": "Audio8-TTS-Preview-0.6b",
+      "score": 80.9
     },
     {
       "id": "huggingface-unsloth-kimi-k3",
@@ -50,19 +51,24 @@
   ],
   "top_growth": [
     {
+      "id": "github-affaan-m-ecc",
+      "name": "ECC",
+      "growth": 804
+    },
+    {
       "id": "github-moeru-ai-airi",
       "name": "airi",
       "growth": 682
     },
     {
-      "id": "github-affaan-m-ecc",
-      "name": "ECC",
-      "growth": 636
-    },
-    {
       "id": "github-alibaba-open-code-review",
       "name": "open-code-review",
       "growth": 359
+    },
+    {
+      "id": "github-ansible-ansible",
+      "name": "ansible",
+      "growth": 29
     }
   ]
 }
