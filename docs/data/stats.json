@@ -1,32 +1,32 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-31T12:02:47+08:00",
+  "generated_at": "2026-08-01T12:02:39+08:00",
   "history_sufficient": true,
-  "days": 5,
-  "total_tools": 14,
+  "days": 6,
+  "total_tools": 18,
   "today_tools": 5,
-  "today_scanned": 128,
+  "today_scanned": 126,
   "category_counts": {
     "编程开发": 1,
     "AI Agent": 4,
-    "开源模型": 4,
+    "开源模型": 6,
     "音频工具": 2,
-    "搜索研究": 1,
+    "搜索研究": 3,
     "商业与营销": 1,
     "写作办公": 1
   },
   "source_counts": {
-    "GitHub": 4,
-    "Hugging Face": 6,
-    "Product Hunt": 4
+    "GitHub": 6,
+    "Hugging Face": 7,
+    "Product Hunt": 5
   },
-  "open_source_ratio": 0.9,
+  "open_source_ratio": 0.9231,
   "free_ratio": null,
   "top_scored": [
     {
       "id": "huggingface-audio8-audio8-tts-preview-0-6b",
       "name": "Audio8-TTS-Preview-0.6b",
-      "score": 80.9
+      "score": 81.3
     },
     {
       "id": "huggingface-unsloth-kimi-k3",
@@ -44,9 +44,9 @@
       "score": 80.4
     },
     {
-      "id": "huggingface-unsloth-kimi-k3-gguf",
-      "name": "Kimi-K3-GGUF",
-      "score": 79.8
+      "id": "huggingface-deepseek-ai-deepseek-v4-flash-0731",
+      "name": "DeepSeek-V4-Flash-0731",
+      "score": 79.9
     }
   ],
   "top_growth": [
@@ -61,14 +61,19 @@
       "growth": 682
     },
     {
+      "id": "github-mvanhorn-last30days-skill",
+      "name": "last30days-skill",
+      "growth": 658
+    },
+    {
       "id": "github-alibaba-open-code-review",
       "name": "open-code-review",
       "growth": 359
     },
     {
-      "id": "github-ansible-ansible",
-      "name": "ansible",
-      "growth": 29
+      "id": "github-zhaoxuya520-reverse-skill",
+      "name": "reverse-skill",
+      "growth": 335
     }
   ]
 }
