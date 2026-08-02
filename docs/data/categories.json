@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-01T12:02:39+08:00",
+  "generated_at": "2026-08-02T12:05:49+08:00",
   "categories": [
     {
       "name": "AI Agent",
-      "count": 4
+      "count": 6
     },
     {
       "name": "编程开发",
