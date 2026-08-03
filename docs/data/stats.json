@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-02T12:05:49+08:00",
+  "generated_at": "2026-08-03T12:08:32+08:00",
   "history_sufficient": true,
-  "days": 7,
-  "total_tools": 20,
+  "days": 8,
+  "total_tools": 22,
   "today_tools": 5,
-  "today_scanned": 128,
+  "today_scanned": 125,
   "category_counts": {
-    "编程开发": 1,
-    "AI Agent": 6,
+    "编程开发": 2,
+    "AI Agent": 7,
     "开源模型": 6,
     "音频工具": 2,
     "搜索研究": 3,
@@ -17,12 +17,17 @@
   },
   "source_counts": {
     "GitHub": 7,
-    "Hugging Face": 7,
-    "Product Hunt": 6
+    "Hugging Face": 8,
+    "Product Hunt": 7
   },
-  "open_source_ratio": 0.9286,
+  "open_source_ratio": 0.9333,
   "free_ratio": null,
   "top_scored": [
+    {
+      "id": "github-tencentcloud-tencentdb-agent-memory",
+      "name": "TencentDB-Agent-Memory",
+      "score": 81.9
+    },
     {
       "id": "huggingface-unsloth-kimi-k3",
       "name": "Kimi-K3",
@@ -39,11 +44,6 @@
       "score": 80.4
     },
     {
-      "id": "huggingface-audio8-audio8-tts-preview-0-6b",
-      "name": "Audio8-TTS-Preview-0.6b",
-      "score": 80.3
-    },
-    {
       "id": "huggingface-unsloth-kimi-k3-gguf",
       "name": "Kimi-K3-GGUF",
       "score": 79.8
@@ -53,7 +53,7 @@
     {
       "id": "github-zhaoxuya520-reverse-skill",
       "name": "reverse-skill",
-      "growth": 1320
+      "growth": 1141
     },
     {
       "id": "github-affaan-m-ecc",
@@ -71,9 +71,9 @@
       "growth": 658
     },
     {
-      "id": "github-alibaba-open-code-review",
-      "name": "open-code-review",
-      "growth": 359
+      "id": "github-tencentcloud-tencentdb-agent-memory",
+      "name": "TencentDB-Agent-Memory",
+      "growth": 602
     }
   ]
 }
