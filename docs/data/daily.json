@@ -17,8 +17,409 @@
       "business": 0.1
     }
   },
-  "updated_at": "2026-08-03T12:08:32+08:00",
+  "updated_at": "2026-08-04T11:50:05+08:00",
   "days": [
+    {
+      "date": "2026-08-04",
+      "display_date": "2026年08月04日",
+      "weekday": "星期二",
+      "updated_at": "2026-08-04T11:50:05+08:00",
+      "tools": [
+        {
+          "id": "github-tencentcloud-tencentdb-agent-memory",
+          "slug": "tencentdb-agent-memory",
+          "name": "TencentDB-Agent-Memory",
+          "original_name": "TencentCloud/TencentDB-Agent-Memory",
+          "tagline_zh": "TencentDB-Agent-Memory 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "TencentDB-Agent-Memory 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "official_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "repo_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "logo_url": "https://avatars.githubusercontent.com/u/20101770?v=4",
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent",
+            "TypeScript"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": 12316,
+          "star_growth": 1090,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-08-02",
+          "updated_at": "2026-08-04T03:49:46Z",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 83.6,
+          "score_heat": 99.5,
+          "score_freshness": 78,
+          "score_usefulness": 86.8,
+          "score_product": 82.7,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-08-02",
+              "score": 79.1
+            },
+            {
+              "date": "2026-08-03",
+              "score": 81.9
+            },
+            {
+              "date": "2026-08-04",
+              "score": 83.6
+            }
+          ],
+          "rank": 1,
+          "carried_forward": false
+        },
+        {
+          "id": "github-zhaoxuya520-reverse-skill",
+          "slug": "reverse-skill",
+          "name": "reverse-skill",
+          "original_name": "zhaoxuya520/reverse-skill",
+          "tagline_zh": "reverse-skill 是一款聚焦于AI 搜索、研究与知识管理的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "reverse-skill 是一款聚焦于AI 搜索、研究与知识管理的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/zhaoxuya520/reverse-skill",
+          "official_url": "https://github.com/zhaoxuya520/reverse-skill",
+          "repo_url": "https://github.com/zhaoxuya520/reverse-skill",
+          "logo_url": "https://avatars.githubusercontent.com/u/147215175?v=4",
+          "category": "搜索研究",
+          "tags": [
+            "搜索研究",
+            "PowerShell"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "MIT",
+          "stars": 16152,
+          "star_growth": 2446,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-08-01",
+          "updated_at": "2026-08-04T03:50:01Z",
+          "suitable_for": "研究人员、学生、知识工作者和咨询团队",
+          "core_features": [
+            "检索并整理分散信息",
+            "对文档或知识库进行问答",
+            "提高研究与阅读效率"
+          ],
+          "use_cases": [
+            "行业与竞品研究",
+            "私有知识库问答",
+            "长文档快速理解"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。交付研究报告；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "交付研究报告",
+            "搭建企业知识库",
+            "提供资料整理服务"
+          ],
+          "score_total": 78.5,
+          "score_heat": 100,
+          "score_freshness": 78,
+          "score_usefulness": 69,
+          "score_product": 83,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-08-01",
+              "score": 75.0
+            },
+            {
+              "date": "2026-08-02",
+              "score": 76.7
+            },
+            {
+              "date": "2026-08-03",
+              "score": 78.1
+            },
+            {
+              "date": "2026-08-04",
+              "score": 78.5
+            }
+          ],
+          "rank": 2,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-audio8-audio8-tts-preview-0-6b",
+          "slug": "audio8-tts-preview-0-6b",
+          "name": "Audio8-TTS-Preview-0.6b",
+          "original_name": "Audio8/Audio8-TTS-Preview-0.6b",
+          "tagline_zh": "Audio8-TTS-Preview-0.6b 是一款聚焦于AI 音频、语音与音乐处理的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Audio8-TTS-Preview-0.6b 是一款聚焦于AI 音频、语音与音乐处理的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors arktts feature-extraction audio text-to-speech tts voice-cloning",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6b",
+          "official_url": "https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6b",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "音频工具",
+          "tags": [
+            "音频工具",
+            "transformers",
+            "safetensors",
+            "arktts",
+            "feature-extraction",
+            "audio",
+            "text-to-speech",
+            "tts",
+            "voice-cloning",
+            "zero-shot",
+            "multilingual",
+            "custom_code"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 216,
+          "trending_score": 196,
+          "published_at": "2026-07-28T07:53:00.000Z",
+          "discovered_at": "2026-07-31",
+          "updated_at": "2026-07-31T12:58:38.000Z",
+          "suitable_for": "播客主、视频创作者、配音从业者和内容团队",
+          "core_features": [
+            "处理语音或音频内容",
+            "支持转写、生成或增强场景",
+            "降低音频制作的时间成本"
+          ],
+          "use_cases": [
+            "语音转写与字幕",
+            "配音和音频增强",
+            "播客内容制作"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。提供转写与配音服务；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "提供转写与配音服务",
+            "承接播客后期",
+            "制作音频内容产品"
+          ],
+          "score_total": 77.3,
+          "score_heat": 100,
+          "score_freshness": 67.2,
+          "score_usefulness": 75.4,
+          "score_product": 76.9,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-07-31",
+              "score": 80.9
+            },
+            {
+              "date": "2026-08-01",
+              "score": 81.3
+            },
+            {
+              "date": "2026-08-02",
+              "score": 80.3
+            },
+            {
+              "date": "2026-08-03",
+              "score": 79.3
+            },
+            {
+              "date": "2026-08-04",
+              "score": 77.3
+            }
+          ],
+          "rank": 3,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-minimaxai-minimax-h3",
+          "slug": "minimax-h3",
+          "name": "MiniMax-H3",
+          "original_name": "MiniMaxAI/MiniMax-H3",
+          "tagline_zh": "MiniMax-H3 是一款聚焦于AI 编程与开发提效的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "MiniMax-H3 是一款聚焦于AI 编程与开发提效的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "diffusers safetensors text-to-video image-to-video image-text-to-video video-to-video text-to-audio-video image-to-audio-video",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "official_url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "编程开发",
+          "tags": [
+            "编程开发",
+            "diffusers",
+            "safetensors",
+            "text-to-video",
+            "image-to-video",
+            "image-text-to-video",
+            "video-to-video",
+            "text-to-audio-video",
+            "image-to-audio-video",
+            "image-text-to-audio-video",
+            "video-to-audio-video",
+            "audio-to-audio-video"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 1537,
+          "trending_score": 1500,
+          "published_at": "2026-07-28T10:45:18.000Z",
+          "discovered_at": "2026-08-03",
+          "updated_at": "2026-08-03T16:05:34.000Z",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 76.1,
+          "score_heat": 100,
+          "score_freshness": 67.8,
+          "score_usefulness": 69,
+          "score_product": 81,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-08-03",
+              "score": 76.9
+            },
+            {
+              "date": "2026-08-04",
+              "score": 76.1
+            }
+          ],
+          "rank": 4,
+          "carried_forward": false
+        },
+        {
+          "id": "producthunt-inventory",
+          "slug": "inventory",
+          "name": "Inventory",
+          "original_name": "Inventory",
+          "tagline_zh": "Inventory 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Inventory 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Search every AI Agent & IDE Conversation Discussion | Link",
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "source_url": "https://www.producthunt.com/products/inventory",
+          "official_url": "https://www.producthunt.com/products/inventory",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": null,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": null,
+          "trending_score": null,
+          "published_at": "2026-08-02T10:51:43+00:00",
+          "discovered_at": "2026-08-04",
+          "updated_at": "2026-08-04T11:50:05+08:00",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 72.8,
+          "score_heat": 91.6,
+          "score_freshness": 91.8,
+          "score_usefulness": 64.1,
+          "score_product": 52.4,
+          "score_business": 44,
+          "score_history": [
+            {
+              "date": "2026-08-04",
+              "score": 72.8
+            }
+          ],
+          "rank": 5,
+          "carried_forward": false
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 12
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 19
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    },
     {
       "date": "2026-08-03",
       "display_date": "2026年08月03日",
