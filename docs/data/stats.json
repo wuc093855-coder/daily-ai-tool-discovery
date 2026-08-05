@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-04T11:50:05+08:00",
+  "generated_at": "2026-08-05T11:45:42+08:00",
   "history_sufficient": true,
-  "days": 9,
-  "total_tools": 23,
+  "days": 10,
+  "total_tools": 24,
   "today_tools": 5,
-  "today_scanned": 126,
+  "today_scanned": 128,
   "category_counts": {
-    "编程开发": 2,
+    "编程开发": 3,
     "AI Agent": 8,
     "开源模型": 6,
     "音频工具": 2,
@@ -18,7 +18,7 @@
   "source_counts": {
     "GitHub": 7,
     "Hugging Face": 8,
-    "Product Hunt": 8
+    "Product Hunt": 9
   },
   "open_source_ratio": 0.9333,
   "free_ratio": null,
@@ -26,7 +26,7 @@
     {
       "id": "github-tencentcloud-tencentdb-agent-memory",
       "name": "TencentDB-Agent-Memory",
-      "score": 83.6
+      "score": 83.7
     },
     {
       "id": "huggingface-unsloth-kimi-k3",
@@ -53,12 +53,12 @@
     {
       "id": "github-zhaoxuya520-reverse-skill",
       "name": "reverse-skill",
-      "growth": 2446
+      "growth": 2297
     },
     {
       "id": "github-tencentcloud-tencentdb-agent-memory",
       "name": "TencentDB-Agent-Memory",
-      "growth": 1090
+      "growth": 1111
     },
     {
       "id": "github-affaan-m-ecc",
