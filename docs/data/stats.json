@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-05T11:45:42+08:00",
+  "generated_at": "2026-08-06T11:51:20+08:00",
   "history_sufficient": true,
-  "days": 10,
-  "total_tools": 24,
+  "days": 11,
+  "total_tools": 27,
   "today_tools": 5,
   "today_scanned": 128,
   "category_counts": {
-    "编程开发": 3,
-    "AI Agent": 8,
+    "编程开发": 5,
+    "AI Agent": 9,
     "开源模型": 6,
     "音频工具": 2,
     "搜索研究": 3,
@@ -16,11 +16,11 @@
     "写作办公": 1
   },
   "source_counts": {
-    "GitHub": 7,
-    "Hugging Face": 8,
-    "Product Hunt": 9
+    "GitHub": 8,
+    "Hugging Face": 9,
+    "Product Hunt": 10
   },
-  "open_source_ratio": 0.9333,
+  "open_source_ratio": 0.9412,
   "free_ratio": null,
   "top_scored": [
     {
@@ -58,7 +58,7 @@
     {
       "id": "github-tencentcloud-tencentdb-agent-memory",
       "name": "TencentDB-Agent-Memory",
-      "growth": 1111
+      "growth": 1892
     },
     {
       "id": "github-affaan-m-ecc",
