@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-06T11:51:20+08:00",
+  "generated_at": "2026-08-07T11:31:39+08:00",
   "history_sufficient": true,
-  "days": 11,
-  "total_tools": 27,
+  "days": 12,
+  "total_tools": 29,
   "today_tools": 5,
-  "today_scanned": 128,
+  "today_scanned": 130,
   "category_counts": {
     "编程开发": 5,
-    "AI Agent": 9,
-    "开源模型": 6,
+    "AI Agent": 10,
+    "开源模型": 7,
     "音频工具": 2,
     "搜索研究": 3,
     "商业与营销": 1,
@@ -17,10 +17,10 @@
   },
   "source_counts": {
     "GitHub": 8,
-    "Hugging Face": 9,
-    "Product Hunt": 10
+    "Hugging Face": 10,
+    "Product Hunt": 11
   },
-  "open_source_ratio": 0.9412,
+  "open_source_ratio": 0.9444,
   "free_ratio": null,
   "top_scored": [
     {
@@ -58,7 +58,12 @@
     {
       "id": "github-tencentcloud-tencentdb-agent-memory",
       "name": "TencentDB-Agent-Memory",
-      "growth": 1892
+      "growth": 1057
+    },
+    {
+      "id": "github-huangruiteng-loopx",
+      "name": "loopx",
+      "growth": 847
     },
     {
       "id": "github-affaan-m-ecc",
@@ -69,11 +74,6 @@
       "id": "github-moeru-ai-airi",
       "name": "airi",
       "growth": 682
-    },
-    {
-      "id": "github-mvanhorn-last30days-skill",
-      "name": "last30days-skill",
-      "growth": 658
     }
   ]
 }
