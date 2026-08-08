@@ -1,26 +1,26 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-07T11:31:39+08:00",
+  "generated_at": "2026-08-08T10:29:17+08:00",
   "history_sufficient": true,
-  "days": 12,
-  "total_tools": 29,
+  "days": 13,
+  "total_tools": 33,
   "today_tools": 5,
-  "today_scanned": 130,
+  "today_scanned": 132,
   "category_counts": {
-    "编程开发": 5,
-    "AI Agent": 10,
-    "开源模型": 7,
+    "编程开发": 7,
+    "AI Agent": 11,
+    "开源模型": 8,
     "音频工具": 2,
     "搜索研究": 3,
     "商业与营销": 1,
     "写作办公": 1
   },
   "source_counts": {
-    "GitHub": 8,
-    "Hugging Face": 10,
-    "Product Hunt": 11
+    "GitHub": 10,
+    "Hugging Face": 11,
+    "Product Hunt": 12
   },
-  "open_source_ratio": 0.9444,
+  "open_source_ratio": 0.9524,
   "free_ratio": null,
   "top_scored": [
     {
@@ -56,6 +56,11 @@
       "growth": 2297
     },
     {
+      "id": "github-primeintellect-ai-prime-agent",
+      "name": "prime-agent",
+      "growth": 2293
+    },
+    {
       "id": "github-tencentcloud-tencentdb-agent-memory",
       "name": "TencentDB-Agent-Memory",
       "growth": 1057
@@ -69,11 +74,6 @@
       "id": "github-affaan-m-ecc",
       "name": "ECC",
       "growth": 804
-    },
-    {
-      "id": "github-moeru-ai-airi",
-      "name": "airi",
-      "growth": 682
     }
   ]
 }
