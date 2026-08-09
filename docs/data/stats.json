@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-08T10:29:17+08:00",
+  "generated_at": "2026-08-09T10:36:09+08:00",
   "history_sufficient": true,
-  "days": 13,
-  "total_tools": 33,
+  "days": 14,
+  "total_tools": 36,
   "today_tools": 5,
-  "today_scanned": 132,
+  "today_scanned": 126,
   "category_counts": {
-    "编程开发": 7,
-    "AI Agent": 11,
+    "编程开发": 8,
+    "AI Agent": 13,
     "开源模型": 8,
     "音频工具": 2,
     "搜索研究": 3,
@@ -16,11 +16,11 @@
     "写作办公": 1
   },
   "source_counts": {
-    "GitHub": 10,
-    "Hugging Face": 11,
-    "Product Hunt": 12
+    "GitHub": 11,
+    "Hugging Face": 12,
+    "Product Hunt": 13
   },
-  "open_source_ratio": 0.9524,
+  "open_source_ratio": 0.9565,
   "free_ratio": null,
   "top_scored": [
     {
@@ -51,14 +51,19 @@
   ],
   "top_growth": [
     {
+      "id": "github-primeintellect-ai-prime-agent",
+      "name": "prime-agent",
+      "growth": 2483
+    },
+    {
       "id": "github-zhaoxuya520-reverse-skill",
       "name": "reverse-skill",
       "growth": 2297
     },
     {
-      "id": "github-primeintellect-ai-prime-agent",
-      "name": "prime-agent",
-      "growth": 2293
+      "id": "github-mattpocock-skills",
+      "name": "skills",
+      "growth": 1359
     },
     {
       "id": "github-tencentcloud-tencentdb-agent-memory",
@@ -69,11 +74,6 @@
       "id": "github-huangruiteng-loopx",
       "name": "loopx",
       "growth": 847
-    },
-    {
-      "id": "github-affaan-m-ecc",
-      "name": "ECC",
-      "growth": 804
     }
   ]
 }
