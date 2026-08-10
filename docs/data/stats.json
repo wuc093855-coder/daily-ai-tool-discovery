@@ -1,26 +1,28 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-09T10:36:09+08:00",
+  "generated_at": "2026-08-10T10:41:55+08:00",
   "history_sufficient": true,
-  "days": 14,
-  "total_tools": 36,
+  "days": 15,
+  "total_tools": 39,
   "today_tools": 5,
-  "today_scanned": 126,
+  "today_scanned": 130,
   "category_counts": {
     "编程开发": 8,
-    "AI Agent": 13,
+    "AI Agent": 14,
     "开源模型": 8,
     "音频工具": 2,
     "搜索研究": 3,
     "商业与营销": 1,
-    "写作办公": 1
+    "写作办公": 1,
+    "数据分析": 1,
+    "自动化": 1
   },
   "source_counts": {
-    "GitHub": 11,
+    "GitHub": 13,
     "Hugging Face": 12,
-    "Product Hunt": 13
+    "Product Hunt": 14
   },
-  "open_source_ratio": 0.9565,
+  "open_source_ratio": 0.96,
   "free_ratio": null,
   "top_scored": [
     {
@@ -71,9 +73,9 @@
       "growth": 1057
     },
     {
-      "id": "github-huangruiteng-loopx",
-      "name": "loopx",
-      "growth": 847
+      "id": "github-msitarzewski-agency-agents",
+      "name": "agency-agents",
+      "growth": 858
     }
   ]
 }
