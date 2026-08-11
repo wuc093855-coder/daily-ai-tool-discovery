@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-10T10:41:55+08:00",
+  "generated_at": "2026-08-11T10:36:10+08:00",
   "categories": [
     {
       "name": "AI Agent",
@@ -20,7 +20,7 @@
     },
     {
       "name": "音频工具",
-      "count": 2
+      "count": 3
     },
     {
       "name": "写作办公",
@@ -40,7 +40,7 @@
     },
     {
       "name": "开源模型",
-      "count": 8
+      "count": 10
     },
     {
       "name": "本地工具",

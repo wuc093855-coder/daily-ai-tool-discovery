@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-10T10:41:55+08:00",
+  "generated_at": "2026-08-11T10:36:10+08:00",
   "history_sufficient": true,
-  "days": 15,
-  "total_tools": 39,
+  "days": 16,
+  "total_tools": 42,
   "today_tools": 5,
   "today_scanned": 130,
   "category_counts": {
     "编程开发": 8,
     "AI Agent": 14,
-    "开源模型": 8,
-    "音频工具": 2,
+    "开源模型": 10,
+    "音频工具": 3,
     "搜索研究": 3,
     "商业与营销": 1,
     "写作办公": 1,
@@ -19,10 +19,10 @@
   },
   "source_counts": {
     "GitHub": 13,
-    "Hugging Face": 12,
-    "Product Hunt": 14
+    "Hugging Face": 14,
+    "Product Hunt": 15
   },
-  "open_source_ratio": 0.96,
+  "open_source_ratio": 0.963,
   "free_ratio": null,
   "top_scored": [
     {
@@ -55,7 +55,7 @@
     {
       "id": "github-primeintellect-ai-prime-agent",
       "name": "prime-agent",
-      "growth": 2483
+      "growth": 2642
     },
     {
       "id": "github-zhaoxuya520-reverse-skill",
@@ -68,14 +68,14 @@
       "growth": 1359
     },
     {
+      "id": "github-msitarzewski-agency-agents",
+      "name": "agency-agents",
+      "growth": 1349
+    },
+    {
       "id": "github-tencentcloud-tencentdb-agent-memory",
       "name": "TencentDB-Agent-Memory",
       "growth": 1057
-    },
-    {
-      "id": "github-msitarzewski-agency-agents",
-      "name": "agency-agents",
-      "growth": 858
     }
   ]
 }
