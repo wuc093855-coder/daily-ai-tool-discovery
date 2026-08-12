@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-11T10:36:10+08:00",
+  "generated_at": "2026-08-12T11:05:58+08:00",
   "history_sufficient": true,
-  "days": 16,
-  "total_tools": 42,
+  "days": 17,
+  "total_tools": 46,
   "today_tools": 5,
-  "today_scanned": 130,
+  "today_scanned": 131,
   "category_counts": {
     "编程开发": 8,
-    "AI Agent": 14,
-    "开源模型": 10,
+    "AI Agent": 16,
+    "开源模型": 12,
     "音频工具": 3,
     "搜索研究": 3,
     "商业与营销": 1,
@@ -18,11 +18,11 @@
     "自动化": 1
   },
   "source_counts": {
-    "GitHub": 13,
-    "Hugging Face": 14,
-    "Product Hunt": 15
+    "GitHub": 15,
+    "Hugging Face": 15,
+    "Product Hunt": 16
   },
-  "open_source_ratio": 0.963,
+  "open_source_ratio": 0.9667,
   "free_ratio": null,
   "top_scored": [
     {
@@ -36,6 +36,11 @@
       "score": 80.8
     },
     {
+      "id": "github-calesthio-openmontage",
+      "name": "OpenMontage",
+      "score": 80.6
+    },
+    {
       "id": "huggingface-microsoft-fara1-5-27b",
       "name": "Fara1.5-27B",
       "score": 80.5
@@ -44,11 +49,6 @@
       "id": "huggingface-fdtn-ai-antares-1b",
       "name": "antares-1b",
       "score": 80.4
-    },
-    {
-      "id": "huggingface-unsloth-kimi-k3-gguf",
-      "name": "Kimi-K3-GGUF",
-      "score": 79.8
     }
   ],
   "top_growth": [
