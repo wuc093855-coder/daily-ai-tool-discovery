@@ -1,28 +1,29 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-12T11:05:58+08:00",
+  "generated_at": "2026-08-13T11:09:31+08:00",
   "history_sufficient": true,
-  "days": 17,
-  "total_tools": 46,
+  "days": 18,
+  "total_tools": 50,
   "today_tools": 5,
-  "today_scanned": 131,
+  "today_scanned": 130,
   "category_counts": {
     "编程开发": 8,
-    "AI Agent": 16,
+    "AI Agent": 18,
     "开源模型": 12,
     "音频工具": 3,
     "搜索研究": 3,
     "商业与营销": 1,
     "写作办公": 1,
     "数据分析": 1,
-    "自动化": 1
+    "自动化": 1,
+    "图像生成": 2
   },
   "source_counts": {
-    "GitHub": 15,
-    "Hugging Face": 15,
-    "Product Hunt": 16
+    "GitHub": 16,
+    "Hugging Face": 17,
+    "Product Hunt": 17
   },
-  "open_source_ratio": 0.9667,
+  "open_source_ratio": 0.9697,
   "free_ratio": null,
   "top_scored": [
     {
@@ -63,19 +64,19 @@
       "growth": 2297
     },
     {
+      "id": "github-msitarzewski-agency-agents",
+      "name": "agency-agents",
+      "growth": 1873
+    },
+    {
       "id": "github-mattpocock-skills",
       "name": "skills",
       "growth": 1359
     },
     {
-      "id": "github-msitarzewski-agency-agents",
-      "name": "agency-agents",
-      "growth": 1349
-    },
-    {
-      "id": "github-tencentcloud-tencentdb-agent-memory",
-      "name": "TencentDB-Agent-Memory",
-      "growth": 1057
+      "id": "github-stablyai-orca",
+      "name": "orca",
+      "growth": 1235
     }
   ]
 }
