@@ -1,35 +1,40 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-13T11:09:31+08:00",
+  "generated_at": "2026-08-14T11:08:03+08:00",
   "history_sufficient": true,
-  "days": 18,
-  "total_tools": 50,
+  "days": 19,
+  "total_tools": 54,
   "today_tools": 5,
-  "today_scanned": 130,
+  "today_scanned": 132,
   "category_counts": {
     "编程开发": 8,
-    "AI Agent": 18,
-    "开源模型": 12,
+    "AI Agent": 19,
+    "开源模型": 13,
     "音频工具": 3,
-    "搜索研究": 3,
+    "搜索研究": 4,
     "商业与营销": 1,
     "写作办公": 1,
     "数据分析": 1,
     "自动化": 1,
-    "图像生成": 2
+    "图像生成": 3
   },
   "source_counts": {
-    "GitHub": 16,
-    "Hugging Face": 17,
-    "Product Hunt": 17
+    "GitHub": 17,
+    "Hugging Face": 19,
+    "Product Hunt": 18
   },
-  "open_source_ratio": 0.9697,
+  "open_source_ratio": 0.9722,
   "free_ratio": null,
   "top_scored": [
     {
       "id": "github-tencentcloud-tencentdb-agent-memory",
       "name": "TencentDB-Agent-Memory",
       "score": 83.7
+    },
+    {
+      "id": "huggingface-gazingstars123-anima-2-9b",
+      "name": "Anima-2.9B",
+      "score": 81.5
     },
     {
       "id": "huggingface-unsloth-kimi-k3",
@@ -45,11 +50,6 @@
       "id": "huggingface-microsoft-fara1-5-27b",
       "name": "Fara1.5-27B",
       "score": 80.5
-    },
-    {
-      "id": "huggingface-fdtn-ai-antares-1b",
-      "name": "antares-1b",
-      "score": 80.4
     }
   ],
   "top_growth": [
@@ -64,11 +64,6 @@
       "growth": 2297
     },
     {
-      "id": "github-msitarzewski-agency-agents",
-      "name": "agency-agents",
-      "growth": 1873
-    },
-    {
       "id": "github-mattpocock-skills",
       "name": "skills",
       "growth": 1359
@@ -77,6 +72,11 @@
       "id": "github-stablyai-orca",
       "name": "orca",
       "growth": 1235
+    },
+    {
+      "id": "github-tencentcloud-tencentdb-agent-memory",
+      "name": "TencentDB-Agent-Memory",
+      "growth": 1057
     }
   ]
 }

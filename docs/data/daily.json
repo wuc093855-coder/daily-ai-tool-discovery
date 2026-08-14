@@ -17,8 +17,379 @@
       "business": 0.1
     }
   },
-  "updated_at": "2026-08-13T11:09:31+08:00",
+  "updated_at": "2026-08-14T11:08:03+08:00",
   "days": [
+    {
+      "date": "2026-08-14",
+      "display_date": "2026年08月14日",
+      "weekday": "星期五",
+      "updated_at": "2026-08-14T11:08:03+08:00",
+      "tools": [
+        {
+          "id": "huggingface-gazingstars123-anima-2-9b",
+          "slug": "anima-2-9b",
+          "name": "Anima-2.9B",
+          "original_name": "Gazingstars123/Anima-2.9B",
+          "tagline_zh": "Anima-2.9B 是一款聚焦于AI 图像生成与视觉设计的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Anima-2.9B 是一款聚焦于AI 图像生成与视觉设计的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "diffusion-single-file anima text-to-image comfyui arxiv:2401.02415 base_model:circlestone-labs/Anima base_model:finetune:circlestone-labs/Anima license:other",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/Gazingstars123/Anima-2.9B",
+          "official_url": "https://huggingface.co/Gazingstars123/Anima-2.9B",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "图像生成",
+          "tags": [
+            "图像生成",
+            "diffusion-single-file",
+            "anima",
+            "text-to-image",
+            "comfyui",
+            "arxiv:2401.02415",
+            "base_model:circlestone-labs/Anima",
+            "base_model:finetune:circlestone-labs/Anima",
+            "license:other",
+            "region:us"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 135,
+          "trending_score": 133,
+          "published_at": "2026-08-12T07:23:49.000Z",
+          "discovered_at": "2026-08-14",
+          "updated_at": "2026-08-13T21:08:59.000Z",
+          "suitable_for": "设计师、自媒体创作者、电商从业者和营销团队",
+          "core_features": [
+            "生成或编辑视觉素材",
+            "加快创意方案迭代",
+            "降低设计内容的制作门槛"
+          ],
+          "use_cases": [
+            "制作电商与社媒素材",
+            "生成创意概念图",
+            "辅助品牌视觉探索"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。制作电商图与社媒素材；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "制作电商图与社媒素材",
+            "提供视觉设计服务",
+            "生产数字素材产品"
+          ],
+          "score_total": 81.5,
+          "score_heat": 98.2,
+          "score_freshness": 91.3,
+          "score_usefulness": 71.2,
+          "score_product": 84.4,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-08-14",
+              "score": 81.5
+            }
+          ],
+          "rank": 1,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-deepseek-ai-deepseek-v4-pro-0813",
+          "slug": "deepseek-v4-pro-0813",
+          "name": "DeepSeek-V4-Pro-0813",
+          "original_name": "deepseek-ai/DeepSeek-V4-Pro-0813",
+          "tagline_zh": "DeepSeek-V4-Pro-0813 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "DeepSeek-V4-Pro-0813 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors deepseek_v4 text-generation conversational arxiv:2606.19348 license:mit endpoints_compatible",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+          "official_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "transformers",
+            "safetensors",
+            "deepseek_v4",
+            "text-generation",
+            "conversational",
+            "arxiv:2606.19348",
+            "license:mit",
+            "endpoints_compatible",
+            "8-bit",
+            "fp8",
+            "region:us"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 316,
+          "trending_score": 310,
+          "published_at": "2026-08-13T03:05:06.000Z",
+          "discovered_at": "2026-08-14",
+          "updated_at": "2026-08-13T16:28:28.000Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 80.2,
+          "score_heat": 100,
+          "score_freshness": 95.2,
+          "score_usefulness": 68.4,
+          "score_product": 80,
+          "score_business": 36,
+          "score_history": [
+            {
+              "date": "2026-08-14",
+              "score": 80.2
+            }
+          ],
+          "rank": 2,
+          "carried_forward": false
+        },
+        {
+          "id": "github-msitarzewski-agency-agents",
+          "slug": "agency-agents",
+          "name": "agency-agents",
+          "original_name": "msitarzewski/agency-agents",
+          "tagline_zh": "agency-agents 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "agency-agents 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/msitarzewski/agency-agents",
+          "official_url": "https://github.com/msitarzewski/agency-agents",
+          "repo_url": "https://github.com/msitarzewski/agency-agents",
+          "logo_url": "https://avatars.githubusercontent.com/u/1972242?v=4",
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent",
+            "Shell"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "MIT",
+          "stars": 145239,
+          "star_growth": 778,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-08-10",
+          "updated_at": "2026-08-14T03:07:36Z",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 78.9,
+          "score_heat": 100,
+          "score_freshness": 78,
+          "score_usefulness": 75.9,
+          "score_product": 79.8,
+          "score_business": 36,
+          "score_history": [
+            {
+              "date": "2026-08-10",
+              "score": 78.9
+            },
+            {
+              "date": "2026-08-11",
+              "score": 77.8
+            },
+            {
+              "date": "2026-08-13",
+              "score": 77.0
+            },
+            {
+              "date": "2026-08-14",
+              "score": 78.9
+            }
+          ],
+          "rank": 3,
+          "carried_forward": false
+        },
+        {
+          "id": "github-infiniflow-ragflow",
+          "slug": "ragflow",
+          "name": "ragflow",
+          "original_name": "infiniflow/ragflow",
+          "tagline_zh": "ragflow 是一款聚焦于AI 搜索、研究与知识管理的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "ragflow 是一款聚焦于AI 搜索、研究与知识管理的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/infiniflow/ragflow",
+          "official_url": "https://ragflow.io",
+          "repo_url": "https://github.com/infiniflow/ragflow",
+          "logo_url": "https://avatars.githubusercontent.com/u/69962740?v=4",
+          "category": "搜索研究",
+          "tags": [
+            "搜索研究",
+            "Go"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "Apache-2.0",
+          "stars": 88081,
+          "star_growth": 465,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-08-14",
+          "updated_at": "2026-08-14T03:07:53Z",
+          "suitable_for": "研究人员、学生、知识工作者和咨询团队",
+          "core_features": [
+            "检索并整理分散信息",
+            "对文档或知识库进行问答",
+            "提高研究与阅读效率"
+          ],
+          "use_cases": [
+            "行业与竞品研究",
+            "私有知识库问答",
+            "长文档快速理解"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。交付研究报告；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "交付研究报告",
+            "搭建企业知识库",
+            "提供资料整理服务"
+          ],
+          "score_total": 77.7,
+          "score_heat": 94.9,
+          "score_freshness": 78,
+          "score_usefulness": 81.3,
+          "score_product": 74.1,
+          "score_business": 36,
+          "score_history": [
+            {
+              "date": "2026-08-14",
+              "score": 77.7
+            }
+          ],
+          "rank": 4,
+          "carried_forward": false
+        },
+        {
+          "id": "producthunt-mem-agent",
+          "slug": "mem-agent",
+          "name": "Mem Agent",
+          "original_name": "Mem Agent",
+          "tagline_zh": "Mem Agent 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Mem Agent 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "The AI that refuses to let you drop the ball Discussion | Link",
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "source_url": "https://www.producthunt.com/products/mem-2-0",
+          "official_url": "https://www.producthunt.com/products/mem-2-0",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": null,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": null,
+          "trending_score": null,
+          "published_at": "2026-08-11T18:55:10+00:00",
+          "discovered_at": "2026-08-14",
+          "updated_at": "2026-08-14T11:08:03+08:00",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 70.7,
+          "score_heat": 85,
+          "score_freshness": 88.8,
+          "score_usefulness": 64.4,
+          "score_product": 52.9,
+          "score_business": 44,
+          "score_history": [
+            {
+              "date": "2026-08-14",
+              "score": 70.7
+            }
+          ],
+          "rank": 5,
+          "carried_forward": false
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 14
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 23
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    },
     {
       "date": "2026-08-13",
       "display_date": "2026年08月13日",
