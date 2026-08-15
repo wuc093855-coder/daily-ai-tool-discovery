@@ -17,8 +17,376 @@
       "business": 0.1
     }
   },
-  "updated_at": "2026-08-14T11:08:03+08:00",
+  "updated_at": "2026-08-15T09:57:40+08:00",
   "days": [
+    {
+      "date": "2026-08-15",
+      "display_date": "2026年08月15日",
+      "weekday": "星期六",
+      "updated_at": "2026-08-15T09:57:40+08:00",
+      "tools": [
+        {
+          "id": "huggingface-dots-studio-dots3-note-prev",
+          "slug": "dots3-note-prev",
+          "name": "dots3-note-prev",
+          "original_name": "dots-studio/dots3-note-prev",
+          "tagline_zh": "dots3-note-prev 是一款聚焦于AI 智能体与任务执行的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "dots3-note-prev 是一款聚焦于AI 智能体与任务执行的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors dots3_note text-generation dots3 dots3-note audio multimodal",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/dots-studio/dots3-note-prev",
+          "official_url": "https://huggingface.co/dots-studio/dots3-note-prev",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent",
+            "transformers",
+            "safetensors",
+            "dots3_note",
+            "text-generation",
+            "dots3",
+            "dots3-note",
+            "audio",
+            "multimodal",
+            "long-context",
+            "agentic",
+            "image-text-to-text"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 143,
+          "trending_score": 142,
+          "published_at": "2026-08-09T07:33:17.000Z",
+          "discovered_at": "2026-08-15",
+          "updated_at": "2026-08-14T02:43:33.000Z",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 80.8,
+          "score_heat": 100,
+          "score_freshness": 72.3,
+          "score_usefulness": 84.1,
+          "score_product": 76.4,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-08-15",
+              "score": 80.8
+            }
+          ],
+          "rank": 1,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-gazingstars123-anima-2-9b",
+          "slug": "anima-2-9b",
+          "name": "Anima-2.9B",
+          "original_name": "Gazingstars123/Anima-2.9B",
+          "tagline_zh": "Anima-2.9B 是一款聚焦于AI 图像生成与视觉设计的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Anima-2.9B 是一款聚焦于AI 图像生成与视觉设计的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "diffusion-single-file anima comfyui text-to-image en arxiv:2401.02415 base_model:circlestone-labs/Anima base_model:finetune:circlestone-labs/Anima",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/Gazingstars123/Anima-2.9B",
+          "official_url": "https://huggingface.co/Gazingstars123/Anima-2.9B",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "图像生成",
+          "tags": [
+            "图像生成",
+            "diffusion-single-file",
+            "anima",
+            "comfyui",
+            "text-to-image",
+            "en",
+            "arxiv:2401.02415",
+            "base_model:circlestone-labs/Anima",
+            "base_model:finetune:circlestone-labs/Anima",
+            "license:other",
+            "region:us"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 162,
+          "trending_score": 157,
+          "published_at": "2026-08-12T07:23:49.000Z",
+          "discovered_at": "2026-08-14",
+          "updated_at": "2026-08-14T10:10:30.000Z",
+          "suitable_for": "设计师、自媒体创作者、电商从业者和营销团队",
+          "core_features": [
+            "生成或编辑视觉素材",
+            "加快创意方案迭代",
+            "降低设计内容的制作门槛"
+          ],
+          "use_cases": [
+            "制作电商与社媒素材",
+            "生成创意概念图",
+            "辅助品牌视觉探索"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。制作电商图与社媒素材；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "制作电商图与社媒素材",
+            "提供视觉设计服务",
+            "生产数字素材产品"
+          ],
+          "score_total": 79.6,
+          "score_heat": 100,
+          "score_freshness": 86.7,
+          "score_usefulness": 70.4,
+          "score_product": 83.2,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-08-14",
+              "score": 81.5
+            },
+            {
+              "date": "2026-08-15",
+              "score": 79.6
+            }
+          ],
+          "rank": 2,
+          "carried_forward": false
+        },
+        {
+          "id": "github-infiniflow-ragflow",
+          "slug": "ragflow",
+          "name": "ragflow",
+          "original_name": "infiniflow/ragflow",
+          "tagline_zh": "ragflow 是一款聚焦于AI 搜索、研究与知识管理的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "ragflow 是一款聚焦于AI 搜索、研究与知识管理的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/infiniflow/ragflow",
+          "official_url": "https://ragflow.io",
+          "repo_url": "https://github.com/infiniflow/ragflow",
+          "logo_url": "https://avatars.githubusercontent.com/u/69962740?v=4",
+          "category": "搜索研究",
+          "tags": [
+            "搜索研究",
+            "Go"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "Apache-2.0",
+          "stars": 88394,
+          "star_growth": 473,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-08-14",
+          "updated_at": "2026-08-15T01:51:54Z",
+          "suitable_for": "研究人员、学生、知识工作者和咨询团队",
+          "core_features": [
+            "检索并整理分散信息",
+            "对文档或知识库进行问答",
+            "提高研究与阅读效率"
+          ],
+          "use_cases": [
+            "行业与竞品研究",
+            "私有知识库问答",
+            "长文档快速理解"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。交付研究报告；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "交付研究报告",
+            "搭建企业知识库",
+            "提供资料整理服务"
+          ],
+          "score_total": 78.4,
+          "score_heat": 95.1,
+          "score_freshness": 78,
+          "score_usefulness": 81.3,
+          "score_product": 74.1,
+          "score_business": 36,
+          "score_history": [
+            {
+              "date": "2026-08-14",
+              "score": 77.7
+            },
+            {
+              "date": "2026-08-15",
+              "score": 78.4
+            }
+          ],
+          "rank": 3,
+          "carried_forward": false
+        },
+        {
+          "id": "github-citrolabs-ego-lite",
+          "slug": "ego-lite",
+          "name": "ego-lite",
+          "original_name": "citrolabs/ego-lite",
+          "tagline_zh": "ego-lite 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "ego-lite 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/citrolabs/ego-lite",
+          "official_url": "https://lite.ego.app",
+          "repo_url": "https://github.com/citrolabs/ego-lite",
+          "logo_url": "https://avatars.githubusercontent.com/u/234319236?v=4",
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent",
+            "JavaScript"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "MIT",
+          "stars": 10385,
+          "star_growth": 165,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-08-15",
+          "updated_at": "2026-08-15T01:56:37Z",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 77.2,
+          "score_heat": 78.4,
+          "score_freshness": 78,
+          "score_usefulness": 83.5,
+          "score_product": 77.6,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-08-15",
+              "score": 77.2
+            }
+          ],
+          "rank": 4,
+          "carried_forward": false
+        },
+        {
+          "id": "producthunt-ns1",
+          "slug": "ns1",
+          "name": "NS1",
+          "original_name": "NS1",
+          "tagline_zh": "NS1 是一款聚焦于AI 工作流与流程自动化的AI 产品，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "NS1 是一款聚焦于AI 工作流与流程自动化的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Personalized Nervous System Training Discussion | Link",
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "source_url": "https://www.producthunt.com/products/ns1",
+          "official_url": "https://www.producthunt.com/products/ns1",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "自动化",
+          "tags": [
+            "自动化"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": null,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": null,
+          "trending_score": null,
+          "published_at": "2026-08-13T14:43:54+00:00",
+          "discovered_at": "2026-08-15",
+          "updated_at": "2026-08-15T09:57:40+08:00",
+          "suitable_for": "运营人员、独立开发者、小团队和效率爱好者",
+          "core_features": [
+            "连接工具和数据完成重复流程",
+            "减少人工操作与信息搬运",
+            "支持快速搭建自动化方案"
+          ],
+          "use_cases": [
+            "业务流程自动化",
+            "跨工具信息同步",
+            "低代码工作流搭建"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。提供流程代搭建；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "提供流程代搭建",
+            "交付运营自动化",
+            "售卖工作流模板"
+          ],
+          "score_total": 70.7,
+          "score_heat": 93.8,
+          "score_freshness": 93,
+          "score_usefulness": 54.9,
+          "score_product": 52,
+          "score_business": 44,
+          "score_history": [
+            {
+              "date": "2026-08-15",
+              "score": 70.7
+            }
+          ],
+          "rank": 5,
+          "carried_forward": false
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 11
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 20
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    },
     {
       "date": "2026-08-14",
       "display_date": "2026年08月14日",
