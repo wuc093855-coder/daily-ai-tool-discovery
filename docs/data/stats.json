@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-15T09:57:40+08:00",
+  "generated_at": "2026-08-16T10:07:15+08:00",
   "history_sufficient": true,
-  "days": 20,
-  "total_tools": 57,
+  "days": 21,
+  "total_tools": 60,
   "today_tools": 5,
-  "today_scanned": 126,
+  "today_scanned": 122,
   "category_counts": {
-    "编程开发": 8,
-    "AI Agent": 21,
-    "开源模型": 13,
+    "编程开发": 9,
+    "AI Agent": 22,
+    "开源模型": 14,
     "音频工具": 3,
     "搜索研究": 4,
     "商业与营销": 1,
@@ -19,11 +19,11 @@
     "图像生成": 3
   },
   "source_counts": {
-    "GitHub": 18,
-    "Hugging Face": 20,
-    "Product Hunt": 19
+    "GitHub": 19,
+    "Hugging Face": 21,
+    "Product Hunt": 20
   },
-  "open_source_ratio": 0.9737,
+  "open_source_ratio": 0.95,
   "free_ratio": null,
   "top_scored": [
     {
@@ -32,24 +32,24 @@
       "score": 83.7
     },
     {
-      "id": "huggingface-unsloth-kimi-k3",
-      "name": "Kimi-K3",
-      "score": 80.8
+      "id": "huggingface-orcarouter-qwen3-8-27b-uncensored-fp8",
+      "name": "Qwen3.8-27B-Uncensored-FP8",
+      "score": 83.2
     },
     {
-      "id": "huggingface-dots-studio-dots3-note-prev",
-      "name": "dots3-note-prev",
+      "id": "github-citrolabs-ego-lite",
+      "name": "ego-lite",
+      "score": 81
+    },
+    {
+      "id": "huggingface-unsloth-kimi-k3",
+      "name": "Kimi-K3",
       "score": 80.8
     },
     {
       "id": "github-calesthio-openmontage",
       "name": "OpenMontage",
       "score": 80.6
-    },
-    {
-      "id": "huggingface-microsoft-fara1-5-27b",
-      "name": "Fara1.5-27B",
-      "score": 80.5
     }
   ],
   "top_growth": [
