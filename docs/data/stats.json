@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16T10:07:15+08:00",
+  "generated_at": "2026-08-17T10:05:53+08:00",
   "history_sufficient": true,
-  "days": 21,
-  "total_tools": 60,
+  "days": 22,
+  "total_tools": 62,
   "today_tools": 5,
-  "today_scanned": 122,
+  "today_scanned": 115,
   "category_counts": {
-    "编程开发": 9,
+    "编程开发": 10,
     "AI Agent": 22,
-    "开源模型": 14,
+    "开源模型": 15,
     "音频工具": 3,
     "搜索研究": 4,
     "商业与营销": 1,
@@ -19,11 +19,11 @@
     "图像生成": 3
   },
   "source_counts": {
-    "GitHub": 19,
+    "GitHub": 20,
     "Hugging Face": 21,
-    "Product Hunt": 20
+    "Product Hunt": 21
   },
-  "open_source_ratio": 0.95,
+  "open_source_ratio": 0.9512,
   "free_ratio": null,
   "top_scored": [
     {
@@ -34,7 +34,7 @@
     {
       "id": "huggingface-orcarouter-qwen3-8-27b-uncensored-fp8",
       "name": "Qwen3.8-27B-Uncensored-FP8",
-      "score": 83.2
+      "score": 82.2
     },
     {
       "id": "github-citrolabs-ego-lite",
