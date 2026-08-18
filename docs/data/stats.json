@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-17T10:05:53+08:00",
+  "generated_at": "2026-08-18T10:00:25+08:00",
   "history_sufficient": true,
-  "days": 22,
-  "total_tools": 62,
+  "days": 23,
+  "total_tools": 65,
   "today_tools": 5,
-  "today_scanned": 115,
+  "today_scanned": 119,
   "category_counts": {
-    "编程开发": 10,
-    "AI Agent": 22,
+    "编程开发": 11,
+    "AI Agent": 24,
     "开源模型": 15,
     "音频工具": 3,
     "搜索研究": 4,
@@ -19,11 +19,11 @@
     "图像生成": 3
   },
   "source_counts": {
-    "GitHub": 20,
+    "GitHub": 22,
     "Hugging Face": 21,
-    "Product Hunt": 21
+    "Product Hunt": 22
   },
-  "open_source_ratio": 0.9512,
+  "open_source_ratio": 0.9535,
   "free_ratio": null,
   "top_scored": [
     {
@@ -34,7 +34,7 @@
     {
       "id": "huggingface-orcarouter-qwen3-8-27b-uncensored-fp8",
       "name": "Qwen3.8-27B-Uncensored-FP8",
-      "score": 82.2
+      "score": 81.3
     },
     {
       "id": "github-citrolabs-ego-lite",
@@ -74,9 +74,9 @@
       "growth": 1235
     },
     {
-      "id": "github-tencentcloud-tencentdb-agent-memory",
-      "name": "TencentDB-Agent-Memory",
-      "growth": 1057
+      "id": "github-harry0703-moneyprinterturbo",
+      "name": "MoneyPrinterTurbo",
+      "growth": 1189
     }
   ]
 }
