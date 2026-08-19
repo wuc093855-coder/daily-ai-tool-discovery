@@ -17,8 +17,389 @@
       "business": 0.1
     }
   },
-  "updated_at": "2026-08-18T10:00:25+08:00",
+  "updated_at": "2026-08-19T10:03:47+08:00",
   "days": [
+    {
+      "date": "2026-08-19",
+      "display_date": "2026年08月19日",
+      "weekday": "星期三",
+      "updated_at": "2026-08-19T10:03:47+08:00",
+      "tools": [
+        {
+          "id": "github-mukul975-anthropic-cybersecurity-skills",
+          "slug": "anthropic-cybersecurity-skills",
+          "name": "Anthropic-Cybersecurity-Skills",
+          "original_name": "mukul975/Anthropic-Cybersecurity-Skills",
+          "tagline_zh": "Anthropic-Cybersecurity-Skills 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Anthropic-Cybersecurity-Skills 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "official_url": "https://mahipal.engineer/Anthropic-Cybersecurity-Skills/",
+          "repo_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "logo_url": "https://avatars.githubusercontent.com/u/42860185?v=4",
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent",
+            "Python"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "Apache-2.0",
+          "stars": 29236,
+          "star_growth": 730,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-08-18",
+          "updated_at": "2026-08-19T02:03:16Z",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 83.2,
+          "score_heat": 97.2,
+          "score_freshness": 78,
+          "score_usefulness": 87,
+          "score_product": 83,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-08-18",
+              "score": 79.5
+            },
+            {
+              "date": "2026-08-19",
+              "score": 83.2
+            }
+          ],
+          "rank": 1,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-orcarouter-qwen3-8-27b-uncensored-fp8",
+          "slug": "qwen3-8-27b-uncensored-fp8",
+          "name": "Qwen3.8-27B-Uncensored-FP8",
+          "original_name": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "tagline_zh": "Qwen3.8-27B-Uncensored-FP8 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Qwen3.8-27B-Uncensored-FP8 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors qwen3_5 image-text-to-text abliterated qwen3.8 uncensored ai-red-team",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "official_url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "transformers",
+            "safetensors",
+            "qwen3_5",
+            "image-text-to-text",
+            "abliterated",
+            "qwen3.8",
+            "uncensored",
+            "ai-red-team",
+            "red-teaming",
+            "fp8",
+            "block-fp8"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": false,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 535,
+          "trending_score": 471,
+          "published_at": "2026-08-15T05:45:04.000Z",
+          "discovered_at": "2026-08-16",
+          "updated_at": "2026-08-16T15:43:21.000Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 80.3,
+          "score_heat": 100,
+          "score_freshness": 81.5,
+          "score_usefulness": 75.7,
+          "score_product": 77.4,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-08-16",
+              "score": 83.2
+            },
+            {
+              "date": "2026-08-17",
+              "score": 82.2
+            },
+            {
+              "date": "2026-08-18",
+              "score": 81.3
+            },
+            {
+              "date": "2026-08-19",
+              "score": 80.3
+            }
+          ],
+          "rank": 2,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-orcarouter-qwen3-8-27b-uncensored-mlx",
+          "slug": "qwen3-8-27b-uncensored-mlx",
+          "name": "Qwen3.8-27B-Uncensored-MLX",
+          "original_name": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "tagline_zh": "Qwen3.8-27B-Uncensored-MLX 是一款聚焦于AI 图像生成与视觉设计的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Qwen3.8-27B-Uncensored-MLX 是一款聚焦于AI 图像生成与视觉设计的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "mlx safetensors abliterated qwen3.8 qwen3_5 uncensored ai-red-team red-teaming",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "official_url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "图像生成",
+          "tags": [
+            "图像生成",
+            "mlx",
+            "safetensors",
+            "abliterated",
+            "qwen3.8",
+            "qwen3_5",
+            "uncensored",
+            "ai-red-team",
+            "red-teaming",
+            "apple-silicon",
+            "quantized",
+            "4-bit"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": false,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 289,
+          "trending_score": 250,
+          "published_at": "2026-08-17T14:10:50.000Z",
+          "discovered_at": "2026-08-19",
+          "updated_at": "2026-08-17T16:01:33.000Z",
+          "suitable_for": "设计师、自媒体创作者、电商从业者和营销团队",
+          "core_features": [
+            "生成或编辑视觉素材",
+            "加快创意方案迭代",
+            "降低设计内容的制作门槛"
+          ],
+          "use_cases": [
+            "制作电商与社媒素材",
+            "生成创意概念图",
+            "辅助品牌视觉探索"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。制作电商图与社媒素材；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "制作电商图与社媒素材",
+            "提供视觉设计服务",
+            "生产数字素材产品"
+          ],
+          "score_total": 79.1,
+          "score_heat": 100,
+          "score_freshness": 92.8,
+          "score_usefulness": 65.6,
+          "score_product": 75.7,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-08-19",
+              "score": 79.1
+            }
+          ],
+          "rank": 3,
+          "carried_forward": false
+        },
+        {
+          "id": "github-harry0703-moneyprinterturbo",
+          "slug": "moneyprinterturbo",
+          "name": "MoneyPrinterTurbo",
+          "original_name": "harry0703/MoneyPrinterTurbo",
+          "tagline_zh": "MoneyPrinterTurbo 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "MoneyPrinterTurbo 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "official_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "repo_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "logo_url": "https://avatars.githubusercontent.com/u/4928832?v=4",
+          "category": "编程开发",
+          "tags": [
+            "编程开发",
+            "Python"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "MIT",
+          "stars": 108663,
+          "star_growth": 2304,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-08-18",
+          "updated_at": "2026-08-19T02:03:41Z",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 74.3,
+          "score_heat": 100,
+          "score_freshness": 78,
+          "score_usefulness": 59.1,
+          "score_product": 67.7,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-08-18",
+              "score": 74.3
+            },
+            {
+              "date": "2026-08-19",
+              "score": 74.3
+            }
+          ],
+          "rank": 4,
+          "carried_forward": false
+        },
+        {
+          "id": "producthunt-gauge",
+          "slug": "gauge",
+          "name": "Gauge",
+          "original_name": "Gauge",
+          "tagline_zh": "Gauge 是一款聚焦于AI 商业增长与营销的AI 产品，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Gauge 是一款聚焦于AI 商业增长与营销的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Agent Led Growth: Get written into every customer's codebase Discussion | Link",
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "source_url": "https://www.producthunt.com/products/gauge",
+          "official_url": "https://www.producthunt.com/products/gauge",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "商业与营销",
+          "tags": [
+            "商业与营销"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": null,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": null,
+          "trending_score": null,
+          "published_at": "2026-08-17T22:32:25+00:00",
+          "discovered_at": "2026-08-19",
+          "updated_at": "2026-08-19T10:03:47+08:00",
+          "suitable_for": "创业者、销售、市场团队和电商经营者",
+          "core_features": [
+            "辅助获客、销售或营销执行",
+            "提升内容和触达效率",
+            "支持业务增长实验"
+          ],
+          "use_cases": [
+            "营销内容生成",
+            "销售线索处理",
+            "增长流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。提供营销代运营；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "提供营销代运营",
+            "交付增长自动化",
+            "开发垂直营销工具"
+          ],
+          "score_total": 70.3,
+          "score_heat": 78.4,
+          "score_freshness": 94.5,
+          "score_usefulness": 56.6,
+          "score_product": 54.7,
+          "score_business": 66,
+          "score_history": [
+            {
+              "date": "2026-08-19",
+              "score": 70.3
+            }
+          ],
+          "rank": 5,
+          "carried_forward": false
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 6
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 22
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    },
     {
       "date": "2026-08-18",
       "display_date": "2026年08月18日",

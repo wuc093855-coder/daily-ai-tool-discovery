@@ -1,29 +1,29 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-18T10:00:25+08:00",
+  "generated_at": "2026-08-19T10:03:47+08:00",
   "history_sufficient": true,
-  "days": 23,
-  "total_tools": 65,
+  "days": 24,
+  "total_tools": 67,
   "today_tools": 5,
-  "today_scanned": 119,
+  "today_scanned": 123,
   "category_counts": {
     "编程开发": 11,
     "AI Agent": 24,
     "开源模型": 15,
     "音频工具": 3,
     "搜索研究": 4,
-    "商业与营销": 1,
+    "商业与营销": 2,
     "写作办公": 1,
     "数据分析": 1,
     "自动化": 2,
-    "图像生成": 3
+    "图像生成": 4
   },
   "source_counts": {
     "GitHub": 22,
-    "Hugging Face": 21,
-    "Product Hunt": 22
+    "Hugging Face": 22,
+    "Product Hunt": 23
   },
-  "open_source_ratio": 0.9535,
+  "open_source_ratio": 0.9318,
   "free_ratio": null,
   "top_scored": [
     {
@@ -32,9 +32,9 @@
       "score": 83.7
     },
     {
-      "id": "huggingface-orcarouter-qwen3-8-27b-uncensored-fp8",
-      "name": "Qwen3.8-27B-Uncensored-FP8",
-      "score": 81.3
+      "id": "github-mukul975-anthropic-cybersecurity-skills",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "score": 83.2
     },
     {
       "id": "github-citrolabs-ego-lite",
@@ -59,6 +59,11 @@
       "growth": 2642
     },
     {
+      "id": "github-harry0703-moneyprinterturbo",
+      "name": "MoneyPrinterTurbo",
+      "growth": 2304
+    },
+    {
       "id": "github-zhaoxuya520-reverse-skill",
       "name": "reverse-skill",
       "growth": 2297
@@ -72,11 +77,6 @@
       "id": "github-stablyai-orca",
       "name": "orca",
       "growth": 1235
-    },
-    {
-      "id": "github-harry0703-moneyprinterturbo",
-      "name": "MoneyPrinterTurbo",
-      "growth": 1189
     }
   ]
 }

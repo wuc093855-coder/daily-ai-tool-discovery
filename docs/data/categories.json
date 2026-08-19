@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-18T10:00:25+08:00",
+  "generated_at": "2026-08-19T10:03:47+08:00",
   "categories": [
     {
       "name": "AI Agent",
@@ -12,7 +12,7 @@
     },
     {
       "name": "图像生成",
-      "count": 3
+      "count": 4
     },
     {
       "name": "视频生成",
@@ -48,7 +48,7 @@
     },
     {
       "name": "商业与营销",
-      "count": 1
+      "count": 2
     }
   ]
 }
