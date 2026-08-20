@@ -17,8 +17,393 @@
       "business": 0.1
     }
   },
-  "updated_at": "2026-08-19T10:03:47+08:00",
+  "updated_at": "2026-08-20T10:02:05+08:00",
   "days": [
+    {
+      "date": "2026-08-20",
+      "display_date": "2026年08月20日",
+      "weekday": "星期四",
+      "updated_at": "2026-08-20T10:02:05+08:00",
+      "tools": [
+        {
+          "id": "github-mukul975-anthropic-cybersecurity-skills",
+          "slug": "anthropic-cybersecurity-skills",
+          "name": "Anthropic-Cybersecurity-Skills",
+          "original_name": "mukul975/Anthropic-Cybersecurity-Skills",
+          "tagline_zh": "Anthropic-Cybersecurity-Skills 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Anthropic-Cybersecurity-Skills 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "official_url": "https://mahipal.engineer/Anthropic-Cybersecurity-Skills/",
+          "repo_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "logo_url": "https://avatars.githubusercontent.com/u/42860185?v=4",
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent",
+            "Python"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "Apache-2.0",
+          "stars": 29871,
+          "star_growth": 766,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-08-18",
+          "updated_at": "2026-08-20T01:59:31Z",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 83.3,
+          "score_heat": 97.8,
+          "score_freshness": 78,
+          "score_usefulness": 87,
+          "score_product": 83,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-08-18",
+              "score": 79.5
+            },
+            {
+              "date": "2026-08-19",
+              "score": 83.2
+            },
+            {
+              "date": "2026-08-20",
+              "score": 83.3
+            }
+          ],
+          "rank": 1,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-aeon-7-qwen3-8-27b-aeon-ultimate-uncensored-bf16",
+          "slug": "qwen3-8-27b-aeon-ultimate-uncensored-bf16",
+          "name": "Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
+          "original_name": "AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
+          "tagline_zh": "Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors qwen3_5 image-text-to-text 27b early-access draft abliterated",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
+          "official_url": "https://huggingface.co/AEON-7/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "transformers",
+            "safetensors",
+            "qwen3_5",
+            "image-text-to-text",
+            "27b",
+            "early-access",
+            "draft",
+            "abliterated",
+            "abliterix",
+            "aeon",
+            "aeon-7"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 143,
+          "trending_score": 135,
+          "published_at": "2026-08-15T18:58:10.000Z",
+          "discovered_at": "2026-08-20",
+          "updated_at": "2026-08-18T04:44:03.000Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 79.5,
+          "score_heat": 99.6,
+          "score_freshness": 79.4,
+          "score_usefulness": 75.1,
+          "score_product": 76.6,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-08-20",
+              "score": 79.5
+            }
+          ],
+          "rank": 2,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-orcarouter-qwen3-8-27b-uncensored-fp8",
+          "slug": "qwen3-8-27b-uncensored-fp8",
+          "name": "Qwen3.8-27B-Uncensored-FP8",
+          "original_name": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "tagline_zh": "Qwen3.8-27B-Uncensored-FP8 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Qwen3.8-27B-Uncensored-FP8 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors qwen3_5 image-text-to-text abliterated qwen3.8 uncensored ai-red-team",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "official_url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "transformers",
+            "safetensors",
+            "qwen3_5",
+            "image-text-to-text",
+            "abliterated",
+            "qwen3.8",
+            "uncensored",
+            "ai-red-team",
+            "red-teaming",
+            "fp8",
+            "block-fp8"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": false,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 616,
+          "trending_score": 537,
+          "published_at": "2026-08-15T05:45:04.000Z",
+          "discovered_at": "2026-08-16",
+          "updated_at": "2026-08-16T15:43:21.000Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 78.3,
+          "score_heat": 100,
+          "score_freshness": 76.7,
+          "score_usefulness": 75.7,
+          "score_product": 77.4,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-08-16",
+              "score": 83.2
+            },
+            {
+              "date": "2026-08-17",
+              "score": 82.2
+            },
+            {
+              "date": "2026-08-18",
+              "score": 81.3
+            },
+            {
+              "date": "2026-08-19",
+              "score": 80.3
+            },
+            {
+              "date": "2026-08-20",
+              "score": 78.3
+            }
+          ],
+          "rank": 3,
+          "carried_forward": false
+        },
+        {
+          "id": "github-volcengine-openviking",
+          "slug": "openviking",
+          "name": "OpenViking",
+          "original_name": "volcengine/OpenViking",
+          "tagline_zh": "OpenViking 是一款聚焦于AI 搜索、研究与知识管理的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "OpenViking 是一款聚焦于AI 搜索、研究与知识管理的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/volcengine/OpenViking",
+          "official_url": "https://openviking.ai/",
+          "repo_url": "https://github.com/volcengine/OpenViking",
+          "logo_url": "https://avatars.githubusercontent.com/u/67365215?v=4",
+          "category": "搜索研究",
+          "tags": [
+            "搜索研究",
+            "Python"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "AGPL-3.0",
+          "stars": 30253,
+          "star_growth": 804,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-08-20",
+          "updated_at": "2026-08-20T02:00:54Z",
+          "suitable_for": "研究人员、学生、知识工作者和咨询团队",
+          "core_features": [
+            "检索并整理分散信息",
+            "对文档或知识库进行问答",
+            "提高研究与阅读效率"
+          ],
+          "use_cases": [
+            "行业与竞品研究",
+            "私有知识库问答",
+            "长文档快速理解"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。交付研究报告；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "交付研究报告",
+            "搭建企业知识库",
+            "提供资料整理服务"
+          ],
+          "score_total": 76.2,
+          "score_heat": 98.4,
+          "score_freshness": 78,
+          "score_usefulness": 75.5,
+          "score_product": 65.1,
+          "score_business": 36,
+          "score_history": [
+            {
+              "date": "2026-08-20",
+              "score": 76.2
+            }
+          ],
+          "rank": 4,
+          "carried_forward": false
+        },
+        {
+          "id": "producthunt-anycreature-by-gobkit",
+          "slug": "anycreature-by-gobkit",
+          "name": "anyCreature by Gobkit",
+          "original_name": "anyCreature by Gobkit",
+          "tagline_zh": "anyCreature by Gobkit 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "anyCreature by Gobkit 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Summon monsters straight from your agent. Discussion | Link",
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "source_url": "https://www.producthunt.com/products/anycreature",
+          "official_url": "https://www.producthunt.com/products/anycreature",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": null,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": null,
+          "trending_score": null,
+          "published_at": "2026-08-17T13:30:34+00:00",
+          "discovered_at": "2026-08-20",
+          "updated_at": "2026-08-20T10:02:05+08:00",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 72.6,
+          "score_heat": 93.8,
+          "score_freshness": 87.9,
+          "score_usefulness": 64.2,
+          "score_product": 52.6,
+          "score_business": 44,
+          "score_history": [
+            {
+              "date": "2026-08-20",
+              "score": 72.6
+            }
+          ],
+          "rank": 5,
+          "carried_forward": false
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 8
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 26
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    },
     {
       "date": "2026-08-19",
       "display_date": "2026年08月19日",

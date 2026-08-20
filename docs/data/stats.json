@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-19T10:03:47+08:00",
+  "generated_at": "2026-08-20T10:02:05+08:00",
   "history_sufficient": true,
-  "days": 24,
-  "total_tools": 67,
+  "days": 25,
+  "total_tools": 70,
   "today_tools": 5,
-  "today_scanned": 123,
+  "today_scanned": 129,
   "category_counts": {
     "编程开发": 11,
-    "AI Agent": 24,
-    "开源模型": 15,
+    "AI Agent": 25,
+    "开源模型": 16,
     "音频工具": 3,
-    "搜索研究": 4,
+    "搜索研究": 5,
     "商业与营销": 2,
     "写作办公": 1,
     "数据分析": 1,
@@ -19,11 +19,11 @@
     "图像生成": 4
   },
   "source_counts": {
-    "GitHub": 22,
-    "Hugging Face": 22,
-    "Product Hunt": 23
+    "GitHub": 23,
+    "Hugging Face": 23,
+    "Product Hunt": 24
   },
-  "open_source_ratio": 0.9318,
+  "open_source_ratio": 0.9348,
   "free_ratio": null,
   "top_scored": [
     {
@@ -34,7 +34,7 @@
     {
       "id": "github-mukul975-anthropic-cybersecurity-skills",
       "name": "Anthropic-Cybersecurity-Skills",
-      "score": 83.2
+      "score": 83.3
     },
     {
       "id": "github-citrolabs-ego-lite",
