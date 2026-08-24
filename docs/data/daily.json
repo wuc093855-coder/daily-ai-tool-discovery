@@ -17,8 +17,377 @@
       "business": 0.1
     }
   },
-  "updated_at": "2026-08-23T10:10:19+08:00",
+  "updated_at": "2026-08-24T10:08:29+08:00",
   "days": [
+    {
+      "date": "2026-08-24",
+      "display_date": "2026年08月24日",
+      "weekday": "星期一",
+      "updated_at": "2026-08-24T10:08:29+08:00",
+      "tools": [
+        {
+          "id": "huggingface-incoai-qwen3-8-27b-dflash2",
+          "slug": "qwen3-8-27b-dflash2",
+          "name": "Qwen3.8-27B-DFlash2",
+          "original_name": "incoai/Qwen3.8-27B-DFlash2",
+          "tagline_zh": "Qwen3.8-27B-DFlash2 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Qwen3.8-27B-DFlash2 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors qwen3 dflash2 speculative-decoding block-diffusion draft-model sglang",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/incoai/Qwen3.8-27B-DFlash2",
+          "official_url": "https://huggingface.co/incoai/Qwen3.8-27B-DFlash2",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "transformers",
+            "safetensors",
+            "qwen3",
+            "dflash2",
+            "speculative-decoding",
+            "block-diffusion",
+            "draft-model",
+            "sglang",
+            "vllm",
+            "text-generation",
+            "base_model:Qwen/Qwen3.8-27B"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 164,
+          "trending_score": 162,
+          "published_at": "2026-08-18T04:09:16.000Z",
+          "discovered_at": "2026-08-23",
+          "updated_at": "2026-08-19T02:52:32.000Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 82.6,
+          "score_heat": 100,
+          "score_freshness": 71.6,
+          "score_usefulness": 93.7,
+          "score_product": 77.4,
+          "score_business": 36,
+          "score_history": [
+            {
+              "date": "2026-08-23",
+              "score": 83.6
+            },
+            {
+              "date": "2026-08-24",
+              "score": 82.6
+            }
+          ],
+          "rank": 1,
+          "carried_forward": false
+        },
+        {
+          "id": "github-ruvnet-ruflo",
+          "slug": "ruflo",
+          "name": "ruflo",
+          "original_name": "ruvnet/ruflo",
+          "tagline_zh": "ruflo 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "ruflo 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/ruvnet/ruflo",
+          "official_url": "https://Cognitum.One",
+          "repo_url": "https://github.com/ruvnet/ruflo",
+          "logo_url": "https://avatars.githubusercontent.com/u/2934394?v=4",
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent",
+            "TypeScript"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "MIT",
+          "stars": 69099,
+          "star_growth": 131,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-08-22",
+          "updated_at": "2026-08-24T02:07:32Z",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 80.1,
+          "score_heat": 80.5,
+          "score_freshness": 78,
+          "score_usefulness": 87,
+          "score_product": 83,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-08-22",
+              "score": 80.2
+            },
+            {
+              "date": "2026-08-24",
+              "score": 80.1
+            }
+          ],
+          "rank": 2,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-audio8-audio8-tts-preview-0-1b",
+          "slug": "audio8-tts-preview-0-1b",
+          "name": "Audio8-TTS-Preview-0.1b",
+          "original_name": "Audio8/Audio8-TTS-Preview-0.1b",
+          "tagline_zh": "Audio8-TTS-Preview-0.1b 是一款聚焦于AI 音频、语音与音乐处理的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Audio8-TTS-Preview-0.1b 是一款聚焦于AI 音频、语音与音乐处理的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors arktts feature-extraction audio text-to-speech tts voice-cloning",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/Audio8/Audio8-TTS-Preview-0.1b",
+          "official_url": "https://huggingface.co/Audio8/Audio8-TTS-Preview-0.1b",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "音频工具",
+          "tags": [
+            "音频工具",
+            "transformers",
+            "safetensors",
+            "arktts",
+            "feature-extraction",
+            "audio",
+            "text-to-speech",
+            "tts",
+            "voice-cloning",
+            "zero-shot",
+            "multilingual",
+            "custom_code"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 121,
+          "trending_score": 121,
+          "published_at": "2026-08-19T04:49:51.000Z",
+          "discovered_at": "2026-08-24",
+          "updated_at": "2026-08-21T05:38:40.000Z",
+          "suitable_for": "播客主、视频创作者、配音从业者和内容团队",
+          "core_features": [
+            "处理语音或音频内容",
+            "支持转写、生成或增强场景",
+            "降低音频制作的时间成本"
+          ],
+          "use_cases": [
+            "语音转写与字幕",
+            "配音和音频增强",
+            "播客内容制作"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。提供转写与配音服务；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "提供转写与配音服务",
+            "承接播客后期",
+            "制作音频内容产品"
+          ],
+          "score_total": 78.2,
+          "score_heat": 91.7,
+          "score_freshness": 76.5,
+          "score_usefulness": 75.4,
+          "score_product": 76.9,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-08-24",
+              "score": 78.2
+            }
+          ],
+          "rank": 3,
+          "carried_forward": false
+        },
+        {
+          "id": "github-alishahryar1-free-claude-code",
+          "slug": "free-claude-code",
+          "name": "free-claude-code",
+          "original_name": "Alishahryar1/free-claude-code",
+          "tagline_zh": "free-claude-code 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "free-claude-code 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/Alishahryar1/free-claude-code",
+          "official_url": "https://github.com/Alishahryar1/free-claude-code",
+          "repo_url": "https://github.com/Alishahryar1/free-claude-code",
+          "logo_url": "https://avatars.githubusercontent.com/u/20476625?v=4",
+          "category": "编程开发",
+          "tags": [
+            "编程开发",
+            "Python"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "MIT",
+          "stars": 48016,
+          "star_growth": 1081,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-08-24",
+          "updated_at": "2026-08-24T02:08:03Z",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 75.9,
+          "score_heat": 100,
+          "score_freshness": 78,
+          "score_usefulness": 62.1,
+          "score_product": 72.2,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-08-24",
+              "score": 75.9
+            }
+          ],
+          "rank": 4,
+          "carried_forward": false
+        },
+        {
+          "id": "producthunt-autoclaw",
+          "slug": "autoclaw",
+          "name": "AutoClaw",
+          "original_name": "AutoClaw",
+          "tagline_zh": "AutoClaw 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "AutoClaw 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "An AI work agent across desktop, browser, and chat Discussion | Link",
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "source_url": "https://www.producthunt.com/products/z-ai",
+          "official_url": "https://www.producthunt.com/products/z-ai",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": null,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": null,
+          "trending_score": null,
+          "published_at": "2026-08-21T16:04:14+00:00",
+          "discovered_at": "2026-08-24",
+          "updated_at": "2026-08-24T10:08:29+08:00",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 64.2,
+          "score_heat": 58.6,
+          "score_freshness": 88.4,
+          "score_usefulness": 64.9,
+          "score_product": 53.6,
+          "score_business": 44,
+          "score_history": [
+            {
+              "date": "2026-08-24",
+              "score": 64.2
+            }
+          ],
+          "rank": 5,
+          "carried_forward": false
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 11
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 22
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    },
     {
       "date": "2026-08-23",
       "display_date": "2026年08月23日",

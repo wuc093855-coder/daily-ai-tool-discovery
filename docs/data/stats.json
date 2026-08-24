@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-23T10:10:19+08:00",
+  "generated_at": "2026-08-24T10:08:29+08:00",
   "history_sufficient": true,
-  "days": 28,
-  "total_tools": 80,
+  "days": 29,
+  "total_tools": 83,
   "today_tools": 5,
-  "today_scanned": 129,
+  "today_scanned": 128,
   "category_counts": {
-    "编程开发": 12,
-    "AI Agent": 30,
+    "编程开发": 13,
+    "AI Agent": 31,
     "开源模型": 18,
-    "音频工具": 3,
+    "音频工具": 4,
     "搜索研究": 5,
     "商业与营销": 2,
     "写作办公": 1,
@@ -19,11 +19,11 @@
     "图像生成": 5
   },
   "source_counts": {
-    "GitHub": 27,
-    "Hugging Face": 26,
-    "Product Hunt": 27
+    "GitHub": 28,
+    "Hugging Face": 27,
+    "Product Hunt": 28
   },
-  "open_source_ratio": 0.9434,
+  "open_source_ratio": 0.9455,
   "free_ratio": null,
   "top_scored": [
     {
@@ -32,14 +32,14 @@
       "score": 83.7
     },
     {
-      "id": "huggingface-incoai-qwen3-8-27b-dflash2",
-      "name": "Qwen3.8-27B-DFlash2",
-      "score": 83.6
-    },
-    {
       "id": "github-mukul975-anthropic-cybersecurity-skills",
       "name": "Anthropic-Cybersecurity-Skills",
       "score": 83.3
+    },
+    {
+      "id": "huggingface-incoai-qwen3-8-27b-dflash2",
+      "name": "Qwen3.8-27B-DFlash2",
+      "score": 82.6
     },
     {
       "id": "github-citrolabs-ego-lite",
