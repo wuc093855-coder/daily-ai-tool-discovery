@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-24T10:08:29+08:00",
+  "generated_at": "2026-08-25T10:04:22+08:00",
   "history_sufficient": true,
-  "days": 29,
-  "total_tools": 83,
+  "days": 30,
+  "total_tools": 86,
   "today_tools": 5,
   "today_scanned": 128,
   "category_counts": {
-    "编程开发": 13,
+    "编程开发": 15,
     "AI Agent": 31,
     "开源模型": 18,
     "音频工具": 4,
-    "搜索研究": 5,
+    "搜索研究": 6,
     "商业与营销": 2,
     "写作办公": 1,
     "数据分析": 1,
@@ -19,11 +19,11 @@
     "图像生成": 5
   },
   "source_counts": {
-    "GitHub": 28,
+    "GitHub": 30,
     "Hugging Face": 27,
-    "Product Hunt": 28
+    "Product Hunt": 29
   },
-  "open_source_ratio": 0.9455,
+  "open_source_ratio": 0.9474,
   "free_ratio": null,
   "top_scored": [
     {
@@ -39,7 +39,7 @@
     {
       "id": "huggingface-incoai-qwen3-8-27b-dflash2",
       "name": "Qwen3.8-27B-DFlash2",
-      "score": 82.6
+      "score": 81.7
     },
     {
       "id": "github-citrolabs-ego-lite",

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-24T10:08:29+08:00",
+  "generated_at": "2026-08-25T10:04:22+08:00",
   "categories": [
     {
       "name": "AI Agent",
@@ -8,7 +8,7 @@
     },
     {
       "name": "编程开发",
-      "count": 13
+      "count": 15
     },
     {
       "name": "图像生成",
@@ -32,7 +32,7 @@
     },
     {
       "name": "搜索研究",
-      "count": 5
+      "count": 6
     },
     {
       "name": "自动化",
