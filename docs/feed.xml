@@ -5,7 +5,14 @@
     <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/</link>
     <description>每天筛选 5 个真正值得关注的 AI 工具。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 25 Aug 2026 02:04:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 02:10:04 +0000</lastBuildDate>
+    <item>
+      <title>2026-08-26 每日 AI 工具精选</title>
+      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
+      <guid isPermaLink="false">daily-ai-tools-2026-08-26</guid>
+      <description>今日精选：Qwen3.8-27B-DFlash2、claude-obsidian、Audio8-TTS-Preview-0.1b、openhuman、Agnost AI</description>
+      <pubDate>Wed, 26 Aug 2026 00:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>2026-08-25 每日 AI 工具精选</title>
       <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
@@ -96,13 +103,6 @@
       <guid isPermaLink="false">daily-ai-tools-2026-08-13</guid>
       <description>今日精选：MiniMax-H3-Realism-People-LoRA、MiniMax-H3-GGUF、agency-agents、orca、Media Sharing</description>
       <pubDate>Thu, 13 Aug 2026 00:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026-08-12 每日 AI 工具精选</title>
-      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
-      <guid isPermaLink="false">daily-ai-tools-2026-08-12</guid>
-      <description>今日精选：OpenMontage、transformers、fuse-1-Lite、Muse-Glimmer-30B-GGUF、Tines 3B</description>
-      <pubDate>Wed, 12 Aug 2026 00:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

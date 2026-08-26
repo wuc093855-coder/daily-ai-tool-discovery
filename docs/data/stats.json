@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-25T10:04:22+08:00",
+  "generated_at": "2026-08-26T10:10:04+08:00",
   "history_sufficient": true,
-  "days": 30,
-  "total_tools": 86,
+  "days": 31,
+  "total_tools": 87,
   "today_tools": 5,
-  "today_scanned": 128,
+  "today_scanned": 127,
   "category_counts": {
     "编程开发": 15,
-    "AI Agent": 31,
+    "AI Agent": 32,
     "开源模型": 18,
     "音频工具": 4,
     "搜索研究": 6,
@@ -21,7 +21,7 @@
   "source_counts": {
     "GitHub": 30,
     "Hugging Face": 27,
-    "Product Hunt": 29
+    "Product Hunt": 30
   },
   "open_source_ratio": 0.9474,
   "free_ratio": null,
@@ -37,11 +37,6 @@
       "score": 83.3
     },
     {
-      "id": "huggingface-incoai-qwen3-8-27b-dflash2",
-      "name": "Qwen3.8-27B-DFlash2",
-      "score": 81.7
-    },
-    {
       "id": "github-citrolabs-ego-lite",
       "name": "ego-lite",
       "score": 81
@@ -50,6 +45,11 @@
       "id": "huggingface-unsloth-kimi-k3",
       "name": "Kimi-K3",
       "score": 80.8
+    },
+    {
+      "id": "huggingface-incoai-qwen3-8-27b-dflash2",
+      "name": "Qwen3.8-27B-DFlash2",
+      "score": 80.7
     }
   ],
   "top_growth": [
