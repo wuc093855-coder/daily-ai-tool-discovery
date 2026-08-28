@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-26T10:10:04+08:00",
+  "generated_at": "2026-08-28T20:03:45+08:00",
   "history_sufficient": true,
-  "days": 31,
-  "total_tools": 87,
+  "days": 32,
+  "total_tools": 91,
   "today_tools": 5,
-  "today_scanned": 127,
+  "today_scanned": 135,
   "category_counts": {
-    "编程开发": 15,
-    "AI Agent": 32,
-    "开源模型": 18,
-    "音频工具": 4,
+    "编程开发": 16,
+    "AI Agent": 33,
+    "开源模型": 19,
+    "音频工具": 5,
     "搜索研究": 6,
     "商业与营销": 2,
     "写作办公": 1,
@@ -19,11 +19,11 @@
     "图像生成": 5
   },
   "source_counts": {
-    "GitHub": 30,
-    "Hugging Face": 27,
-    "Product Hunt": 30
+    "GitHub": 31,
+    "Hugging Face": 29,
+    "Product Hunt": 31
   },
-  "open_source_ratio": 0.9474,
+  "open_source_ratio": 0.95,
   "free_ratio": null,
   "top_scored": [
     {
@@ -37,19 +37,19 @@
       "score": 83.3
     },
     {
+      "id": "huggingface-breezeblue-breeze-tts-2",
+      "name": "Breeze-TTS-2",
+      "score": 82.9
+    },
+    {
+      "id": "github-calesthio-openmontage",
+      "name": "OpenMontage",
+      "score": 81.7
+    },
+    {
       "id": "github-citrolabs-ego-lite",
       "name": "ego-lite",
       "score": 81
-    },
-    {
-      "id": "huggingface-unsloth-kimi-k3",
-      "name": "Kimi-K3",
-      "score": 80.8
-    },
-    {
-      "id": "huggingface-incoai-qwen3-8-27b-dflash2",
-      "name": "Qwen3.8-27B-DFlash2",
-      "score": 80.7
     }
   ],
   "top_growth": [
