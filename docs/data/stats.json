@@ -1,31 +1,36 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-28T20:03:45+08:00",
+  "generated_at": "2026-08-29T15:18:03+08:00",
   "history_sufficient": true,
-  "days": 32,
-  "total_tools": 91,
+  "days": 33,
+  "total_tools": 93,
   "today_tools": 5,
-  "today_scanned": 135,
+  "today_scanned": 126,
   "category_counts": {
     "编程开发": 16,
     "AI Agent": 33,
-    "开源模型": 19,
+    "开源模型": 20,
     "音频工具": 5,
     "搜索研究": 6,
     "商业与营销": 2,
     "写作办公": 1,
     "数据分析": 1,
     "自动化": 3,
-    "图像生成": 5
+    "图像生成": 6
   },
   "source_counts": {
     "GitHub": 31,
-    "Hugging Face": 29,
-    "Product Hunt": 31
+    "Hugging Face": 30,
+    "Product Hunt": 32
   },
-  "open_source_ratio": 0.95,
+  "open_source_ratio": 0.9508,
   "free_ratio": null,
   "top_scored": [
+    {
+      "id": "huggingface-pipecat-ai-phonellm-alpha-1",
+      "name": "phonellm-alpha-1",
+      "score": 84.6
+    },
     {
       "id": "github-tencentcloud-tencentdb-agent-memory",
       "name": "TencentDB-Agent-Memory",
@@ -37,19 +42,14 @@
       "score": 83.3
     },
     {
-      "id": "huggingface-breezeblue-breeze-tts-2",
-      "name": "Breeze-TTS-2",
-      "score": 82.9
-    },
-    {
       "id": "github-calesthio-openmontage",
       "name": "OpenMontage",
-      "score": 81.7
+      "score": 82.3
     },
     {
-      "id": "github-citrolabs-ego-lite",
-      "name": "ego-lite",
-      "score": 81
+      "id": "huggingface-breezeblue-breeze-tts-2",
+      "name": "Breeze-TTS-2",
+      "score": 81.1
     }
   ],
   "top_growth": [

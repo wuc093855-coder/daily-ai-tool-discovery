@@ -5,7 +5,14 @@
     <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/</link>
     <description>每天筛选 5 个真正值得关注的 AI 工具。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 28 Aug 2026 12:03:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 07:18:03 +0000</lastBuildDate>
+    <item>
+      <title>2026-08-29 每日 AI 工具精选</title>
+      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
+      <guid isPermaLink="false">daily-ai-tools-2026-08-29</guid>
+      <description>今日精选：phonellm-alpha-1、OpenMontage、Breeze-TTS-2、scientific-agent-skills、Cohere Parse 5</description>
+      <pubDate>Sat, 29 Aug 2026 00:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>2026-08-28 每日 AI 工具精选</title>
       <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
@@ -96,13 +103,6 @@
       <guid isPermaLink="false">daily-ai-tools-2026-08-15</guid>
       <description>今日精选：dots3-note-prev、Anima-2.9B、ragflow、ego-lite、NS1</description>
       <pubDate>Sat, 15 Aug 2026 00:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026-08-14 每日 AI 工具精选</title>
-      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
-      <guid isPermaLink="false">daily-ai-tools-2026-08-14</guid>
-      <description>今日精选：Anima-2.9B、DeepSeek-V4-Pro-0813、agency-agents、ragflow、Mem Agent</description>
-      <pubDate>Fri, 14 Aug 2026 00:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
