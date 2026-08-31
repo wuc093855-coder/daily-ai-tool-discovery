@@ -17,8 +17,401 @@
       "business": 0.1
     }
   },
-  "updated_at": "2026-08-30T13:42:26+08:00",
+  "updated_at": "2026-08-31T13:59:03+08:00",
   "days": [
+    {
+      "date": "2026-08-31",
+      "display_date": "2026年08月31日",
+      "weekday": "星期一",
+      "updated_at": "2026-08-31T13:59:03+08:00",
+      "tools": [
+        {
+          "id": "huggingface-pipecat-ai-phonellm-alpha-1",
+          "slug": "phonellm-alpha-1",
+          "name": "phonellm-alpha-1",
+          "original_name": "pipecat-ai/phonellm-alpha-1",
+          "tagline_zh": "phonellm-alpha-1 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "phonellm-alpha-1 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors nemotron_h text-generation nemotron mixture-of-experts voice-agent phone",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/pipecat-ai/phonellm-alpha-1",
+          "official_url": "https://huggingface.co/pipecat-ai/phonellm-alpha-1",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "transformers",
+            "safetensors",
+            "nemotron_h",
+            "text-generation",
+            "nemotron",
+            "mixture-of-experts",
+            "voice-agent",
+            "phone",
+            "tool-use",
+            "function-calling",
+            "conversational"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 155,
+          "trending_score": 153,
+          "published_at": "2026-08-24T18:47:20.000Z",
+          "discovered_at": "2026-08-29",
+          "updated_at": "2026-08-30T20:41:34.000Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 84.4,
+          "score_heat": 100,
+          "score_freshness": 69,
+          "score_usefulness": 93.9,
+          "score_product": 77.8,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-08-29",
+              "score": 84.6
+            },
+            {
+              "date": "2026-08-30",
+              "score": 85.4
+            },
+            {
+              "date": "2026-08-31",
+              "score": 84.4
+            }
+          ],
+          "rank": 1,
+          "carried_forward": false
+        },
+        {
+          "id": "github-k-dense-ai-scientific-agent-skills",
+          "slug": "scientific-agent-skills",
+          "name": "scientific-agent-skills",
+          "original_name": "K-Dense-AI/scientific-agent-skills",
+          "tagline_zh": "scientific-agent-skills 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "scientific-agent-skills 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "official_url": "https://k-dense.ai",
+          "repo_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "logo_url": "https://avatars.githubusercontent.com/u/238572432?v=4",
+          "category": "编程开发",
+          "tags": [
+            "编程开发",
+            "Python"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "MIT",
+          "stars": 39731,
+          "star_growth": 1114,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-08-28",
+          "updated_at": "2026-08-31T05:58:52Z",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 81.2,
+          "score_heat": 100,
+          "score_freshness": 78,
+          "score_usefulness": 78,
+          "score_product": 83,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-08-28",
+              "score": 80.5
+            },
+            {
+              "date": "2026-08-29",
+              "score": 79.9
+            },
+            {
+              "date": "2026-08-30",
+              "score": 81.1
+            },
+            {
+              "date": "2026-08-31",
+              "score": 81.2
+            }
+          ],
+          "rank": 2,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-breezeblue-breeze-tts-2",
+          "slug": "breeze-tts-2",
+          "name": "Breeze-TTS-2",
+          "original_name": "BreezeBlue/Breeze-TTS-2",
+          "tagline_zh": "Breeze-TTS-2 是一款聚焦于AI 音频、语音与音乐处理的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Breeze-TTS-2 是一款聚焦于AI 音频、语音与音乐处理的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors breeze text-generation text-to-speech speech-generation voice-clone voice-design",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
+          "official_url": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "音频工具",
+          "tags": [
+            "音频工具",
+            "transformers",
+            "safetensors",
+            "breeze",
+            "text-generation",
+            "text-to-speech",
+            "speech-generation",
+            "voice-clone",
+            "voice-design",
+            "voice-direction",
+            "pytorch",
+            "cuda"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 215,
+          "trending_score": 213,
+          "published_at": "2026-08-25T16:39:34.000Z",
+          "discovered_at": "2026-08-28",
+          "updated_at": "2026-08-25T17:09:45.000Z",
+          "suitable_for": "播客主、视频创作者、配音从业者和内容团队",
+          "core_features": [
+            "处理语音或音频内容",
+            "支持转写、生成或增强场景",
+            "降低音频制作的时间成本"
+          ],
+          "use_cases": [
+            "语音转写与字幕",
+            "配音和音频增强",
+            "播客内容制作"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。提供转写与配音服务；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "提供转写与配音服务",
+            "承接播客后期",
+            "制作音频内容产品"
+          ],
+          "score_total": 80,
+          "score_heat": 100,
+          "score_freshness": 73.3,
+          "score_usefulness": 76.5,
+          "score_product": 78.7,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-08-28",
+              "score": 82.9
+            },
+            {
+              "date": "2026-08-29",
+              "score": 81.1
+            },
+            {
+              "date": "2026-08-30",
+              "score": 79.9
+            },
+            {
+              "date": "2026-08-31",
+              "score": 80.0
+            }
+          ],
+          "rank": 3,
+          "carried_forward": false
+        },
+        {
+          "id": "github-abhigyanpatwari-gitnexus",
+          "slug": "gitnexus",
+          "name": "GitNexus",
+          "original_name": "abhigyanpatwari/GitNexus",
+          "tagline_zh": "GitNexus 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "GitNexus 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/abhigyanpatwari/GitNexus",
+          "official_url": "https://gitnexus.vercel.app",
+          "repo_url": "https://github.com/abhigyanpatwari/GitNexus",
+          "logo_url": "https://avatars.githubusercontent.com/u/126312502?v=4",
+          "category": "编程开发",
+          "tags": [
+            "编程开发",
+            "TypeScript"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": 46645,
+          "star_growth": 182,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-08-31",
+          "updated_at": "2026-08-31T05:58:54Z",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 78,
+          "score_heat": 83.1,
+          "score_freshness": 78,
+          "score_usefulness": 78,
+          "score_product": 83,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-08-31",
+              "score": 78.0
+            }
+          ],
+          "rank": 4,
+          "carried_forward": false
+        },
+        {
+          "id": "producthunt-omlx",
+          "slug": "omlx",
+          "name": "oMLX",
+          "original_name": "oMLX",
+          "tagline_zh": "oMLX 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "oMLX 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Mac LLM server that cuts agent wait times from 90s to 5s Discussion | Link",
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "source_url": "https://www.producthunt.com/products/omlx",
+          "official_url": "https://www.producthunt.com/products/omlx",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": null,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": null,
+          "trending_score": null,
+          "published_at": "2026-08-29T20:17:05+00:00",
+          "discovered_at": "2026-08-31",
+          "updated_at": "2026-08-31T13:59:03+08:00",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 73.1,
+          "score_heat": 78.4,
+          "score_freshness": 93.3,
+          "score_usefulness": 74.3,
+          "score_product": 54.2,
+          "score_business": 44,
+          "score_history": [
+            {
+              "date": "2026-08-31",
+              "score": 73.1
+            }
+          ],
+          "rank": 5,
+          "carried_forward": false
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 12
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 14
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    },
     {
       "date": "2026-08-30",
       "display_date": "2026年08月30日",

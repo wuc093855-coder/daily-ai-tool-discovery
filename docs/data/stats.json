@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-30T13:42:26+08:00",
+  "generated_at": "2026-08-31T13:59:03+08:00",
   "history_sufficient": true,
-  "days": 34,
-  "total_tools": 93,
+  "days": 35,
+  "total_tools": 95,
   "today_tools": 5,
-  "today_scanned": 125,
+  "today_scanned": 121,
   "category_counts": {
-    "编程开发": 16,
-    "AI Agent": 33,
+    "编程开发": 17,
+    "AI Agent": 34,
     "开源模型": 20,
     "音频工具": 5,
     "搜索研究": 6,
@@ -19,17 +19,17 @@
     "图像生成": 6
   },
   "source_counts": {
-    "GitHub": 31,
+    "GitHub": 32,
     "Hugging Face": 30,
-    "Product Hunt": 32
+    "Product Hunt": 33
   },
-  "open_source_ratio": 0.9508,
+  "open_source_ratio": 0.9516,
   "free_ratio": null,
   "top_scored": [
     {
       "id": "huggingface-pipecat-ai-phonellm-alpha-1",
       "name": "phonellm-alpha-1",
-      "score": 85.4
+      "score": 84.4
     },
     {
       "id": "github-tencentcloud-tencentdb-agent-memory",
@@ -49,7 +49,7 @@
     {
       "id": "github-k-dense-ai-scientific-agent-skills",
       "name": "scientific-agent-skills",
-      "score": 81.1
+      "score": 81.2
     }
   ],
   "top_growth": [
@@ -69,14 +69,14 @@
       "growth": 2297
     },
     {
-      "id": "github-k-dense-ai-scientific-agent-skills",
-      "name": "scientific-agent-skills",
-      "growth": 1587
-    },
-    {
       "id": "github-mattpocock-skills",
       "name": "skills",
       "growth": 1359
+    },
+    {
+      "id": "github-stablyai-orca",
+      "name": "orca",
+      "growth": 1235
     }
   ]
 }
