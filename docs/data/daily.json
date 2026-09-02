@@ -17,8 +17,417 @@
       "business": 0.1
     }
   },
-  "updated_at": "2026-09-01T13:31:35+08:00",
+  "updated_at": "2026-09-02T12:57:20+08:00",
   "days": [
+    {
+      "date": "2026-09-02",
+      "display_date": "2026年09月02日",
+      "weekday": "星期三",
+      "updated_at": "2026-09-02T12:57:20+08:00",
+      "tools": [
+        {
+          "id": "huggingface-pipecat-ai-phonellm-alpha-1",
+          "slug": "phonellm-alpha-1",
+          "name": "phonellm-alpha-1",
+          "original_name": "pipecat-ai/phonellm-alpha-1",
+          "tagline_zh": "phonellm-alpha-1 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "phonellm-alpha-1 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors nemotron_h text-generation nemotron mixture-of-experts voice-agent phone",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/pipecat-ai/phonellm-alpha-1",
+          "official_url": "https://huggingface.co/pipecat-ai/phonellm-alpha-1",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "transformers",
+            "safetensors",
+            "nemotron_h",
+            "text-generation",
+            "nemotron",
+            "mixture-of-experts",
+            "voice-agent",
+            "phone",
+            "tool-use",
+            "function-calling",
+            "conversational"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 188,
+          "trending_score": 186,
+          "published_at": "2026-08-24T18:47:20.000Z",
+          "discovered_at": "2026-08-29",
+          "updated_at": "2026-08-30T20:41:34.000Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 82.6,
+          "score_heat": 100,
+          "score_freshness": 59.6,
+          "score_usefulness": 93.9,
+          "score_product": 77.8,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-08-29",
+              "score": 84.6
+            },
+            {
+              "date": "2026-08-30",
+              "score": 85.4
+            },
+            {
+              "date": "2026-08-31",
+              "score": 84.4
+            },
+            {
+              "date": "2026-09-01",
+              "score": 83.5
+            },
+            {
+              "date": "2026-09-02",
+              "score": 82.6
+            }
+          ],
+          "rank": 1,
+          "carried_forward": false
+        },
+        {
+          "id": "github-k-dense-ai-scientific-agent-skills",
+          "slug": "scientific-agent-skills",
+          "name": "scientific-agent-skills",
+          "original_name": "K-Dense-AI/scientific-agent-skills",
+          "tagline_zh": "scientific-agent-skills 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "scientific-agent-skills 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "official_url": "https://k-dense.ai",
+          "repo_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "logo_url": "https://avatars.githubusercontent.com/u/238572432?v=4",
+          "category": "编程开发",
+          "tags": [
+            "编程开发",
+            "Python"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "MIT",
+          "stars": 41688,
+          "star_growth": 912,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-08-28",
+          "updated_at": "2026-09-02T04:54:06Z",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 81.2,
+          "score_heat": 100,
+          "score_freshness": 78,
+          "score_usefulness": 78,
+          "score_product": 83,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-08-28",
+              "score": 80.5
+            },
+            {
+              "date": "2026-08-29",
+              "score": 79.9
+            },
+            {
+              "date": "2026-08-30",
+              "score": 81.1
+            },
+            {
+              "date": "2026-08-31",
+              "score": 81.2
+            },
+            {
+              "date": "2026-09-01",
+              "score": 80.1
+            },
+            {
+              "date": "2026-09-02",
+              "score": 81.2
+            }
+          ],
+          "rank": 2,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-deepseek-ai-deepseek-v4-flash-vision-exp",
+          "slug": "deepseek-v4-flash-vision-exp",
+          "name": "DeepSeek-V4-Flash-Vision-Exp",
+          "original_name": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+          "tagline_zh": "DeepSeek-V4-Flash-Vision-Exp 是一款聚焦于AI 图像生成与视觉设计的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "DeepSeek-V4-Flash-Vision-Exp 是一款聚焦于AI 图像生成与视觉设计的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors deepseek_v4 text-generation image-text-to-text license:mit eval-results endpoints_compatible",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+          "official_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "图像生成",
+          "tags": [
+            "图像生成",
+            "transformers",
+            "safetensors",
+            "deepseek_v4",
+            "text-generation",
+            "image-text-to-text",
+            "license:mit",
+            "eval-results",
+            "endpoints_compatible",
+            "8-bit",
+            "fp8",
+            "region:us"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 459,
+          "trending_score": 450,
+          "published_at": "2026-08-31T06:16:18.000Z",
+          "discovered_at": "2026-09-01",
+          "updated_at": "2026-09-01T09:22:10.000Z",
+          "suitable_for": "设计师、自媒体创作者、电商从业者和营销团队",
+          "core_features": [
+            "生成或编辑视觉素材",
+            "加快创意方案迭代",
+            "降低设计内容的制作门槛"
+          ],
+          "use_cases": [
+            "制作电商与社媒素材",
+            "生成创意概念图",
+            "辅助品牌视觉探索"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。制作电商图与社媒素材；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "制作电商图与社媒素材",
+            "提供视觉设计服务",
+            "生产数字素材产品"
+          ],
+          "score_total": 80,
+          "score_heat": 100,
+          "score_freshness": 90.7,
+          "score_usefulness": 68.4,
+          "score_product": 80,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-09-01",
+              "score": 81.3
+            },
+            {
+              "date": "2026-09-02",
+              "score": 80.0
+            }
+          ],
+          "rank": 3,
+          "carried_forward": false
+        },
+        {
+          "id": "github-affaan-m-ecc",
+          "slug": "ecc",
+          "name": "ECC",
+          "original_name": "affaan-m/ECC",
+          "tagline_zh": "ECC 是一款聚焦于AI 搜索、研究与知识管理的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "ECC 是一款聚焦于AI 搜索、研究与知识管理的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/affaan-m/ECC",
+          "official_url": "https://ecc.tools",
+          "repo_url": "https://github.com/affaan-m/ECC",
+          "logo_url": "https://avatars.githubusercontent.com/u/124439313?v=4",
+          "category": "搜索研究",
+          "tags": [
+            "搜索研究",
+            "JavaScript"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "MIT",
+          "stars": 245833,
+          "star_growth": 623,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-07-29",
+          "updated_at": "2026-09-02T04:56:50Z",
+          "suitable_for": "研究人员、学生、知识工作者和咨询团队",
+          "core_features": [
+            "检索并整理分散信息",
+            "对文档或知识库进行问答",
+            "提高研究与阅读效率"
+          ],
+          "use_cases": [
+            "行业与竞品研究",
+            "私有知识库问答",
+            "长文档快速理解"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。交付研究报告；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "交付研究报告",
+            "搭建企业知识库",
+            "提供资料整理服务"
+          ],
+          "score_total": 75.4,
+          "score_heat": 100,
+          "score_freshness": 78,
+          "score_usefulness": 63.2,
+          "score_product": 74,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-07-29",
+              "score": 75.4
+            },
+            {
+              "date": "2026-07-31",
+              "score": 74.8
+            },
+            {
+              "date": "2026-09-02",
+              "score": 75.4
+            }
+          ],
+          "rank": 4,
+          "carried_forward": false
+        },
+        {
+          "id": "producthunt-murmell",
+          "slug": "murmell",
+          "name": "Murmell",
+          "original_name": "Murmell",
+          "tagline_zh": "Murmell 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Murmell 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Google docs for AI agents, and you can close your laptop Discussion | Link",
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "source_url": "https://www.producthunt.com/products/murmell",
+          "official_url": "https://www.producthunt.com/products/murmell",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": null,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": null,
+          "trending_score": null,
+          "published_at": "2026-08-31T22:39:25+00:00",
+          "discovered_at": "2026-09-02",
+          "updated_at": "2026-09-02T12:57:20+08:00",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 70.5,
+          "score_heat": 78.4,
+          "score_freshness": 93.9,
+          "score_usefulness": 65.3,
+          "score_product": 54.2,
+          "score_business": 44,
+          "score_history": [
+            {
+              "date": "2026-09-02",
+              "score": 70.5
+            }
+          ],
+          "rank": 5,
+          "carried_forward": false
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 7
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 17
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    },
     {
       "date": "2026-09-01",
       "display_date": "2026年09月01日",

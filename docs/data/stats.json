@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-01T13:31:35+08:00",
+  "generated_at": "2026-09-02T12:57:20+08:00",
   "history_sufficient": true,
-  "days": 36,
-  "total_tools": 97,
+  "days": 37,
+  "total_tools": 98,
   "today_tools": 5,
-  "today_scanned": 117,
+  "today_scanned": 119,
   "category_counts": {
     "编程开发": 17,
-    "AI Agent": 34,
+    "AI Agent": 35,
     "开源模型": 21,
     "音频工具": 5,
     "搜索研究": 6,
@@ -21,7 +21,7 @@
   "source_counts": {
     "GitHub": 33,
     "Hugging Face": 31,
-    "Product Hunt": 33
+    "Product Hunt": 34
   },
   "open_source_ratio": 0.9531,
   "free_ratio": null,
@@ -32,14 +32,14 @@
       "score": 83.7
     },
     {
-      "id": "huggingface-pipecat-ai-phonellm-alpha-1",
-      "name": "phonellm-alpha-1",
-      "score": 83.5
-    },
-    {
       "id": "github-mukul975-anthropic-cybersecurity-skills",
       "name": "Anthropic-Cybersecurity-Skills",
       "score": 83.3
+    },
+    {
+      "id": "huggingface-pipecat-ai-phonellm-alpha-1",
+      "name": "phonellm-alpha-1",
+      "score": 82.6
     },
     {
       "id": "github-calesthio-openmontage",
@@ -47,9 +47,9 @@
       "score": 82.3
     },
     {
-      "id": "huggingface-deepseek-ai-deepseek-v4-flash-vision-exp",
-      "name": "DeepSeek-V4-Flash-Vision-Exp",
-      "score": 81.3
+      "id": "github-k-dense-ai-scientific-agent-skills",
+      "name": "scientific-agent-skills",
+      "score": 81.2
     }
   ],
   "top_growth": [
@@ -69,14 +69,14 @@
       "growth": 2297
     },
     {
-      "id": "github-k-dense-ai-scientific-agent-skills",
-      "name": "scientific-agent-skills",
-      "growth": 1980
-    },
-    {
       "id": "github-mattpocock-skills",
       "name": "skills",
       "growth": 1359
+    },
+    {
+      "id": "github-stablyai-orca",
+      "name": "orca",
+      "growth": 1235
     }
   ]
 }
