@@ -17,8 +17,397 @@
       "business": 0.1
     }
   },
-  "updated_at": "2026-09-02T12:57:20+08:00",
+  "updated_at": "2026-09-03T12:54:40+08:00",
   "days": [
+    {
+      "date": "2026-09-03",
+      "display_date": "2026年09月03日",
+      "weekday": "星期四",
+      "updated_at": "2026-09-03T12:54:40+08:00",
+      "tools": [
+        {
+          "id": "huggingface-pipecat-ai-phonellm-alpha-1",
+          "slug": "phonellm-alpha-1",
+          "name": "phonellm-alpha-1",
+          "original_name": "pipecat-ai/phonellm-alpha-1",
+          "tagline_zh": "phonellm-alpha-1 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "phonellm-alpha-1 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors nemotron_h text-generation nemotron mixture-of-experts voice-agent phone",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/pipecat-ai/phonellm-alpha-1",
+          "official_url": "https://huggingface.co/pipecat-ai/phonellm-alpha-1",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "transformers",
+            "safetensors",
+            "nemotron_h",
+            "text-generation",
+            "nemotron",
+            "mixture-of-experts",
+            "voice-agent",
+            "phone",
+            "tool-use",
+            "function-calling",
+            "conversational"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 200,
+          "trending_score": 197,
+          "published_at": "2026-08-24T18:47:20.000Z",
+          "discovered_at": "2026-08-29",
+          "updated_at": "2026-08-30T20:41:34.000Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 81.6,
+          "score_heat": 100,
+          "score_freshness": 54.8,
+          "score_usefulness": 93.9,
+          "score_product": 77.8,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-08-29",
+              "score": 84.6
+            },
+            {
+              "date": "2026-08-30",
+              "score": 85.4
+            },
+            {
+              "date": "2026-08-31",
+              "score": 84.4
+            },
+            {
+              "date": "2026-09-01",
+              "score": 83.5
+            },
+            {
+              "date": "2026-09-02",
+              "score": 82.6
+            },
+            {
+              "date": "2026-09-03",
+              "score": 81.6
+            }
+          ],
+          "rank": 1,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-deepseek-ai-deepseek-v4-flash-vision-exp",
+          "slug": "deepseek-v4-flash-vision-exp",
+          "name": "DeepSeek-V4-Flash-Vision-Exp",
+          "original_name": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+          "tagline_zh": "DeepSeek-V4-Flash-Vision-Exp 是一款聚焦于AI 图像生成与视觉设计的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "DeepSeek-V4-Flash-Vision-Exp 是一款聚焦于AI 图像生成与视觉设计的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors deepseek_v4 text-generation image-text-to-text license:mit eval-results endpoints_compatible",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+          "official_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "图像生成",
+          "tags": [
+            "图像生成",
+            "transformers",
+            "safetensors",
+            "deepseek_v4",
+            "text-generation",
+            "image-text-to-text",
+            "license:mit",
+            "eval-results",
+            "endpoints_compatible",
+            "8-bit",
+            "fp8",
+            "region:us"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 512,
+          "trending_score": 492,
+          "published_at": "2026-08-31T06:16:18.000Z",
+          "discovered_at": "2026-09-01",
+          "updated_at": "2026-09-01T09:22:10.000Z",
+          "suitable_for": "设计师、自媒体创作者、电商从业者和营销团队",
+          "core_features": [
+            "生成或编辑视觉素材",
+            "加快创意方案迭代",
+            "降低设计内容的制作门槛"
+          ],
+          "use_cases": [
+            "制作电商与社媒素材",
+            "生成创意概念图",
+            "辅助品牌视觉探索"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。制作电商图与社媒素材；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "制作电商图与社媒素材",
+            "提供视觉设计服务",
+            "生产数字素材产品"
+          ],
+          "score_total": 79.4,
+          "score_heat": 100,
+          "score_freshness": 85.9,
+          "score_usefulness": 68.4,
+          "score_product": 80,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-09-01",
+              "score": 81.3
+            },
+            {
+              "date": "2026-09-02",
+              "score": 80.0
+            },
+            {
+              "date": "2026-09-03",
+              "score": 79.4
+            }
+          ],
+          "rank": 2,
+          "carried_forward": false
+        },
+        {
+          "id": "github-debpalash-voicestudio",
+          "slug": "voicestudio",
+          "name": "VoiceStudio",
+          "original_name": "debpalash/VoiceStudio",
+          "tagline_zh": "VoiceStudio 是一款聚焦于AI 音频、语音与音乐处理的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "VoiceStudio 是一款聚焦于AI 音频、语音与音乐处理的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/debpalash/VoiceStudio",
+          "official_url": "https://voicestudio.sh",
+          "repo_url": "https://github.com/debpalash/VoiceStudio",
+          "logo_url": "https://avatars.githubusercontent.com/u/4178343?v=4",
+          "category": "音频工具",
+          "tags": [
+            "音频工具",
+            "Python"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "AGPL-3.0",
+          "stars": 15089,
+          "star_growth": 832,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-09-03",
+          "updated_at": "2026-09-03T04:53:46Z",
+          "suitable_for": "播客主、视频创作者、配音从业者和内容团队",
+          "core_features": [
+            "处理语音或音频内容",
+            "支持转写、生成或增强场景",
+            "降低音频制作的时间成本"
+          ],
+          "use_cases": [
+            "语音转写与字幕",
+            "配音和音频增强",
+            "播客内容制作"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。提供转写与配音服务；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "提供转写与配音服务",
+            "承接播客后期",
+            "制作音频内容产品"
+          ],
+          "score_total": 77,
+          "score_heat": 97.1,
+          "score_freshness": 78,
+          "score_usefulness": 63.6,
+          "score_product": 74.6,
+          "score_business": 69,
+          "score_history": [
+            {
+              "date": "2026-09-03",
+              "score": 77.0
+            }
+          ],
+          "rank": 3,
+          "carried_forward": false
+        },
+        {
+          "id": "github-dietrichgebert-ponytail",
+          "slug": "ponytail",
+          "name": "ponytail",
+          "original_name": "DietrichGebert/ponytail",
+          "tagline_zh": "ponytail 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "ponytail 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/DietrichGebert/ponytail",
+          "official_url": "https://ponytail.dev",
+          "repo_url": "https://github.com/DietrichGebert/ponytail",
+          "logo_url": "https://avatars.githubusercontent.com/u/137048761?v=4",
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent",
+            "JavaScript"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "MIT",
+          "stars": 122012,
+          "star_growth": 1354,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-09-03",
+          "updated_at": "2026-09-03T04:53:45Z",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 75.7,
+          "score_heat": 100,
+          "score_freshness": 78,
+          "score_usefulness": 67.8,
+          "score_product": 67.1,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-09-03",
+              "score": 75.7
+            }
+          ],
+          "rank": 4,
+          "carried_forward": false
+        },
+        {
+          "id": "producthunt-basedash-ai-sources",
+          "slug": "basedash-ai-sources",
+          "name": "Basedash AI Sources",
+          "original_name": "Basedash AI Sources",
+          "tagline_zh": "Basedash AI Sources 是一款聚焦于AI 工作流与流程自动化的AI 产品，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Basedash AI Sources 是一款聚焦于AI 工作流与流程自动化的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Trust every AI answer by seeing what built it Discussion | Link",
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "source_url": "https://www.producthunt.com/products/basedash",
+          "official_url": "https://www.producthunt.com/products/basedash",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "自动化",
+          "tags": [
+            "自动化"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": null,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": null,
+          "trending_score": null,
+          "published_at": "2026-09-02T04:29:20+00:00",
+          "discovered_at": "2026-09-03",
+          "updated_at": "2026-09-03T12:54:40+08:00",
+          "suitable_for": "运营人员、独立开发者、小团队和效率爱好者",
+          "core_features": [
+            "连接工具和数据完成重复流程",
+            "减少人工操作与信息搬运",
+            "支持快速搭建自动化方案"
+          ],
+          "use_cases": [
+            "业务流程自动化",
+            "跨工具信息同步",
+            "低代码工作流搭建"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。提供流程代搭建；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "提供流程代搭建",
+            "交付运营自动化",
+            "售卖工作流模板"
+          ],
+          "score_total": 69.8,
+          "score_heat": 87.2,
+          "score_freshness": 95.1,
+          "score_usefulness": 55.5,
+          "score_product": 53,
+          "score_business": 44,
+          "score_history": [
+            {
+              "date": "2026-09-03",
+              "score": 69.8
+            }
+          ],
+          "rank": 5,
+          "carried_forward": false
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 12
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 17
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    },
     {
       "date": "2026-09-02",
       "display_date": "2026年09月02日",

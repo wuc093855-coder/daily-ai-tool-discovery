@@ -5,7 +5,14 @@
     <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/</link>
     <description>每天筛选 5 个真正值得关注的 AI 工具。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 02 Sep 2026 04:57:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 04:54:40 +0000</lastBuildDate>
+    <item>
+      <title>2026-09-03 每日 AI 工具精选</title>
+      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
+      <guid isPermaLink="false">daily-ai-tools-2026-09-03</guid>
+      <description>今日精选：phonellm-alpha-1、DeepSeek-V4-Flash-Vision-Exp、VoiceStudio、ponytail、Basedash AI Sources</description>
+      <pubDate>Thu, 03 Sep 2026 00:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>2026-09-02 每日 AI 工具精选</title>
       <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
@@ -96,13 +103,6 @@
       <guid isPermaLink="false">daily-ai-tools-2026-08-20</guid>
       <description>今日精选：Anthropic-Cybersecurity-Skills、Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16、Qwen3.8-27B-Uncensored-FP8、OpenViking、anyCreature by Gobkit</description>
       <pubDate>Thu, 20 Aug 2026 00:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026-08-19 每日 AI 工具精选</title>
-      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
-      <guid isPermaLink="false">daily-ai-tools-2026-08-19</guid>
-      <description>今日精选：Anthropic-Cybersecurity-Skills、Qwen3.8-27B-Uncensored-FP8、Qwen3.8-27B-Uncensored-MLX、MoneyPrinterTurbo、Gauge</description>
-      <pubDate>Wed, 19 Aug 2026 00:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,29 +1,29 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-02T12:57:20+08:00",
+  "generated_at": "2026-09-03T12:54:40+08:00",
   "history_sufficient": true,
-  "days": 37,
-  "total_tools": 98,
+  "days": 38,
+  "total_tools": 101,
   "today_tools": 5,
-  "today_scanned": 119,
+  "today_scanned": 124,
   "category_counts": {
     "编程开发": 17,
-    "AI Agent": 35,
+    "AI Agent": 36,
     "开源模型": 21,
-    "音频工具": 5,
+    "音频工具": 6,
     "搜索研究": 6,
     "商业与营销": 2,
     "写作办公": 1,
     "数据分析": 1,
-    "自动化": 3,
+    "自动化": 4,
     "图像生成": 7
   },
   "source_counts": {
-    "GitHub": 33,
+    "GitHub": 35,
     "Hugging Face": 31,
-    "Product Hunt": 34
+    "Product Hunt": 35
   },
-  "open_source_ratio": 0.9531,
+  "open_source_ratio": 0.9545,
   "free_ratio": null,
   "top_scored": [
     {
@@ -37,14 +37,14 @@
       "score": 83.3
     },
     {
-      "id": "huggingface-pipecat-ai-phonellm-alpha-1",
-      "name": "phonellm-alpha-1",
-      "score": 82.6
-    },
-    {
       "id": "github-calesthio-openmontage",
       "name": "OpenMontage",
       "score": 82.3
+    },
+    {
+      "id": "huggingface-pipecat-ai-phonellm-alpha-1",
+      "name": "phonellm-alpha-1",
+      "score": 81.6
     },
     {
       "id": "github-k-dense-ai-scientific-agent-skills",
@@ -74,9 +74,9 @@
       "growth": 1359
     },
     {
-      "id": "github-stablyai-orca",
-      "name": "orca",
-      "growth": 1235
+      "id": "github-dietrichgebert-ponytail",
+      "name": "ponytail",
+      "growth": 1354
     }
   ]
 }
