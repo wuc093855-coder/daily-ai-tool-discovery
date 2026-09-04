@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-03T12:54:40+08:00",
+  "generated_at": "2026-09-04T12:59:28+08:00",
   "history_sufficient": true,
-  "days": 38,
-  "total_tools": 101,
+  "days": 39,
+  "total_tools": 102,
   "today_tools": 5,
-  "today_scanned": 124,
+  "today_scanned": 126,
   "category_counts": {
     "编程开发": 17,
-    "AI Agent": 36,
+    "AI Agent": 37,
     "开源模型": 21,
     "音频工具": 6,
     "搜索研究": 6,
@@ -21,7 +21,7 @@
   "source_counts": {
     "GitHub": 35,
     "Hugging Face": 31,
-    "Product Hunt": 35
+    "Product Hunt": 36
   },
   "open_source_ratio": 0.9545,
   "free_ratio": null,
@@ -42,14 +42,14 @@
       "score": 82.3
     },
     {
-      "id": "huggingface-pipecat-ai-phonellm-alpha-1",
-      "name": "phonellm-alpha-1",
-      "score": 81.6
-    },
-    {
       "id": "github-k-dense-ai-scientific-agent-skills",
       "name": "scientific-agent-skills",
       "score": 81.2
+    },
+    {
+      "id": "github-citrolabs-ego-lite",
+      "name": "ego-lite",
+      "score": 81
     }
   ],
   "top_growth": [
@@ -69,14 +69,14 @@
       "growth": 2297
     },
     {
-      "id": "github-mattpocock-skills",
-      "name": "skills",
-      "growth": 1359
-    },
-    {
       "id": "github-dietrichgebert-ponytail",
       "name": "ponytail",
-      "growth": 1354
+      "growth": 2128
+    },
+    {
+      "id": "github-debpalash-voicestudio",
+      "name": "VoiceStudio",
+      "growth": 1672
     }
   ]
 }
