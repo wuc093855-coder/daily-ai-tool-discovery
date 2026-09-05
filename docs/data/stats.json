@@ -1,29 +1,29 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-04T12:59:28+08:00",
+  "generated_at": "2026-09-05T12:51:57+08:00",
   "history_sufficient": true,
-  "days": 39,
-  "total_tools": 102,
+  "days": 40,
+  "total_tools": 104,
   "today_tools": 5,
-  "today_scanned": 126,
+  "today_scanned": 129,
   "category_counts": {
     "编程开发": 17,
-    "AI Agent": 37,
+    "AI Agent": 38,
     "开源模型": 21,
     "音频工具": 6,
     "搜索研究": 6,
     "商业与营销": 2,
     "写作办公": 1,
-    "数据分析": 1,
+    "数据分析": 2,
     "自动化": 4,
     "图像生成": 7
   },
   "source_counts": {
     "GitHub": 35,
-    "Hugging Face": 31,
-    "Product Hunt": 36
+    "Hugging Face": 32,
+    "Product Hunt": 37
   },
-  "open_source_ratio": 0.9545,
+  "open_source_ratio": 0.9552,
   "free_ratio": null,
   "top_scored": [
     {
@@ -71,12 +71,12 @@
     {
       "id": "github-dietrichgebert-ponytail",
       "name": "ponytail",
-      "growth": 2128
+      "growth": 1679
     },
     {
-      "id": "github-debpalash-voicestudio",
-      "name": "VoiceStudio",
-      "growth": 1672
+      "id": "github-mattpocock-skills",
+      "name": "skills",
+      "growth": 1359
     }
   ]
 }
