@@ -1,31 +1,36 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-05T12:51:57+08:00",
+  "generated_at": "2026-09-06T12:59:26+08:00",
   "history_sufficient": true,
-  "days": 40,
-  "total_tools": 104,
+  "days": 41,
+  "total_tools": 107,
   "today_tools": 5,
   "today_scanned": 129,
   "category_counts": {
     "编程开发": 17,
     "AI Agent": 38,
-    "开源模型": 21,
+    "开源模型": 23,
     "音频工具": 6,
     "搜索研究": 6,
     "商业与营销": 2,
     "写作办公": 1,
     "数据分析": 2,
-    "自动化": 4,
+    "自动化": 5,
     "图像生成": 7
   },
   "source_counts": {
-    "GitHub": 35,
-    "Hugging Face": 32,
-    "Product Hunt": 37
+    "GitHub": 36,
+    "Hugging Face": 33,
+    "Product Hunt": 38
   },
-  "open_source_ratio": 0.9552,
+  "open_source_ratio": 0.9565,
   "free_ratio": null,
   "top_scored": [
+    {
+      "id": "huggingface-jackrong-qwopus3-8-27b-flash-gguf",
+      "name": "Qwopus3.8-27B-Flash-GGUF",
+      "score": 86.7
+    },
     {
       "id": "github-tencentcloud-tencentdb-agent-memory",
       "name": "TencentDB-Agent-Memory",
@@ -45,11 +50,6 @@
       "id": "github-k-dense-ai-scientific-agent-skills",
       "name": "scientific-agent-skills",
       "score": 81.2
-    },
-    {
-      "id": "github-citrolabs-ego-lite",
-      "name": "ego-lite",
-      "score": 81
     }
   ],
   "top_growth": [

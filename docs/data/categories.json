@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-05T12:51:57+08:00",
+  "generated_at": "2026-09-06T12:59:26+08:00",
   "categories": [
     {
       "name": "AI Agent",
@@ -36,11 +36,11 @@
     },
     {
       "name": "自动化",
-      "count": 4
+      "count": 5
     },
     {
       "name": "开源模型",
-      "count": 21
+      "count": 23
     },
     {
       "name": "本地工具",
