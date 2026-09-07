@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-06T12:59:26+08:00",
+  "generated_at": "2026-09-07T13:06:44+08:00",
   "history_sufficient": true,
-  "days": 41,
-  "total_tools": 107,
+  "days": 42,
+  "total_tools": 109,
   "today_tools": 5,
-  "today_scanned": 129,
+  "today_scanned": 135,
   "category_counts": {
     "编程开发": 17,
-    "AI Agent": 38,
+    "AI Agent": 39,
     "开源模型": 23,
-    "音频工具": 6,
+    "音频工具": 7,
     "搜索研究": 6,
     "商业与营销": 2,
     "写作办公": 1,
@@ -20,16 +20,16 @@
   },
   "source_counts": {
     "GitHub": 36,
-    "Hugging Face": 33,
-    "Product Hunt": 38
+    "Hugging Face": 34,
+    "Product Hunt": 39
   },
-  "open_source_ratio": 0.9565,
+  "open_source_ratio": 0.9571,
   "free_ratio": null,
   "top_scored": [
     {
       "id": "huggingface-jackrong-qwopus3-8-27b-flash-gguf",
       "name": "Qwopus3.8-27B-Flash-GGUF",
-      "score": 86.7
+      "score": 87.4
     },
     {
       "id": "github-tencentcloud-tencentdb-agent-memory",
@@ -47,9 +47,9 @@
       "score": 82.3
     },
     {
-      "id": "github-k-dense-ai-scientific-agent-skills",
-      "name": "scientific-agent-skills",
-      "score": 81.2
+      "id": "github-ruvnet-ruflo",
+      "name": "ruflo",
+      "score": 82.1
     }
   ],
   "top_growth": [
