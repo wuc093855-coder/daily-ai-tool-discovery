@@ -1,35 +1,40 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-07T13:06:44+08:00",
+  "generated_at": "2026-09-08T13:05:00+08:00",
   "history_sufficient": true,
-  "days": 42,
-  "total_tools": 109,
+  "days": 43,
+  "total_tools": 112,
   "today_tools": 5,
-  "today_scanned": 135,
+  "today_scanned": 136,
   "category_counts": {
-    "编程开发": 17,
+    "编程开发": 18,
     "AI Agent": 39,
     "开源模型": 23,
     "音频工具": 7,
     "搜索研究": 6,
-    "商业与营销": 2,
+    "商业与营销": 3,
     "写作办公": 1,
-    "数据分析": 2,
+    "数据分析": 3,
     "自动化": 5,
     "图像生成": 7
   },
   "source_counts": {
-    "GitHub": 36,
-    "Hugging Face": 34,
-    "Product Hunt": 39
+    "GitHub": 37,
+    "Hugging Face": 35,
+    "Product Hunt": 40
   },
-  "open_source_ratio": 0.9571,
+  "open_source_ratio": 0.9583,
   "free_ratio": null,
   "top_scored": [
     {
       "id": "huggingface-jackrong-qwopus3-8-27b-flash-gguf",
       "name": "Qwopus3.8-27B-Flash-GGUF",
-      "score": 87.4
+      "score": 87.1
+    },
+    {
+      "id": "huggingface-openbmb-minicpm5-2b",
+      "name": "MiniCPM5-2B",
+      "score": 84.9
     },
     {
       "id": "github-tencentcloud-tencentdb-agent-memory",
@@ -42,14 +47,9 @@
       "score": 83.3
     },
     {
-      "id": "github-calesthio-openmontage",
-      "name": "OpenMontage",
-      "score": 82.3
-    },
-    {
       "id": "github-ruvnet-ruflo",
       "name": "ruflo",
-      "score": 82.1
+      "score": 83.1
     }
   ],
   "top_growth": [
