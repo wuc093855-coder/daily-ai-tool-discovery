@@ -17,8 +17,389 @@
       "business": 0.1
     }
   },
-  "updated_at": "2026-09-08T13:05:00+08:00",
+  "updated_at": "2026-09-09T13:03:41+08:00",
   "days": [
+    {
+      "date": "2026-09-09",
+      "display_date": "2026年09月09日",
+      "weekday": "星期三",
+      "updated_at": "2026-09-09T13:03:41+08:00",
+      "tools": [
+        {
+          "id": "huggingface-jackrong-qwopus3-8-27b-flash-gguf",
+          "slug": "qwopus3-8-27b-flash-gguf",
+          "name": "Qwopus3.8-27B-Flash-GGUF",
+          "original_name": "Jackrong/Qwopus3.8-27B-Flash-GGUF",
+          "tagline_zh": "Qwopus3.8-27B-Flash-GGUF 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Qwopus3.8-27B-Flash-GGUF 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers gguf llama.cpp image-text-to-text vision multimodal text-generation-inference unsloth",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/Jackrong/Qwopus3.8-27B-Flash-GGUF",
+          "official_url": "https://huggingface.co/Jackrong/Qwopus3.8-27B-Flash-GGUF",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "transformers",
+            "gguf",
+            "llama.cpp",
+            "image-text-to-text",
+            "vision",
+            "multimodal",
+            "text-generation-inference",
+            "unsloth",
+            "conversational",
+            "text-generation",
+            "qwen3_8"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 148,
+          "trending_score": 146,
+          "published_at": "2026-09-04T12:43:31.000Z",
+          "discovered_at": "2026-09-06",
+          "updated_at": "2026-09-06T00:09:49.000Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 86.2,
+          "score_heat": 100,
+          "score_freshness": 77.5,
+          "score_usefulness": 94,
+          "score_product": 77.9,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-09-06",
+              "score": 86.7
+            },
+            {
+              "date": "2026-09-07",
+              "score": 87.4
+            },
+            {
+              "date": "2026-09-08",
+              "score": 87.1
+            },
+            {
+              "date": "2026-09-09",
+              "score": 86.2
+            }
+          ],
+          "rank": 1,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-openbmb-minicpm5-2b",
+          "slug": "minicpm5-2b",
+          "name": "MiniCPM5-2B",
+          "original_name": "openbmb/MiniCPM5-2B",
+          "tagline_zh": "MiniCPM5-2B 是一款聚焦于AI 数据处理与分析的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "MiniCPM5-2B 是一款聚焦于AI 数据处理与分析的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors llama text-generation minicpm minicpm5 long-context tool-calling",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+          "official_url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "数据分析",
+          "tags": [
+            "数据分析",
+            "transformers",
+            "safetensors",
+            "llama",
+            "text-generation",
+            "minicpm",
+            "minicpm5",
+            "long-context",
+            "tool-calling",
+            "on-device",
+            "edge-ai",
+            "conversational"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 741,
+          "trending_score": 593,
+          "published_at": "2026-09-06T11:12:19.000Z",
+          "discovered_at": "2026-09-08",
+          "updated_at": "2026-09-08T09:08:22.000Z",
+          "suitable_for": "分析师、产品经理、研究人员和中小企业经营者",
+          "core_features": [
+            "辅助清洗、理解或分析数据",
+            "生成可读的洞察与结果",
+            "缩短从数据到决策的路径"
+          ],
+          "use_cases": [
+            "业务数据分析",
+            "报告与看板生成",
+            "数据清洗和探索"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。交付数据报告；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "交付数据报告",
+            "搭建商业看板",
+            "提供分析咨询"
+          ],
+          "score_total": 83.9,
+          "score_heat": 100,
+          "score_freshness": 86.8,
+          "score_usefulness": 84.4,
+          "score_product": 76.9,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-09-08",
+              "score": 84.9
+            },
+            {
+              "date": "2026-09-09",
+              "score": 83.9
+            }
+          ],
+          "rank": 2,
+          "carried_forward": false
+        },
+        {
+          "id": "github-coreyhaines31-marketingskills",
+          "slug": "marketingskills",
+          "name": "marketingskills",
+          "original_name": "coreyhaines31/marketingskills",
+          "tagline_zh": "marketingskills 是一款聚焦于AI 商业增长与营销的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "marketingskills 是一款聚焦于AI 商业增长与营销的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/coreyhaines31/marketingskills",
+          "official_url": "https://marketing-skills.com",
+          "repo_url": "https://github.com/coreyhaines31/marketingskills",
+          "logo_url": "https://avatars.githubusercontent.com/u/34802794?v=4",
+          "category": "商业与营销",
+          "tags": [
+            "商业与营销",
+            "JavaScript"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "MIT",
+          "stars": 48947,
+          "star_growth": 666,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-09-08",
+          "updated_at": "2026-09-09T05:02:34Z",
+          "suitable_for": "创业者、销售、市场团队和电商经营者",
+          "core_features": [
+            "辅助获客、销售或营销执行",
+            "提升内容和触达效率",
+            "支持业务增长实验"
+          ],
+          "use_cases": [
+            "营销内容生成",
+            "销售线索处理",
+            "增长流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。提供营销代运营；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "提供营销代运营",
+            "交付增长自动化",
+            "开发垂直营销工具"
+          ],
+          "score_total": 78.2,
+          "score_heat": 97.4,
+          "score_freshness": 78,
+          "score_usefulness": 67.5,
+          "score_product": 66.7,
+          "score_business": 80,
+          "score_history": [
+            {
+              "date": "2026-09-08",
+              "score": 77.8
+            },
+            {
+              "date": "2026-09-09",
+              "score": 78.2
+            }
+          ],
+          "rank": 3,
+          "carried_forward": false
+        },
+        {
+          "id": "github-mksglu-context-mode",
+          "slug": "context-mode",
+          "name": "context-mode",
+          "original_name": "mksglu/context-mode",
+          "tagline_zh": "context-mode 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "context-mode 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/mksglu/context-mode",
+          "official_url": "https://context-mode.com",
+          "repo_url": "https://github.com/mksglu/context-mode",
+          "logo_url": "https://avatars.githubusercontent.com/u/6067714?v=4",
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent",
+            "TypeScript"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": 21475,
+          "star_growth": 651,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-09-09",
+          "updated_at": "2026-09-09T04:59:57Z",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 75.8,
+          "score_heat": 95.2,
+          "score_freshness": 78,
+          "score_usefulness": 72.2,
+          "score_product": 74,
+          "score_business": 36,
+          "score_history": [
+            {
+              "date": "2026-09-09",
+              "score": 75.8
+            }
+          ],
+          "rank": 4,
+          "carried_forward": false
+        },
+        {
+          "id": "producthunt-catenary",
+          "slug": "catenary",
+          "name": "Catenary",
+          "original_name": "Catenary",
+          "tagline_zh": "Catenary 是一款聚焦于AI 编程与开发提效的AI 产品，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Catenary 是一款聚焦于AI 编程与开发提效的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Spatial canvas IDE for AI coding agents Discussion | Link",
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "source_url": "https://www.producthunt.com/products/catenary",
+          "official_url": "https://www.producthunt.com/products/catenary",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "编程开发",
+          "tags": [
+            "编程开发"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": null,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": null,
+          "trending_score": null,
+          "published_at": "2026-09-08T02:32:49+00:00",
+          "discovered_at": "2026-09-09",
+          "updated_at": "2026-09-09T13:03:41+08:00",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 72.8,
+          "score_heat": 89.4,
+          "score_freshness": 94.7,
+          "score_usefulness": 64.1,
+          "score_product": 52.3,
+          "score_business": 44,
+          "score_history": [
+            {
+              "date": "2026-09-09",
+              "score": 72.8
+            }
+          ],
+          "rank": 5,
+          "carried_forward": false
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 13
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 32
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    },
     {
       "date": "2026-09-08",
       "display_date": "2026年09月08日",

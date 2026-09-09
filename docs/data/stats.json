@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-08T13:05:00+08:00",
+  "generated_at": "2026-09-09T13:03:41+08:00",
   "history_sufficient": true,
-  "days": 43,
-  "total_tools": 112,
+  "days": 44,
+  "total_tools": 114,
   "today_tools": 5,
-  "today_scanned": 136,
+  "today_scanned": 140,
   "category_counts": {
-    "编程开发": 18,
-    "AI Agent": 39,
+    "编程开发": 19,
+    "AI Agent": 40,
     "开源模型": 23,
     "音频工具": 7,
     "搜索研究": 6,
@@ -19,22 +19,22 @@
     "图像生成": 7
   },
   "source_counts": {
-    "GitHub": 37,
+    "GitHub": 38,
     "Hugging Face": 35,
-    "Product Hunt": 40
+    "Product Hunt": 41
   },
-  "open_source_ratio": 0.9583,
+  "open_source_ratio": 0.9589,
   "free_ratio": null,
   "top_scored": [
     {
       "id": "huggingface-jackrong-qwopus3-8-27b-flash-gguf",
       "name": "Qwopus3.8-27B-Flash-GGUF",
-      "score": 87.1
+      "score": 86.2
     },
     {
       "id": "huggingface-openbmb-minicpm5-2b",
       "name": "MiniCPM5-2B",
-      "score": 84.9
+      "score": 83.9
     },
     {
       "id": "github-tencentcloud-tencentdb-agent-memory",
