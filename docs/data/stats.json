@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-09T13:03:41+08:00",
+  "generated_at": "2026-09-10T13:06:38+08:00",
   "history_sufficient": true,
-  "days": 44,
-  "total_tools": 114,
+  "days": 45,
+  "total_tools": 116,
   "today_tools": 5,
-  "today_scanned": 140,
+  "today_scanned": 137,
   "category_counts": {
-    "编程开发": 19,
+    "编程开发": 21,
     "AI Agent": 40,
     "开源模型": 23,
     "音频工具": 7,
@@ -19,22 +19,17 @@
     "图像生成": 7
   },
   "source_counts": {
-    "GitHub": 38,
+    "GitHub": 39,
     "Hugging Face": 35,
-    "Product Hunt": 41
+    "Product Hunt": 42
   },
-  "open_source_ratio": 0.9589,
+  "open_source_ratio": 0.9595,
   "free_ratio": null,
   "top_scored": [
     {
       "id": "huggingface-jackrong-qwopus3-8-27b-flash-gguf",
       "name": "Qwopus3.8-27B-Flash-GGUF",
-      "score": 86.2
-    },
-    {
-      "id": "huggingface-openbmb-minicpm5-2b",
-      "name": "MiniCPM5-2B",
-      "score": 83.9
+      "score": 85.2
     },
     {
       "id": "github-tencentcloud-tencentdb-agent-memory",
@@ -50,6 +45,11 @@
       "id": "github-ruvnet-ruflo",
       "name": "ruflo",
       "score": 83.1
+    },
+    {
+      "id": "huggingface-openbmb-minicpm5-2b",
+      "name": "MiniCPM5-2B",
+      "score": 83
     }
   ],
   "top_growth": [
