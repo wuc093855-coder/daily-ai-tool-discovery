@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-10T13:06:38+08:00",
+  "generated_at": "2026-09-11T13:04:13+08:00",
   "history_sufficient": true,
-  "days": 45,
-  "total_tools": 116,
+  "days": 46,
+  "total_tools": 119,
   "today_tools": 5,
-  "today_scanned": 137,
+  "today_scanned": 134,
   "category_counts": {
-    "编程开发": 21,
+    "编程开发": 22,
     "AI Agent": 40,
     "开源模型": 23,
-    "音频工具": 7,
-    "搜索研究": 6,
+    "音频工具": 8,
+    "搜索研究": 7,
     "商业与营销": 3,
     "写作办公": 1,
     "数据分析": 3,
@@ -19,17 +19,17 @@
     "图像生成": 7
   },
   "source_counts": {
-    "GitHub": 39,
+    "GitHub": 41,
     "Hugging Face": 35,
-    "Product Hunt": 42
+    "Product Hunt": 43
   },
-  "open_source_ratio": 0.9595,
+  "open_source_ratio": 0.9605,
   "free_ratio": null,
   "top_scored": [
     {
       "id": "huggingface-jackrong-qwopus3-8-27b-flash-gguf",
       "name": "Qwopus3.8-27B-Flash-GGUF",
-      "score": 85.2
+      "score": 84.3
     },
     {
       "id": "github-tencentcloud-tencentdb-agent-memory",
@@ -47,9 +47,9 @@
       "score": 83.1
     },
     {
-      "id": "huggingface-openbmb-minicpm5-2b",
-      "name": "MiniCPM5-2B",
-      "score": 83
+      "id": "github-diegosouzapw-omniroute",
+      "name": "OmniRoute",
+      "score": 83.1
     }
   ],
   "top_growth": [
