@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-11T13:04:13+08:00",
+  "generated_at": "2026-09-12T12:54:42+08:00",
   "history_sufficient": true,
-  "days": 46,
-  "total_tools": 119,
+  "days": 47,
+  "total_tools": 121,
   "today_tools": 5,
-  "today_scanned": 134,
+  "today_scanned": 124,
   "category_counts": {
     "编程开发": 22,
-    "AI Agent": 40,
+    "AI Agent": 42,
     "开源模型": 23,
     "音频工具": 8,
     "搜索研究": 7,
@@ -19,18 +19,13 @@
     "图像生成": 7
   },
   "source_counts": {
-    "GitHub": 41,
+    "GitHub": 42,
     "Hugging Face": 35,
-    "Product Hunt": 43
+    "Product Hunt": 44
   },
-  "open_source_ratio": 0.9605,
+  "open_source_ratio": 0.961,
   "free_ratio": null,
   "top_scored": [
-    {
-      "id": "huggingface-jackrong-qwopus3-8-27b-flash-gguf",
-      "name": "Qwopus3.8-27B-Flash-GGUF",
-      "score": 84.3
-    },
     {
       "id": "github-tencentcloud-tencentdb-agent-memory",
       "name": "TencentDB-Agent-Memory",
@@ -50,6 +45,11 @@
       "id": "github-diegosouzapw-omniroute",
       "name": "OmniRoute",
       "score": 83.1
+    },
+    {
+      "id": "github-calesthio-openmontage",
+      "name": "OpenMontage",
+      "score": 82.3
     }
   ],
   "top_growth": [
