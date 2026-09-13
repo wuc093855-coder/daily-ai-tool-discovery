@@ -17,8 +17,389 @@
       "business": 0.1
     }
   },
-  "updated_at": "2026-09-12T12:54:42+08:00",
+  "updated_at": "2026-09-13T13:16:10+08:00",
   "days": [
+    {
+      "date": "2026-09-13",
+      "display_date": "2026年09月13日",
+      "weekday": "星期日",
+      "updated_at": "2026-09-13T13:16:10+08:00",
+      "tools": [
+        {
+          "id": "huggingface-agnes-ai-agnes-3-0-flash",
+          "slug": "agnes-3-0-flash",
+          "name": "Agnes-3.0-Flash",
+          "original_name": "Agnes-AI/Agnes-3.0-Flash",
+          "tagline_zh": "Agnes-3.0-Flash 是一款聚焦于AI 编程与开发提效的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Agnes-3.0-Flash 是一款聚焦于AI 编程与开发提效的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors agnes text-generation agnes-ai reasoning multimodal long-context",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/Agnes-AI/Agnes-3.0-Flash",
+          "official_url": "https://huggingface.co/Agnes-AI/Agnes-3.0-Flash",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "编程开发",
+          "tags": [
+            "编程开发",
+            "transformers",
+            "safetensors",
+            "agnes",
+            "text-generation",
+            "agnes-ai",
+            "reasoning",
+            "multimodal",
+            "long-context",
+            "hybrid-attention",
+            "image-text-to-text",
+            "conversational"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 126,
+          "trending_score": 124,
+          "published_at": "2026-09-11T15:50:11.000Z",
+          "discovered_at": "2026-09-13",
+          "updated_at": "2026-09-12T13:43:39.000Z",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 81.8,
+          "score_heat": 93.4,
+          "score_freshness": 92.5,
+          "score_usefulness": 75.4,
+          "score_product": 76.9,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-09-13",
+              "score": 81.8
+            }
+          ],
+          "rank": 1,
+          "carried_forward": false
+        },
+        {
+          "id": "github-asgeirtj-system-prompts-leaks",
+          "slug": "system-prompts-leaks",
+          "name": "system_prompts_leaks",
+          "original_name": "asgeirtj/system_prompts_leaks",
+          "tagline_zh": "system_prompts_leaks 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "system_prompts_leaks 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "official_url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "repo_url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "logo_url": "https://avatars.githubusercontent.com/u/27446620?v=4",
+          "category": "编程开发",
+          "tags": [
+            "编程开发",
+            "JavaScript"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "CC0-1.0",
+          "stars": 65535,
+          "star_growth": 217,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-09-13",
+          "updated_at": "2026-09-13T05:13:53Z",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 80.6,
+          "score_heat": 85.8,
+          "score_freshness": 78,
+          "score_usefulness": 86.5,
+          "score_product": 82.2,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-09-13",
+              "score": 80.6
+            }
+          ],
+          "rank": 2,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-openbmb-minicpm5-2b",
+          "slug": "minicpm5-2b",
+          "name": "MiniCPM5-2B",
+          "original_name": "openbmb/MiniCPM5-2B",
+          "tagline_zh": "MiniCPM5-2B 是一款聚焦于AI 数据处理与分析的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "MiniCPM5-2B 是一款聚焦于AI 数据处理与分析的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors llama text-generation minicpm minicpm5 long-context tool-calling",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+          "official_url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "数据分析",
+          "tags": [
+            "数据分析",
+            "transformers",
+            "safetensors",
+            "llama",
+            "text-generation",
+            "minicpm",
+            "minicpm5",
+            "long-context",
+            "tool-calling",
+            "on-device",
+            "edge-ai",
+            "conversational"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 1264,
+          "trending_score": 1064,
+          "published_at": "2026-09-06T11:12:19.000Z",
+          "discovered_at": "2026-09-08",
+          "updated_at": "2026-09-12T07:20:14.000Z",
+          "suitable_for": "分析师、产品经理、研究人员和中小企业经营者",
+          "core_features": [
+            "辅助清洗、理解或分析数据",
+            "生成可读的洞察与结果",
+            "缩短从数据到决策的路径"
+          ],
+          "use_cases": [
+            "业务数据分析",
+            "报告与看板生成",
+            "数据清洗和探索"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。交付数据报告；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "交付数据报告",
+            "搭建商业看板",
+            "提供分析咨询"
+          ],
+          "score_total": 79.4,
+          "score_heat": 100,
+          "score_freshness": 67.6,
+          "score_usefulness": 84.4,
+          "score_product": 76.9,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-09-08",
+              "score": 84.9
+            },
+            {
+              "date": "2026-09-09",
+              "score": 83.9
+            },
+            {
+              "date": "2026-09-10",
+              "score": 83.0
+            },
+            {
+              "date": "2026-09-11",
+              "score": 81.9
+            },
+            {
+              "date": "2026-09-12",
+              "score": 79.5
+            },
+            {
+              "date": "2026-09-13",
+              "score": 79.4
+            }
+          ],
+          "rank": 3,
+          "carried_forward": false
+        },
+        {
+          "id": "github-melgarafael-deskcommcrm",
+          "slug": "deskcommcrm",
+          "name": "DeskcommCRM",
+          "original_name": "melgarafael/DeskcommCRM",
+          "tagline_zh": "DeskcommCRM 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "DeskcommCRM 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/melgarafael/DeskcommCRM",
+          "official_url": "https://deskcomm.com.br",
+          "repo_url": "https://github.com/melgarafael/DeskcommCRM",
+          "logo_url": "https://avatars.githubusercontent.com/u/119944436?v=4",
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent",
+            "TypeScript"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "MIT",
+          "stars": 1882,
+          "star_growth": 504,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-09-13",
+          "updated_at": "2026-09-13T05:13:15Z",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 76.8,
+          "score_heat": 86.6,
+          "score_freshness": 78,
+          "score_usefulness": 74.1,
+          "score_product": 76.9,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-09-13",
+              "score": 76.8
+            }
+          ],
+          "rank": 4,
+          "carried_forward": false
+        },
+        {
+          "id": "producthunt-abrush",
+          "slug": "abrush",
+          "name": "ABrush",
+          "original_name": "ABrush",
+          "tagline_zh": "ABrush 是一款聚焦于AI 工作流与流程自动化的AI 产品，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "ABrush 是一款聚焦于AI 工作流与流程自动化的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "AI Studio for Digital Artists Discussion | Link",
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "source_url": "https://www.producthunt.com/products/abrush-ai-2",
+          "official_url": "https://www.producthunt.com/products/abrush-ai-2",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "自动化",
+          "tags": [
+            "自动化"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": null,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": null,
+          "trending_score": null,
+          "published_at": "2026-09-10T20:18:42+00:00",
+          "discovered_at": "2026-09-13",
+          "updated_at": "2026-09-13T13:16:10+08:00",
+          "suitable_for": "运营人员、独立开发者、小团队和效率爱好者",
+          "core_features": [
+            "连接工具和数据完成重复流程",
+            "减少人工操作与信息搬运",
+            "支持快速搭建自动化方案"
+          ],
+          "use_cases": [
+            "业务流程自动化",
+            "跨工具信息同步",
+            "低代码工作流搭建"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。提供流程代搭建；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "提供流程代搭建",
+            "交付运营自动化",
+            "售卖工作流模板"
+          ],
+          "score_total": 63,
+          "score_heat": 67.4,
+          "score_freshness": 88.6,
+          "score_usefulness": 54.4,
+          "score_product": 51.2,
+          "score_business": 44,
+          "score_history": [
+            {
+              "date": "2026-09-13",
+              "score": 63.0
+            }
+          ],
+          "rank": 5,
+          "carried_forward": false
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 10
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 14
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    },
     {
       "date": "2026-09-12",
       "display_date": "2026年09月12日",
