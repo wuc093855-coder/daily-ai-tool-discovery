@@ -17,8 +17,413 @@
       "business": 0.1
     }
   },
-  "updated_at": "2026-09-13T13:16:10+08:00",
+  "updated_at": "2026-09-14T13:20:44+08:00",
   "days": [
+    {
+      "date": "2026-09-14",
+      "display_date": "2026年09月14日",
+      "weekday": "星期一",
+      "updated_at": "2026-09-14T13:20:44+08:00",
+      "tools": [
+        {
+          "id": "github-asgeirtj-system-prompts-leaks",
+          "slug": "system-prompts-leaks",
+          "name": "system_prompts_leaks",
+          "original_name": "asgeirtj/system_prompts_leaks",
+          "tagline_zh": "system_prompts_leaks 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "system_prompts_leaks 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "official_url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "repo_url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "logo_url": "https://avatars.githubusercontent.com/u/27446620?v=4",
+          "category": "编程开发",
+          "tags": [
+            "编程开发",
+            "JavaScript"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "CC0-1.0",
+          "stars": 66216,
+          "star_growth": 706,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-09-13",
+          "updated_at": "2026-09-14T05:17:46Z",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 84.4,
+          "score_heat": 98.8,
+          "score_freshness": 78,
+          "score_usefulness": 86.5,
+          "score_product": 82.2,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-09-13",
+              "score": 80.6
+            },
+            {
+              "date": "2026-09-14",
+              "score": 84.4
+            }
+          ],
+          "rank": 1,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-agnes-ai-agnes-3-0-flash",
+          "slug": "agnes-3-0-flash",
+          "name": "Agnes-3.0-Flash",
+          "original_name": "Agnes-AI/Agnes-3.0-Flash",
+          "tagline_zh": "Agnes-3.0-Flash 是一款聚焦于AI 编程与开发提效的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Agnes-3.0-Flash 是一款聚焦于AI 编程与开发提效的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors agnes text-generation agnes-ai reasoning multimodal long-context",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/Agnes-AI/Agnes-3.0-Flash",
+          "official_url": "https://huggingface.co/Agnes-AI/Agnes-3.0-Flash",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "编程开发",
+          "tags": [
+            "编程开发",
+            "transformers",
+            "safetensors",
+            "agnes",
+            "text-generation",
+            "agnes-ai",
+            "reasoning",
+            "multimodal",
+            "long-context",
+            "hybrid-attention",
+            "image-text-to-text",
+            "conversational"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 140,
+          "trending_score": 138,
+          "published_at": "2026-09-11T15:50:11.000Z",
+          "discovered_at": "2026-09-13",
+          "updated_at": "2026-09-12T13:43:39.000Z",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 82.5,
+          "score_heat": 100,
+          "score_freshness": 87.7,
+          "score_usefulness": 75.4,
+          "score_product": 76.9,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-09-13",
+              "score": 81.8
+            },
+            {
+              "date": "2026-09-14",
+              "score": 82.5
+            }
+          ],
+          "rank": 2,
+          "carried_forward": false
+        },
+        {
+          "id": "github-alibaba-open-code-review",
+          "slug": "open-code-review",
+          "name": "open-code-review",
+          "original_name": "alibaba/open-code-review",
+          "tagline_zh": "open-code-review 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "open-code-review 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/alibaba/open-code-review",
+          "official_url": "https://open-codereview.ai",
+          "repo_url": "https://github.com/alibaba/open-code-review",
+          "logo_url": "https://avatars.githubusercontent.com/u/1961952?v=4",
+          "category": "编程开发",
+          "tags": [
+            "编程开发",
+            "Go"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "Apache-2.0",
+          "stars": 23771,
+          "star_growth": 443,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-07-27",
+          "updated_at": "2026-09-14T05:20:34Z",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 81.3,
+          "score_heat": 91.2,
+          "score_freshness": 78,
+          "score_usefulness": 87,
+          "score_product": 83,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-07-27",
+              "score": 83.5
+            },
+            {
+              "date": "2026-07-28",
+              "score": 83.5
+            },
+            {
+              "date": "2026-07-30",
+              "score": 78.6
+            },
+            {
+              "date": "2026-09-14",
+              "score": 81.3
+            }
+          ],
+          "rank": 3,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-openbmb-minicpm5-2b",
+          "slug": "minicpm5-2b",
+          "name": "MiniCPM5-2B",
+          "original_name": "openbmb/MiniCPM5-2B",
+          "tagline_zh": "MiniCPM5-2B 是一款聚焦于AI 数据处理与分析的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "MiniCPM5-2B 是一款聚焦于AI 数据处理与分析的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors llama text-generation minicpm minicpm5 long-context tool-calling",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+          "official_url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "数据分析",
+          "tags": [
+            "数据分析",
+            "transformers",
+            "safetensors",
+            "llama",
+            "text-generation",
+            "minicpm",
+            "minicpm5",
+            "long-context",
+            "tool-calling",
+            "on-device",
+            "edge-ai",
+            "conversational"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 1352,
+          "trending_score": 1144,
+          "published_at": "2026-09-06T11:12:19.000Z",
+          "discovered_at": "2026-09-08",
+          "updated_at": "2026-09-12T07:20:14.000Z",
+          "suitable_for": "分析师、产品经理、研究人员和中小企业经营者",
+          "core_features": [
+            "辅助清洗、理解或分析数据",
+            "生成可读的洞察与结果",
+            "缩短从数据到决策的路径"
+          ],
+          "use_cases": [
+            "业务数据分析",
+            "报告与看板生成",
+            "数据清洗和探索"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。交付数据报告；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "交付数据报告",
+            "搭建商业看板",
+            "提供分析咨询"
+          ],
+          "score_total": 79.1,
+          "score_heat": 100,
+          "score_freshness": 62.8,
+          "score_usefulness": 84.4,
+          "score_product": 76.9,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-09-08",
+              "score": 84.9
+            },
+            {
+              "date": "2026-09-09",
+              "score": 83.9
+            },
+            {
+              "date": "2026-09-10",
+              "score": 83.0
+            },
+            {
+              "date": "2026-09-11",
+              "score": 81.9
+            },
+            {
+              "date": "2026-09-12",
+              "score": 79.5
+            },
+            {
+              "date": "2026-09-13",
+              "score": 79.4
+            },
+            {
+              "date": "2026-09-14",
+              "score": 79.1
+            }
+          ],
+          "rank": 4,
+          "carried_forward": false
+        },
+        {
+          "id": "producthunt-neopress",
+          "slug": "neopress",
+          "name": "Neopress",
+          "original_name": "Neopress",
+          "tagline_zh": "Neopress 是一款聚焦于AI 工作流与流程自动化的AI 产品，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Neopress 是一款聚焦于AI 工作流与流程自动化的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Build and grow your website by chatting with AI Discussion | Link",
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "source_url": "https://www.producthunt.com/products/neopress",
+          "official_url": "https://www.producthunt.com/products/neopress",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "自动化",
+          "tags": [
+            "自动化"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": null,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": null,
+          "trending_score": null,
+          "published_at": "2026-09-10T06:43:00+00:00",
+          "discovered_at": "2026-09-14",
+          "updated_at": "2026-09-14T13:20:44+08:00",
+          "suitable_for": "运营人员、独立开发者、小团队和效率爱好者",
+          "core_features": [
+            "连接工具和数据完成重复流程",
+            "减少人工操作与信息搬运",
+            "支持快速搭建自动化方案"
+          ],
+          "use_cases": [
+            "业务流程自动化",
+            "跨工具信息同步",
+            "低代码工作流搭建"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。提供流程代搭建；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "提供流程代搭建",
+            "交付运营自动化",
+            "售卖工作流模板"
+          ],
+          "score_total": 69.8,
+          "score_heat": 93.8,
+          "score_freshness": 81.1,
+          "score_usefulness": 55.6,
+          "score_product": 53.2,
+          "score_business": 55,
+          "score_history": [
+            {
+              "date": "2026-09-14",
+              "score": 69.8
+            }
+          ],
+          "rank": 5,
+          "carried_forward": false
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 12
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 12
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    },
     {
       "date": "2026-09-13",
       "display_date": "2026年09月13日",

@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-13T13:16:10+08:00",
+  "generated_at": "2026-09-14T13:20:44+08:00",
   "history_sufficient": true,
-  "days": 48,
-  "total_tools": 125,
+  "days": 49,
+  "total_tools": 126,
   "today_tools": 5,
   "today_scanned": 119,
   "category_counts": {
@@ -15,17 +15,22 @@
     "商业与营销": 3,
     "写作办公": 1,
     "数据分析": 3,
-    "自动化": 6,
+    "自动化": 7,
     "图像生成": 7
   },
   "source_counts": {
     "GitHub": 44,
     "Hugging Face": 36,
-    "Product Hunt": 45
+    "Product Hunt": 46
   },
   "open_source_ratio": 0.9625,
   "free_ratio": null,
   "top_scored": [
+    {
+      "id": "github-asgeirtj-system-prompts-leaks",
+      "name": "system_prompts_leaks",
+      "score": 84.4
+    },
     {
       "id": "github-tencentcloud-tencentdb-agent-memory",
       "name": "TencentDB-Agent-Memory",
@@ -45,11 +50,6 @@
       "id": "github-diegosouzapw-omniroute",
       "name": "OmniRoute",
       "score": 83.1
-    },
-    {
-      "id": "github-calesthio-openmontage",
-      "name": "OpenMontage",
-      "score": 82.3
     }
   ],
   "top_growth": [
