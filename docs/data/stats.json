@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-15T13:11:45+08:00",
+  "generated_at": "2026-09-16T13:07:14+08:00",
   "history_sufficient": true,
-  "days": 50,
-  "total_tools": 128,
+  "days": 51,
+  "total_tools": 130,
   "today_tools": 5,
-  "today_scanned": 125,
+  "today_scanned": 127,
   "category_counts": {
-    "编程开发": 24,
-    "AI Agent": 44,
+    "编程开发": 25,
+    "AI Agent": 45,
     "开源模型": 24,
     "音频工具": 8,
     "搜索研究": 7,
@@ -19,17 +19,22 @@
     "图像生成": 7
   },
   "source_counts": {
-    "GitHub": 44,
+    "GitHub": 45,
     "Hugging Face": 37,
-    "Product Hunt": 47
+    "Product Hunt": 48
   },
-  "open_source_ratio": 0.963,
+  "open_source_ratio": 0.9634,
   "free_ratio": null,
   "top_scored": [
     {
       "id": "github-asgeirtj-system-prompts-leaks",
       "name": "system_prompts_leaks",
       "score": 84.6
+    },
+    {
+      "id": "github-alibaba-open-code-review",
+      "name": "open-code-review",
+      "score": 83.8
     },
     {
       "id": "github-tencentcloud-tencentdb-agent-memory",
@@ -45,14 +50,14 @@
       "id": "github-mukul975-anthropic-cybersecurity-skills",
       "name": "Anthropic-Cybersecurity-Skills",
       "score": 83.3
-    },
-    {
-      "id": "github-ruvnet-ruflo",
-      "name": "ruflo",
-      "score": 83.1
     }
   ],
   "top_growth": [
+    {
+      "id": "github-alibaba-open-code-review",
+      "name": "open-code-review",
+      "growth": 2756
+    },
     {
       "id": "github-primeintellect-ai-prime-agent",
       "name": "prime-agent",
@@ -72,11 +77,6 @@
       "id": "github-dietrichgebert-ponytail",
       "name": "ponytail",
       "growth": 1679
-    },
-    {
-      "id": "github-mattpocock-skills",
-      "name": "skills",
-      "growth": 1359
     }
   ]
 }
