@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-16T13:07:14+08:00",
+  "generated_at": "2026-09-17T13:12:17+08:00",
   "history_sufficient": true,
-  "days": 51,
-  "total_tools": 130,
+  "days": 52,
+  "total_tools": 132,
   "today_tools": 5,
   "today_scanned": 127,
   "category_counts": {
     "编程开发": 25,
-    "AI Agent": 45,
+    "AI Agent": 46,
     "开源模型": 24,
     "音频工具": 8,
-    "搜索研究": 7,
+    "搜索研究": 8,
     "商业与营销": 3,
     "写作办公": 1,
     "数据分析": 3,
@@ -19,11 +19,11 @@
     "图像生成": 7
   },
   "source_counts": {
-    "GitHub": 45,
+    "GitHub": 46,
     "Hugging Face": 37,
-    "Product Hunt": 48
+    "Product Hunt": 49
   },
-  "open_source_ratio": 0.9634,
+  "open_source_ratio": 0.9639,
   "free_ratio": null,
   "top_scored": [
     {
@@ -56,7 +56,7 @@
     {
       "id": "github-alibaba-open-code-review",
       "name": "open-code-review",
-      "growth": 2756
+      "growth": 3231
     },
     {
       "id": "github-primeintellect-ai-prime-agent",
