@@ -5,7 +5,14 @@
     <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/</link>
     <description>每天筛选 5 个真正值得关注的 AI 工具。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 17 Sep 2026 05:12:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 05:04:43 +0000</lastBuildDate>
+    <item>
+      <title>2026-09-18 每日 AI 工具精选</title>
+      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
+      <guid isPermaLink="false">daily-ai-tools-2026-09-18</guid>
+      <description>今日精选：claude-code、open-code-review、Agnes-3.0-Flash、Xing4.0-29B-A4B、Text Agent Store</description>
+      <pubDate>Fri, 18 Sep 2026 00:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>2026-09-17 每日 AI 工具精选</title>
       <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
@@ -96,13 +103,6 @@
       <guid isPermaLink="false">daily-ai-tools-2026-09-05</guid>
       <description>今日精选：VoiceStudio、DeepSeek-V4-Flash-Vision-Exp、K2-Horizon-MoVA-36B-A4B、ponytail、Clockwork</description>
       <pubDate>Sat, 05 Sep 2026 00:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026-09-04 每日 AI 工具精选</title>
-      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
-      <guid isPermaLink="false">daily-ai-tools-2026-09-04</guid>
-      <description>今日精选：phonellm-alpha-1、DeepSeek-V4-Flash-Vision-Exp、VoiceStudio、ponytail、Grove</description>
-      <pubDate>Fri, 04 Sep 2026 00:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

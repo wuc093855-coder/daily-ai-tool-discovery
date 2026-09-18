@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-17T13:12:17+08:00",
+  "generated_at": "2026-09-18T13:04:43+08:00",
   "history_sufficient": true,
-  "days": 52,
-  "total_tools": 132,
+  "days": 53,
+  "total_tools": 134,
   "today_tools": 5,
   "today_scanned": 127,
   "category_counts": {
-    "编程开发": 25,
-    "AI Agent": 46,
+    "编程开发": 26,
+    "AI Agent": 47,
     "开源模型": 24,
     "音频工具": 8,
     "搜索研究": 8,
@@ -20,10 +20,10 @@
   },
   "source_counts": {
     "GitHub": 46,
-    "Hugging Face": 37,
-    "Product Hunt": 49
+    "Hugging Face": 38,
+    "Product Hunt": 50
   },
-  "open_source_ratio": 0.9639,
+  "open_source_ratio": 0.9643,
   "free_ratio": null,
   "top_scored": [
     {
@@ -32,9 +32,9 @@
       "score": 84.6
     },
     {
-      "id": "github-alibaba-open-code-review",
-      "name": "open-code-review",
-      "score": 83.8
+      "id": "github-anthropics-claude-code",
+      "name": "claude-code",
+      "score": 83.9
     },
     {
       "id": "github-tencentcloud-tencentdb-agent-memory",
@@ -56,7 +56,7 @@
     {
       "id": "github-alibaba-open-code-review",
       "name": "open-code-review",
-      "growth": 3231
+      "growth": 3286
     },
     {
       "id": "github-primeintellect-ai-prime-agent",
