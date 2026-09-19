@@ -17,8 +17,429 @@
       "business": 0.1
     }
   },
-  "updated_at": "2026-09-18T13:04:43+08:00",
+  "updated_at": "2026-09-19T12:55:09+08:00",
   "days": [
+    {
+      "date": "2026-09-19",
+      "display_date": "2026年09月19日",
+      "weekday": "星期六",
+      "updated_at": "2026-09-19T12:55:09+08:00",
+      "tools": [
+        {
+          "id": "github-alibaba-open-code-review",
+          "slug": "open-code-review",
+          "name": "open-code-review",
+          "original_name": "alibaba/open-code-review",
+          "tagline_zh": "open-code-review 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "open-code-review 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/alibaba/open-code-review",
+          "official_url": "https://open-codereview.ai",
+          "repo_url": "https://github.com/alibaba/open-code-review",
+          "logo_url": "https://avatars.githubusercontent.com/u/1961952?v=4",
+          "category": "编程开发",
+          "tags": [
+            "编程开发",
+            "Go"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "Apache-2.0",
+          "stars": 36837,
+          "star_growth": 2704,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-07-27",
+          "updated_at": "2026-09-19T04:54:05Z",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 83.8,
+          "score_heat": 100,
+          "score_freshness": 78,
+          "score_usefulness": 87,
+          "score_product": 83,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-07-27",
+              "score": 83.5
+            },
+            {
+              "date": "2026-07-28",
+              "score": 83.5
+            },
+            {
+              "date": "2026-07-30",
+              "score": 78.6
+            },
+            {
+              "date": "2026-09-14",
+              "score": 81.3
+            },
+            {
+              "date": "2026-09-16",
+              "score": 83.8
+            },
+            {
+              "date": "2026-09-17",
+              "score": 83.8
+            },
+            {
+              "date": "2026-09-18",
+              "score": 82.7
+            },
+            {
+              "date": "2026-09-19",
+              "score": 83.8
+            }
+          ],
+          "rank": 1,
+          "carried_forward": false
+        },
+        {
+          "id": "github-anthropics-claude-code",
+          "slug": "claude-code",
+          "name": "claude-code",
+          "original_name": "anthropics/claude-code",
+          "tagline_zh": "claude-code 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "claude-code 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/anthropics/claude-code",
+          "official_url": "https://code.claude.com/docs/en/overview",
+          "repo_url": "https://github.com/anthropics/claude-code",
+          "logo_url": "https://avatars.githubusercontent.com/u/76263028?v=4",
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent",
+            "TypeScript"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": 146378,
+          "star_growth": 444,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-08-23",
+          "updated_at": "2026-09-19T04:55:03Z",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 82.6,
+          "score_heat": 95.6,
+          "score_freshness": 78,
+          "score_usefulness": 86.1,
+          "score_product": 81.7,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-08-23",
+              "score": 80.0
+            },
+            {
+              "date": "2026-09-18",
+              "score": 83.9
+            },
+            {
+              "date": "2026-09-19",
+              "score": 82.6
+            }
+          ],
+          "rank": 2,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-convaiinnovations-laya",
+          "slug": "laya",
+          "name": "laya",
+          "original_name": "convaiinnovations/laya",
+          "tagline_zh": "laya 是一款聚焦于AI 智能体与任务执行的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "laya 是一款聚焦于AI 智能体与任务执行的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors laya rl-agent system-one calibrated-decisions rlcd classification",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/convaiinnovations/laya",
+          "official_url": "https://huggingface.co/convaiinnovations/laya",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent",
+            "transformers",
+            "safetensors",
+            "laya",
+            "rl-agent",
+            "system-one",
+            "calibrated-decisions",
+            "rlcd",
+            "classification",
+            "routing",
+            "scoring",
+            "reinforcement-learning"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 159,
+          "trending_score": 157,
+          "published_at": "2026-09-18T05:05:55.000Z",
+          "discovered_at": "2026-09-19",
+          "updated_at": "2026-09-18T05:51:49.000Z",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 81.4,
+          "score_heat": 100,
+          "score_freshness": 95.2,
+          "score_usefulness": 75.4,
+          "score_product": 77,
+          "score_business": 36,
+          "score_history": [
+            {
+              "date": "2026-09-19",
+              "score": 81.4
+            }
+          ],
+          "rank": 3,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-agnes-ai-agnes-3-0-flash",
+          "slug": "agnes-3-0-flash",
+          "name": "Agnes-3.0-Flash",
+          "original_name": "Agnes-AI/Agnes-3.0-Flash",
+          "tagline_zh": "Agnes-3.0-Flash 是一款聚焦于AI 编程与开发提效的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Agnes-3.0-Flash 是一款聚焦于AI 编程与开发提效的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors agnes text-generation agnes-ai reasoning multimodal long-context",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/Agnes-AI/Agnes-3.0-Flash",
+          "official_url": "https://huggingface.co/Agnes-AI/Agnes-3.0-Flash",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "编程开发",
+          "tags": [
+            "编程开发",
+            "transformers",
+            "safetensors",
+            "agnes",
+            "text-generation",
+            "agnes-ai",
+            "reasoning",
+            "multimodal",
+            "long-context",
+            "hybrid-attention",
+            "image-text-to-text",
+            "conversational"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 227,
+          "trending_score": 219,
+          "published_at": "2026-09-11T15:50:11.000Z",
+          "discovered_at": "2026-09-13",
+          "updated_at": "2026-09-16T09:51:27.000Z",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 77.7,
+          "score_heat": 100,
+          "score_freshness": 63.8,
+          "score_usefulness": 75.4,
+          "score_product": 76.9,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-09-13",
+              "score": 81.8
+            },
+            {
+              "date": "2026-09-14",
+              "score": 82.5
+            },
+            {
+              "date": "2026-09-15",
+              "score": 81.5
+            },
+            {
+              "date": "2026-09-16",
+              "score": 80.6
+            },
+            {
+              "date": "2026-09-17",
+              "score": 79.6
+            },
+            {
+              "date": "2026-09-18",
+              "score": 78.7
+            },
+            {
+              "date": "2026-09-19",
+              "score": 77.7
+            }
+          ],
+          "rank": 4,
+          "carried_forward": false
+        },
+        {
+          "id": "producthunt-productbridge",
+          "slug": "productbridge",
+          "name": "ProductBridge",
+          "original_name": "ProductBridge",
+          "tagline_zh": "ProductBridge 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "ProductBridge 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "AI-native customer support and feedback agent Discussion | Link",
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "source_url": "https://www.producthunt.com/products/productbridge",
+          "official_url": "https://www.producthunt.com/products/productbridge",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": null,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": null,
+          "trending_score": null,
+          "published_at": "2026-09-17T13:56:09+00:00",
+          "discovered_at": "2026-09-19",
+          "updated_at": "2026-09-19T12:55:09+08:00",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 73.6,
+          "score_heat": 89.4,
+          "score_freshness": 92.2,
+          "score_usefulness": 64.5,
+          "score_product": 53,
+          "score_business": 55,
+          "score_history": [
+            {
+              "date": "2026-09-19",
+              "score": 73.6
+            }
+          ],
+          "rank": 5,
+          "carried_forward": false
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 13
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 22
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    },
     {
       "date": "2026-09-18",
       "display_date": "2026年09月18日",
