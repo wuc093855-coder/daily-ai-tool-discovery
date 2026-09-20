@@ -1,29 +1,29 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-19T12:55:09+08:00",
+  "generated_at": "2026-09-20T13:16:51+08:00",
   "history_sufficient": true,
-  "days": 54,
-  "total_tools": 136,
+  "days": 55,
+  "total_tools": 139,
   "today_tools": 5,
-  "today_scanned": 130,
+  "today_scanned": 124,
   "category_counts": {
     "编程开发": 26,
-    "AI Agent": 49,
-    "开源模型": 24,
+    "AI Agent": 48,
+    "开源模型": 27,
     "音频工具": 8,
     "搜索研究": 8,
     "商业与营销": 3,
-    "写作办公": 1,
+    "写作办公": 2,
     "数据分析": 3,
     "自动化": 7,
     "图像生成": 7
   },
   "source_counts": {
-    "GitHub": 46,
-    "Hugging Face": 39,
-    "Product Hunt": 51
+    "GitHub": 47,
+    "Hugging Face": 40,
+    "Product Hunt": 52
   },
-  "open_source_ratio": 0.9647,
+  "open_source_ratio": 0.9655,
   "free_ratio": null,
   "top_scored": [
     {
@@ -42,14 +42,14 @@
       "score": 83.7
     },
     {
+      "id": "github-anthropics-claude-code",
+      "name": "claude-code",
+      "score": 83.6
+    },
+    {
       "id": "github-huggingface-transformers",
       "name": "transformers",
       "score": 83.4
-    },
-    {
-      "id": "github-mukul975-anthropic-cybersecurity-skills",
-      "name": "Anthropic-Cybersecurity-Skills",
-      "score": 83.3
     }
   ],
   "top_growth": [
