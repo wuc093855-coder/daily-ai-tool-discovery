@@ -1,31 +1,37 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-21T13:19:52+08:00",
+  "generated_at": "2026-09-22T13:17:17+08:00",
   "history_sufficient": true,
-  "days": 56,
-  "total_tools": 140,
+  "days": 57,
+  "total_tools": 145,
   "today_tools": 5,
-  "today_scanned": 118,
+  "today_scanned": 123,
   "category_counts": {
-    "编程开发": 27,
+    "编程开发": 28,
     "AI Agent": 48,
-    "开源模型": 27,
+    "开源模型": 28,
     "音频工具": 8,
     "搜索研究": 8,
     "商业与营销": 3,
     "写作办公": 2,
     "数据分析": 3,
-    "自动化": 7,
-    "图像生成": 7
+    "自动化": 9,
+    "图像生成": 7,
+    "本地工具": 1
   },
   "source_counts": {
-    "GitHub": 47,
-    "Hugging Face": 40,
-    "Product Hunt": 53
+    "GitHub": 49,
+    "Hugging Face": 42,
+    "Product Hunt": 54
   },
-  "open_source_ratio": 0.9655,
+  "open_source_ratio": 0.967,
   "free_ratio": null,
   "top_scored": [
+    {
+      "id": "huggingface-xiaomimimo-mimo-v2-6-distill-qwen-9b",
+      "name": "MiMo-V2.6-Distill-Qwen-9B",
+      "score": 85
+    },
     {
       "id": "github-asgeirtj-system-prompts-leaks",
       "name": "system_prompts_leaks",
@@ -37,19 +43,14 @@
       "score": 83.8
     },
     {
+      "id": "huggingface-xiaomimimo-mimo-v2-6-flash-rl",
+      "name": "MiMo-V2.6-Flash-RL",
+      "score": 83.8
+    },
+    {
       "id": "github-tencentcloud-tencentdb-agent-memory",
       "name": "TencentDB-Agent-Memory",
       "score": 83.7
-    },
-    {
-      "id": "github-huggingface-transformers",
-      "name": "transformers",
-      "score": 83.4
-    },
-    {
-      "id": "github-mukul975-anthropic-cybersecurity-skills",
-      "name": "Anthropic-Cybersecurity-Skills",
-      "score": 83.3
     }
   ],
   "top_growth": [
