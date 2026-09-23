@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-22T13:17:17+08:00",
+  "generated_at": "2026-09-23T13:02:58+08:00",
   "history_sufficient": true,
-  "days": 57,
-  "total_tools": 145,
+  "days": 58,
+  "total_tools": 149,
   "today_tools": 5,
-  "today_scanned": 123,
+  "today_scanned": 127,
   "category_counts": {
-    "编程开发": 28,
-    "AI Agent": 48,
+    "编程开发": 29,
+    "AI Agent": 51,
     "开源模型": 28,
     "音频工具": 8,
     "搜索研究": 8,
@@ -20,22 +20,22 @@
     "本地工具": 1
   },
   "source_counts": {
-    "GitHub": 49,
-    "Hugging Face": 42,
-    "Product Hunt": 54
+    "GitHub": 51,
+    "Hugging Face": 43,
+    "Product Hunt": 55
   },
-  "open_source_ratio": 0.967,
+  "open_source_ratio": 0.9681,
   "free_ratio": null,
   "top_scored": [
-    {
-      "id": "huggingface-xiaomimimo-mimo-v2-6-distill-qwen-9b",
-      "name": "MiMo-V2.6-Distill-Qwen-9B",
-      "score": 85
-    },
     {
       "id": "github-asgeirtj-system-prompts-leaks",
       "name": "system_prompts_leaks",
       "score": 84.6
+    },
+    {
+      "id": "huggingface-xiaomimimo-mimo-v2-6-distill-qwen-9b",
+      "name": "MiMo-V2.6-Distill-Qwen-9B",
+      "score": 84.1
     },
     {
       "id": "github-alibaba-open-code-review",
@@ -65,6 +65,11 @@
       "growth": 2642
     },
     {
+      "id": "github-google-ax",
+      "name": "ax",
+      "growth": 2305
+    },
+    {
       "id": "github-harry0703-moneyprinterturbo",
       "name": "MoneyPrinterTurbo",
       "growth": 2304
@@ -73,11 +78,6 @@
       "id": "github-zhaoxuya520-reverse-skill",
       "name": "reverse-skill",
       "growth": 2297
-    },
-    {
-      "id": "github-dietrichgebert-ponytail",
-      "name": "ponytail",
-      "growth": 1679
     }
   ]
 }
