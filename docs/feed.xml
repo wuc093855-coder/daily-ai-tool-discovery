@@ -5,7 +5,14 @@
     <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/</link>
     <description>每天筛选 5 个真正值得关注的 AI 工具。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 26 Sep 2026 05:21:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 05:37:19 +0000</lastBuildDate>
+    <item>
+      <title>2026-09-27 每日 AI 工具精选</title>
+      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
+      <guid isPermaLink="false">daily-ai-tools-2026-09-27</guid>
+      <description>今日精选：MiMo-V2.6-Distill-Qwen-9B、MiMo-V2.6-Pro-RL、Model-Optimizer、reverse-skill、GoodSocials</description>
+      <pubDate>Sun, 27 Sep 2026 00:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>2026-09-26 每日 AI 工具精选</title>
       <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
@@ -96,13 +103,6 @@
       <guid isPermaLink="false">daily-ai-tools-2026-09-14</guid>
       <description>今日精选：system_prompts_leaks、Agnes-3.0-Flash、open-code-review、MiniCPM5-2B、Neopress</description>
       <pubDate>Mon, 14 Sep 2026 00:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026-09-13 每日 AI 工具精选</title>
-      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
-      <guid isPermaLink="false">daily-ai-tools-2026-09-13</guid>
-      <description>今日精选：Agnes-3.0-Flash、system_prompts_leaks、MiniCPM5-2B、DeskcommCRM、ABrush</description>
-      <pubDate>Sun, 13 Sep 2026 00:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

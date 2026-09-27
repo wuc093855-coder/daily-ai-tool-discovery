@@ -17,8 +17,429 @@
       "business": 0.1
     }
   },
-  "updated_at": "2026-09-26T13:21:04+08:00",
+  "updated_at": "2026-09-27T13:37:19+08:00",
   "days": [
+    {
+      "date": "2026-09-27",
+      "display_date": "2026年09月27日",
+      "weekday": "星期日",
+      "updated_at": "2026-09-27T13:37:19+08:00",
+      "tools": [
+        {
+          "id": "huggingface-xiaomimimo-mimo-v2-6-distill-qwen-9b",
+          "slug": "mimo-v2-6-distill-qwen-9b",
+          "name": "MiMo-V2.6-Distill-Qwen-9B",
+          "original_name": "XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
+          "tagline_zh": "MiMo-V2.6-Distill-Qwen-9B 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "MiMo-V2.6-Distill-Qwen-9B 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors qwen3_5 image-text-to-text mimo_v2 agentic distillation supervised-fine-tuning",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
+          "official_url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "transformers",
+            "safetensors",
+            "qwen3_5",
+            "image-text-to-text",
+            "mimo_v2",
+            "agentic",
+            "distillation",
+            "supervised-fine-tuning",
+            "code",
+            "tool-use",
+            "conversational"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 501,
+          "trending_score": 490,
+          "published_at": "2026-09-21T18:18:40.000Z",
+          "discovered_at": "2026-09-22",
+          "updated_at": "2026-09-22T03:52:45.000Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 80.2,
+          "score_heat": 100,
+          "score_freshness": 73.7,
+          "score_usefulness": 76.4,
+          "score_product": 78.4,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-09-22",
+              "score": 85.0
+            },
+            {
+              "date": "2026-09-23",
+              "score": 84.1
+            },
+            {
+              "date": "2026-09-24",
+              "score": 83.1
+            },
+            {
+              "date": "2026-09-25",
+              "score": 82.2
+            },
+            {
+              "date": "2026-09-26",
+              "score": 81.2
+            },
+            {
+              "date": "2026-09-27",
+              "score": 80.2
+            }
+          ],
+          "rank": 1,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-xiaomimimo-mimo-v2-6-pro-rl",
+          "slug": "mimo-v2-6-pro-rl",
+          "name": "MiMo-V2.6-Pro-RL",
+          "original_name": "XiaomiMiMo/MiMo-V2.6-Pro-RL",
+          "tagline_zh": "MiMo-V2.6-Pro-RL 是一款聚焦于AI 编程与开发提效的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "MiMo-V2.6-Pro-RL 是一款聚焦于AI 编程与开发提效的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors mimo_v2 text-generation multimodal vision-language audio agent",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL",
+          "official_url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "编程开发",
+          "tags": [
+            "编程开发",
+            "transformers",
+            "safetensors",
+            "mimo_v2",
+            "text-generation",
+            "multimodal",
+            "vision-language",
+            "audio",
+            "agent",
+            "video-understanding",
+            "long-context",
+            "conversational"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 530,
+          "trending_score": 519,
+          "published_at": "2026-09-21T15:39:33.000Z",
+          "discovered_at": "2026-09-23",
+          "updated_at": "2026-09-22T03:52:00.000Z",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 79,
+          "score_heat": 100,
+          "score_freshness": 73.2,
+          "score_usefulness": 75.2,
+          "score_product": 76.7,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-09-23",
+              "score": 82.9
+            },
+            {
+              "date": "2026-09-24",
+              "score": 81.9
+            },
+            {
+              "date": "2026-09-25",
+              "score": 81.0
+            },
+            {
+              "date": "2026-09-26",
+              "score": 80.0
+            },
+            {
+              "date": "2026-09-27",
+              "score": 79.0
+            }
+          ],
+          "rank": 2,
+          "carried_forward": false
+        },
+        {
+          "id": "github-nvidia-model-optimizer",
+          "slug": "model-optimizer",
+          "name": "Model-Optimizer",
+          "original_name": "NVIDIA/Model-Optimizer",
+          "tagline_zh": "Model-Optimizer 是一款聚焦于AI 模型、推理与应用构建的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Model-Optimizer 是一款聚焦于AI 模型、推理与应用构建的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/NVIDIA/Model-Optimizer",
+          "official_url": "https://nvidia.github.io/Model-Optimizer/",
+          "repo_url": "https://github.com/NVIDIA/Model-Optimizer",
+          "logo_url": "https://avatars.githubusercontent.com/u/1728152?v=4",
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "Python"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "Apache-2.0",
+          "stars": 4810,
+          "star_growth": 357,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-09-26",
+          "updated_at": "2026-09-27T05:36:06Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 77.8,
+          "score_heat": 85,
+          "score_freshness": 78,
+          "score_usefulness": 87,
+          "score_product": 83,
+          "score_business": 36,
+          "score_history": [
+            {
+              "date": "2026-09-26",
+              "score": 78.8
+            },
+            {
+              "date": "2026-09-27",
+              "score": 77.8
+            }
+          ],
+          "rank": 3,
+          "carried_forward": false
+        },
+        {
+          "id": "github-zhaoxuya520-reverse-skill",
+          "slug": "reverse-skill",
+          "name": "reverse-skill",
+          "original_name": "zhaoxuya520/reverse-skill",
+          "tagline_zh": "reverse-skill 是一款聚焦于AI 搜索、研究与知识管理的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "reverse-skill 是一款聚焦于AI 搜索、研究与知识管理的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/zhaoxuya520/reverse-skill",
+          "official_url": "https://github.com/zhaoxuya520/reverse-skill",
+          "repo_url": "https://github.com/zhaoxuya520/reverse-skill",
+          "logo_url": "https://avatars.githubusercontent.com/u/147215175?v=4",
+          "category": "搜索研究",
+          "tags": [
+            "搜索研究",
+            "PowerShell"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "MIT",
+          "stars": 38107,
+          "star_growth": 361,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-08-01",
+          "updated_at": "2026-09-27T05:30:23Z",
+          "suitable_for": "研究人员、学生、知识工作者和咨询团队",
+          "core_features": [
+            "检索并整理分散信息",
+            "对文档或知识库进行问答",
+            "提高研究与阅读效率"
+          ],
+          "use_cases": [
+            "行业与竞品研究",
+            "私有知识库问答",
+            "长文档快速理解"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。交付研究报告；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "交付研究报告",
+            "搭建企业知识库",
+            "提供资料整理服务"
+          ],
+          "score_total": 76,
+          "score_heat": 90.1,
+          "score_freshness": 78,
+          "score_usefulness": 69,
+          "score_product": 83,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-08-01",
+              "score": 75.0
+            },
+            {
+              "date": "2026-08-02",
+              "score": 76.7
+            },
+            {
+              "date": "2026-08-03",
+              "score": 78.1
+            },
+            {
+              "date": "2026-08-04",
+              "score": 78.5
+            },
+            {
+              "date": "2026-08-05",
+              "score": 78.5
+            },
+            {
+              "date": "2026-09-27",
+              "score": 76.0
+            }
+          ],
+          "rank": 4,
+          "carried_forward": false
+        },
+        {
+          "id": "producthunt-goodsocials",
+          "slug": "goodsocials",
+          "name": "GoodSocials",
+          "original_name": "GoodSocials",
+          "tagline_zh": "GoodSocials 是一款聚焦于AI 工作流与流程自动化的AI 产品，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "GoodSocials 是一款聚焦于AI 工作流与流程自动化的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "AI social media manager for LinkedIn. Only authentic content Discussion | Link",
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "source_url": "https://www.producthunt.com/products/goodsocials",
+          "official_url": "https://www.producthunt.com/products/goodsocials",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "自动化",
+          "tags": [
+            "自动化"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": null,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": null,
+          "trending_score": null,
+          "published_at": "2026-09-25T10:43:48+00:00",
+          "discovered_at": "2026-09-27",
+          "updated_at": "2026-09-27T13:37:19+08:00",
+          "suitable_for": "运营人员、独立开发者、小团队和效率爱好者",
+          "core_features": [
+            "连接工具和数据完成重复流程",
+            "减少人工操作与信息搬运",
+            "支持快速搭建自动化方案"
+          ],
+          "use_cases": [
+            "业务流程自动化",
+            "跨工具信息同步",
+            "低代码工作流搭建"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。提供流程代搭建；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "提供流程代搭建",
+            "交付运营自动化",
+            "售卖工作流模板"
+          ],
+          "score_total": 72.4,
+          "score_heat": 89.4,
+          "score_freshness": 91.4,
+          "score_usefulness": 56.6,
+          "score_product": 54.7,
+          "score_business": 66,
+          "score_history": [
+            {
+              "date": "2026-09-27",
+              "score": 72.4
+            }
+          ],
+          "rank": 5,
+          "carried_forward": false
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 9
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 17
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    },
     {
       "date": "2026-09-26",
       "display_date": "2026年09月26日",
