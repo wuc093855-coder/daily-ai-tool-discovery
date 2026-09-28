@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-27T13:37:19+08:00",
+  "generated_at": "2026-09-28T13:45:05+08:00",
   "history_sufficient": true,
-  "days": 62,
-  "total_tools": 156,
+  "days": 63,
+  "total_tools": 157,
   "today_tools": 5,
-  "today_scanned": 121,
+  "today_scanned": 118,
   "category_counts": {
     "编程开发": 30,
     "AI Agent": 53,
@@ -15,14 +15,14 @@
     "商业与营销": 3,
     "写作办公": 2,
     "数据分析": 3,
-    "自动化": 10,
+    "自动化": 11,
     "图像生成": 7,
     "本地工具": 1
   },
   "source_counts": {
     "GitHub": 54,
     "Hugging Face": 43,
-    "Product Hunt": 59
+    "Product Hunt": 60
   },
   "open_source_ratio": 0.9691,
   "free_ratio": null,
@@ -55,6 +55,11 @@
   ],
   "top_growth": [
     {
+      "id": "github-debpalash-voicestudio",
+      "name": "VoiceStudio",
+      "growth": 3086
+    },
+    {
       "id": "github-alibaba-open-code-review",
       "name": "open-code-review",
       "growth": 2704
@@ -73,11 +78,6 @@
       "id": "github-harry0703-moneyprinterturbo",
       "name": "MoneyPrinterTurbo",
       "growth": 2304
-    },
-    {
-      "id": "github-dietrichgebert-ponytail",
-      "name": "ponytail",
-      "growth": 1679
     }
   ]
 }
