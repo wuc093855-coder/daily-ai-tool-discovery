@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-29T14:03:00+08:00",
+  "generated_at": "2026-09-30T13:52:01+08:00",
   "history_sufficient": true,
-  "days": 64,
-  "total_tools": 158,
+  "days": 65,
+  "total_tools": 159,
   "today_tools": 5,
-  "today_scanned": 121,
+  "today_scanned": 120,
   "category_counts": {
     "编程开发": 30,
-    "AI Agent": 54,
+    "AI Agent": 55,
     "开源模型": 29,
     "音频工具": 9,
     "搜索研究": 9,
@@ -22,7 +22,7 @@
   "source_counts": {
     "GitHub": 54,
     "Hugging Face": 43,
-    "Product Hunt": 61
+    "Product Hunt": 62
   },
   "open_source_ratio": 0.9691,
   "free_ratio": null,
@@ -57,7 +57,7 @@
     {
       "id": "github-debpalash-voicestudio",
       "name": "VoiceStudio",
-      "growth": 3221
+      "growth": 4758
     },
     {
       "id": "github-alibaba-open-code-review",
