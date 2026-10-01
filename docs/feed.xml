@@ -5,7 +5,14 @@
     <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/</link>
     <description>每天筛选 5 个真正值得关注的 AI 工具。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 30 Sep 2026 05:52:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 06:25:17 +0000</lastBuildDate>
+    <item>
+      <title>2026-10-01 每日 AI 工具精选</title>
+      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
+      <guid isPermaLink="false">daily-ai-tools-2026-10-01</guid>
+      <description>今日精选：VoiceStudio、dbx、MiMo-V2.6-Distill-Qwen-9B、MiniMax-H3-Character-Swap-LoRA、getcta.store</description>
+      <pubDate>Thu, 01 Oct 2026 00:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>2026-09-30 每日 AI 工具精选</title>
       <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
@@ -96,13 +103,6 @@
       <guid isPermaLink="false">daily-ai-tools-2026-09-18</guid>
       <description>今日精选：claude-code、open-code-review、Agnes-3.0-Flash、Xing4.0-29B-A4B、Text Agent Store</description>
       <pubDate>Fri, 18 Sep 2026 00:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026-09-17 每日 AI 工具精选</title>
-      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
-      <guid isPermaLink="false">daily-ai-tools-2026-09-17</guid>
-      <description>今日精选：open-code-review、WeKnora、Agnes-3.0-Flash、DeepSeek-V4.1-Flash-UNCENSORED-FP8、Appwrite 2.0</description>
-      <pubDate>Thu, 17 Sep 2026 00:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
