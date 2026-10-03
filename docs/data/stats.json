@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-02T14:03:45+08:00",
+  "generated_at": "2026-10-03T13:38:09+08:00",
   "history_sufficient": true,
-  "days": 67,
-  "total_tools": 165,
+  "days": 68,
+  "total_tools": 167,
   "today_tools": 5,
-  "today_scanned": 123,
+  "today_scanned": 133,
   "category_counts": {
-    "编程开发": 30,
-    "AI Agent": 56,
+    "编程开发": 31,
+    "AI Agent": 57,
     "开源模型": 31,
     "音频工具": 9,
     "搜索研究": 9,
@@ -20,11 +20,11 @@
     "本地工具": 1
   },
   "source_counts": {
-    "GitHub": 55,
+    "GitHub": 56,
     "Hugging Face": 46,
-    "Product Hunt": 64
+    "Product Hunt": 65
   },
-  "open_source_ratio": 0.9703,
+  "open_source_ratio": 0.9706,
   "free_ratio": null,
   "top_scored": [
     {
@@ -48,9 +48,9 @@
       "score": 83.7
     },
     {
-      "id": "huggingface-cloudflare-clef",
-      "name": "clef",
-      "score": 83.5
+      "id": "github-huggingface-transformers",
+      "name": "transformers",
+      "score": 83.4
     }
   ],
   "top_growth": [
