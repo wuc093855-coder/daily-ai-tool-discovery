@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-04T14:13:57+08:00",
+  "generated_at": "2026-10-05T14:06:00+08:00",
   "categories": [
     {
       "name": "AI Agent",
@@ -24,7 +24,7 @@
     },
     {
       "name": "写作办公",
-      "count": 2
+      "count": 3
     },
     {
       "name": "数据分析",

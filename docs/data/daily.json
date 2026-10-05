@@ -17,8 +17,413 @@
       "business": 0.1
     }
   },
-  "updated_at": "2026-10-04T14:13:57+08:00",
+  "updated_at": "2026-10-05T14:06:00+08:00",
   "days": [
+    {
+      "date": "2026-10-05",
+      "display_date": "2026年10月05日",
+      "weekday": "星期一",
+      "updated_at": "2026-10-05T14:06:00+08:00",
+      "tools": [
+        {
+          "id": "github-thedotmack-claude-mem",
+          "slug": "claude-mem",
+          "name": "claude-mem",
+          "original_name": "thedotmack/claude-mem",
+          "tagline_zh": "claude-mem 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "claude-mem 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/thedotmack/claude-mem",
+          "official_url": "https://claude-mem.ai",
+          "repo_url": "https://github.com/thedotmack/claude-mem",
+          "logo_url": "https://avatars.githubusercontent.com/u/683968?v=4",
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent",
+            "TypeScript"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "Apache-2.0",
+          "stars": 96248,
+          "star_growth": 628,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-10-04",
+          "updated_at": "2026-10-05T06:03:19Z",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 83.5,
+          "score_heat": 98.4,
+          "score_freshness": 78,
+          "score_usefulness": 87,
+          "score_product": 83,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-10-04",
+              "score": 77.8
+            },
+            {
+              "date": "2026-10-05",
+              "score": 83.5
+            }
+          ],
+          "rank": 1,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-cloudflare-clef",
+          "slug": "clef",
+          "name": "clef",
+          "original_name": "Cloudflare/clef",
+          "tagline_zh": "clef 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "clef 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors qwen3_5 image-text-to-text clef cloudflare systemone qwen3.8",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/Cloudflare/clef",
+          "official_url": "https://huggingface.co/Cloudflare/clef",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "transformers",
+            "safetensors",
+            "qwen3_5",
+            "image-text-to-text",
+            "clef",
+            "cloudflare",
+            "systemone",
+            "qwen3.8",
+            "post-train",
+            "image-text-to-typed-output",
+            "multimodal"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 1256,
+          "trending_score": 1167,
+          "published_at": "2026-09-30T21:15:35.000Z",
+          "discovered_at": "2026-10-02",
+          "updated_at": "2026-10-01T15:23:46.000Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 80.6,
+          "score_heat": 100,
+          "score_freshness": 79,
+          "score_usefulness": 75.1,
+          "score_product": 76.4,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-10-02",
+              "score": 83.5
+            },
+            {
+              "date": "2026-10-03",
+              "score": 82.5
+            },
+            {
+              "date": "2026-10-04",
+              "score": 81.5
+            },
+            {
+              "date": "2026-10-05",
+              "score": 80.6
+            }
+          ],
+          "rank": 2,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-cloudflare-clef-flash",
+          "slug": "clef-flash",
+          "name": "clef-flash",
+          "original_name": "Cloudflare/clef-flash",
+          "tagline_zh": "clef-flash 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "clef-flash 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors qwen3_5 image-text-to-text clef cloudflare systemone qwen3.5",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/Cloudflare/clef-flash",
+          "official_url": "https://huggingface.co/Cloudflare/clef-flash",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "transformers",
+            "safetensors",
+            "qwen3_5",
+            "image-text-to-text",
+            "clef",
+            "cloudflare",
+            "systemone",
+            "qwen3.5",
+            "post-train",
+            "image-text-to-typed-output",
+            "multimodal"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 439,
+          "trending_score": 420,
+          "published_at": "2026-09-30T21:15:36.000Z",
+          "discovered_at": "2026-10-02",
+          "updated_at": "2026-10-01T15:23:49.000Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 79.4,
+          "score_heat": 100,
+          "score_freshness": 79,
+          "score_usefulness": 75.1,
+          "score_product": 76.4,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-10-02",
+              "score": 82.3
+            },
+            {
+              "date": "2026-10-03",
+              "score": 81.3
+            },
+            {
+              "date": "2026-10-04",
+              "score": 80.3
+            },
+            {
+              "date": "2026-10-05",
+              "score": 79.4
+            }
+          ],
+          "rank": 3,
+          "carried_forward": false
+        },
+        {
+          "id": "github-calesthio-openmontage",
+          "slug": "openmontage",
+          "name": "OpenMontage",
+          "original_name": "calesthio/OpenMontage",
+          "tagline_zh": "OpenMontage 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "OpenMontage 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/calesthio/OpenMontage",
+          "official_url": "https://www.openmontage.video/",
+          "repo_url": "https://github.com/calesthio/OpenMontage",
+          "logo_url": "https://avatars.githubusercontent.com/u/213189893?v=4",
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent",
+            "Python"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "AGPL-3.0",
+          "stars": 63367,
+          "star_growth": 245,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-08-12",
+          "updated_at": "2026-10-05T06:03:46Z",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 78.2,
+          "score_heat": 87.1,
+          "score_freshness": 78,
+          "score_usefulness": 84.1,
+          "score_product": 78.6,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-08-12",
+              "score": 80.6
+            },
+            {
+              "date": "2026-08-28",
+              "score": 81.7
+            },
+            {
+              "date": "2026-08-29",
+              "score": 82.3
+            },
+            {
+              "date": "2026-08-30",
+              "score": 82.3
+            },
+            {
+              "date": "2026-10-05",
+              "score": 78.2
+            }
+          ],
+          "rank": 4,
+          "carried_forward": false
+        },
+        {
+          "id": "producthunt-opensend-cc",
+          "slug": "opensend-cc",
+          "name": "opensend.cc",
+          "original_name": "opensend.cc",
+          "tagline_zh": "opensend.cc 是一款聚焦于AI 写作、办公与生产力的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "opensend.cc 是一款聚焦于AI 写作、办公与生产力的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "The open source email platform that runs on your server Discussion | Link",
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "source_url": "https://www.producthunt.com/products/opensend-cc",
+          "official_url": "https://www.producthunt.com/products/opensend-cc",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "写作办公",
+          "tags": [
+            "写作办公"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": null,
+          "trending_score": null,
+          "published_at": "2026-09-30T23:13:28+00:00",
+          "discovered_at": "2026-10-05",
+          "updated_at": "2026-10-05T14:06:00+08:00",
+          "suitable_for": "职场人士、内容运营、小团队和自由职业者",
+          "core_features": [
+            "自动处理重复办公任务",
+            "辅助整理和生成文本内容",
+            "提升个人或团队协作效率"
+          ],
+          "use_cases": [
+            "文案和报告写作",
+            "会议与邮件整理",
+            "日常办公提效"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。提供内容代写与编辑；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "提供内容代写与编辑",
+            "售卖办公模板",
+            "交付效率咨询服务"
+          ],
+          "score_total": 69.1,
+          "score_heat": 91.6,
+          "score_freshness": 79.4,
+          "score_usefulness": 56.2,
+          "score_product": 60.1,
+          "score_business": 44,
+          "score_history": [
+            {
+              "date": "2026-10-05",
+              "score": 69.1
+            }
+          ],
+          "rank": 5,
+          "carried_forward": false
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 10
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 16
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    },
     {
       "date": "2026-10-04",
       "display_date": "2026年10月04日",
