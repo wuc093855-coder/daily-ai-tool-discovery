@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-05T14:06:00+08:00",
+  "generated_at": "2026-10-06T14:46:27+08:00",
   "history_sufficient": true,
-  "days": 70,
-  "total_tools": 170,
+  "days": 71,
+  "total_tools": 172,
   "today_tools": 5,
-  "today_scanned": 121,
+  "today_scanned": 125,
   "category_counts": {
     "编程开发": 31,
-    "AI Agent": 58,
-    "开源模型": 31,
+    "AI Agent": 59,
+    "开源模型": 32,
     "音频工具": 9,
     "搜索研究": 9,
     "商业与营销": 3,
@@ -21,10 +21,10 @@
   },
   "source_counts": {
     "GitHub": 57,
-    "Hugging Face": 46,
-    "Product Hunt": 67
+    "Hugging Face": 47,
+    "Product Hunt": 68
   },
-  "open_source_ratio": 0.9712,
+  "open_source_ratio": 0.9714,
   "free_ratio": null,
   "top_scored": [
     {
@@ -48,9 +48,9 @@
       "score": 83.7
     },
     {
-      "id": "github-thedotmack-claude-mem",
-      "name": "claude-mem",
-      "score": 83.5
+      "id": "github-huggingface-transformers",
+      "name": "transformers",
+      "score": 83.4
     }
   ],
   "top_growth": [
