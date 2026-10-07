@@ -17,8 +17,401 @@
       "business": 0.1
     }
   },
-  "updated_at": "2026-10-06T14:46:27+08:00",
+  "updated_at": "2026-10-07T14:21:10+08:00",
   "days": [
+    {
+      "date": "2026-10-07",
+      "display_date": "2026年10月07日",
+      "weekday": "星期三",
+      "updated_at": "2026-10-07T14:21:10+08:00",
+      "tools": [
+        {
+          "id": "github-thedotmack-claude-mem",
+          "slug": "claude-mem",
+          "name": "claude-mem",
+          "original_name": "thedotmack/claude-mem",
+          "tagline_zh": "claude-mem 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "claude-mem 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/thedotmack/claude-mem",
+          "official_url": "https://claude-mem.ai",
+          "repo_url": "https://github.com/thedotmack/claude-mem",
+          "logo_url": "https://avatars.githubusercontent.com/u/683968?v=4",
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent",
+            "TypeScript"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "Apache-2.0",
+          "stars": 97288,
+          "star_growth": 534,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-10-04",
+          "updated_at": "2026-10-07T06:18:56Z",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 83,
+          "score_heat": 96.7,
+          "score_freshness": 78,
+          "score_usefulness": 87,
+          "score_product": 83,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-10-04",
+              "score": 77.8
+            },
+            {
+              "date": "2026-10-05",
+              "score": 83.5
+            },
+            {
+              "date": "2026-10-06",
+              "score": 83.0
+            },
+            {
+              "date": "2026-10-07",
+              "score": 83.0
+            }
+          ],
+          "rank": 1,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-autotrust-gev-26b-decide-nvfp4",
+          "slug": "gev-26b-decide-nvfp4",
+          "name": "GEV-26B-Decide-NVFP4",
+          "original_name": "autotrust/GEV-26B-Decide-NVFP4",
+          "tagline_zh": "GEV-26B-Decide-NVFP4 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "GEV-26B-Decide-NVFP4 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors gemma4 image-text-to-text system-one system-two adaptive-thinking typed-decisions",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/autotrust/GEV-26B-Decide-NVFP4",
+          "official_url": "https://huggingface.co/autotrust/GEV-26B-Decide-NVFP4",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "transformers",
+            "safetensors",
+            "gemma4",
+            "image-text-to-text",
+            "system-one",
+            "system-two",
+            "adaptive-thinking",
+            "typed-decisions",
+            "decision-model",
+            "calibrated-probabilities",
+            "jev"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 148,
+          "trending_score": 132,
+          "published_at": "2026-10-05T01:31:09.000Z",
+          "discovered_at": "2026-10-07",
+          "updated_at": "2026-10-05T01:48:56.000Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 81.8,
+          "score_heat": 98.4,
+          "score_freshness": 89.4,
+          "score_usefulness": 76.6,
+          "score_product": 78.8,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-10-07",
+              "score": 81.8
+            }
+          ],
+          "rank": 2,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-autotrust-gev-26b-decide",
+          "slug": "gev-26b-decide",
+          "name": "GEV-26B-Decide",
+          "original_name": "autotrust/GEV-26B-Decide",
+          "tagline_zh": "GEV-26B-Decide 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "GEV-26B-Decide 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors gemma4 image-text-to-text system-one system-two adaptive-thinking typed-decisions",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/autotrust/GEV-26B-Decide",
+          "official_url": "https://huggingface.co/autotrust/GEV-26B-Decide",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "transformers",
+            "safetensors",
+            "gemma4",
+            "image-text-to-text",
+            "system-one",
+            "system-two",
+            "adaptive-thinking",
+            "typed-decisions",
+            "decision-model",
+            "calibrated-probabilities",
+            "jev"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 813,
+          "trending_score": 665,
+          "published_at": "2026-10-02T04:20:21.000Z",
+          "discovered_at": "2026-10-06",
+          "updated_at": "2026-10-03T11:00:46.000Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 79.6,
+          "score_heat": 100,
+          "score_freshness": 75.6,
+          "score_usefulness": 76.6,
+          "score_product": 78.8,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-10-06",
+              "score": 80.6
+            },
+            {
+              "date": "2026-10-07",
+              "score": 79.6
+            }
+          ],
+          "rank": 3,
+          "carried_forward": false
+        },
+        {
+          "id": "github-msitarzewski-agency-agents",
+          "slug": "agency-agents",
+          "name": "agency-agents",
+          "original_name": "msitarzewski/agency-agents",
+          "tagline_zh": "agency-agents 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "agency-agents 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/msitarzewski/agency-agents",
+          "official_url": "https://github.com/msitarzewski/agency-agents",
+          "repo_url": "https://github.com/msitarzewski/agency-agents",
+          "logo_url": "https://avatars.githubusercontent.com/u/1972242?v=4",
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent",
+            "Shell"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "MIT",
+          "stars": 157976,
+          "star_growth": 623,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-08-10",
+          "updated_at": "2026-10-07T06:19:10Z",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 78.4,
+          "score_heat": 99.5,
+          "score_freshness": 78,
+          "score_usefulness": 75.9,
+          "score_product": 79.8,
+          "score_business": 36,
+          "score_history": [
+            {
+              "date": "2026-08-10",
+              "score": 78.9
+            },
+            {
+              "date": "2026-08-11",
+              "score": 77.8
+            },
+            {
+              "date": "2026-08-13",
+              "score": 77.0
+            },
+            {
+              "date": "2026-08-14",
+              "score": 78.9
+            },
+            {
+              "date": "2026-10-07",
+              "score": 78.4
+            }
+          ],
+          "rank": 4,
+          "carried_forward": false
+        },
+        {
+          "id": "producthunt-iphone-use",
+          "slug": "iphone-use",
+          "name": "iphone-use",
+          "original_name": "iphone-use",
+          "tagline_zh": "iphone-use 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "iphone-use 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Let AI agents drive a real iPhone, even apps with no API Discussion | Link",
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "source_url": "https://www.producthunt.com/products/iphone-use",
+          "official_url": "https://www.producthunt.com/products/iphone-use",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": null,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": null,
+          "trending_score": null,
+          "published_at": "2026-10-05T16:24:48+00:00",
+          "discovered_at": "2026-10-07",
+          "updated_at": "2026-10-07T14:21:10+08:00",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 73.5,
+          "score_heat": 91.6,
+          "score_freshness": 92.4,
+          "score_usefulness": 65.3,
+          "score_product": 54.2,
+          "score_business": 44,
+          "score_history": [
+            {
+              "date": "2026-10-07",
+              "score": 73.5
+            }
+          ],
+          "rank": 5,
+          "carried_forward": false
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 10
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 26
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    },
     {
       "date": "2026-10-06",
       "display_date": "2026年10月06日",

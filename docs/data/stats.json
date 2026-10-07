@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-06T14:46:27+08:00",
+  "generated_at": "2026-10-07T14:21:10+08:00",
   "history_sufficient": true,
-  "days": 71,
-  "total_tools": 172,
+  "days": 72,
+  "total_tools": 174,
   "today_tools": 5,
-  "today_scanned": 125,
+  "today_scanned": 131,
   "category_counts": {
     "编程开发": 31,
-    "AI Agent": 59,
-    "开源模型": 32,
+    "AI Agent": 60,
+    "开源模型": 33,
     "音频工具": 9,
     "搜索研究": 9,
     "商业与营销": 3,
@@ -21,10 +21,10 @@
   },
   "source_counts": {
     "GitHub": 57,
-    "Hugging Face": 47,
-    "Product Hunt": 68
+    "Hugging Face": 48,
+    "Product Hunt": 69
   },
-  "open_source_ratio": 0.9714,
+  "open_source_ratio": 0.9717,
   "free_ratio": null,
   "top_scored": [
     {

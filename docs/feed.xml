@@ -5,7 +5,14 @@
     <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/</link>
     <description>每天筛选 5 个真正值得关注的 AI 工具。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 06 Oct 2026 06:46:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 06:21:10 +0000</lastBuildDate>
+    <item>
+      <title>2026-10-07 每日 AI 工具精选</title>
+      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
+      <guid isPermaLink="false">daily-ai-tools-2026-10-07</guid>
+      <description>今日精选：claude-mem、GEV-26B-Decide-NVFP4、GEV-26B-Decide、agency-agents、iphone-use</description>
+      <pubDate>Wed, 07 Oct 2026 00:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>2026-10-06 每日 AI 工具精选</title>
       <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
@@ -96,13 +103,6 @@
       <guid isPermaLink="false">daily-ai-tools-2026-09-24</guid>
       <description>今日精选：MiMo-V2.6-Distill-Qwen-9B、MiMo-V2.6-Pro-RL、univer、codebase-memory-mcp、Speechka</description>
       <pubDate>Thu, 24 Sep 2026 00:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026-09-23 每日 AI 工具精选</title>
-      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
-      <guid isPermaLink="false">daily-ai-tools-2026-09-23</guid>
-      <description>今日精选：MiMo-V2.6-Distill-Qwen-9B、MiMo-V2.6-Pro-RL、Hola AI、ax、univer</description>
-      <pubDate>Wed, 23 Sep 2026 00:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
