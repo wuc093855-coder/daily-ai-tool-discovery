@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-09T14:33:52+08:00",
+  "generated_at": "2026-10-10T14:17:05+08:00",
   "history_sufficient": true,
-  "days": 74,
-  "total_tools": 179,
+  "days": 75,
+  "total_tools": 181,
   "today_tools": 5,
-  "today_scanned": 122,
+  "today_scanned": 129,
   "category_counts": {
     "编程开发": 32,
-    "AI Agent": 60,
-    "开源模型": 36,
+    "AI Agent": 61,
+    "开源模型": 37,
     "音频工具": 9,
     "搜索研究": 9,
     "商业与营销": 3,
@@ -21,21 +21,16 @@
   },
   "source_counts": {
     "GitHub": 58,
-    "Hugging Face": 50,
-    "Product Hunt": 71
+    "Hugging Face": 51,
+    "Product Hunt": 72
   },
-  "open_source_ratio": 0.9727,
+  "open_source_ratio": 0.973,
   "free_ratio": null,
   "top_scored": [
     {
       "id": "github-asgeirtj-system-prompts-leaks",
       "name": "system_prompts_leaks",
       "score": 84.6
-    },
-    {
-      "id": "github-alibaba-open-code-review",
-      "name": "open-code-review",
-      "score": 83.8
     },
     {
       "id": "huggingface-xiaomimimo-mimo-v2-6-flash-rl",
@@ -51,6 +46,11 @@
       "id": "github-huggingface-transformers",
       "name": "transformers",
       "score": 83.4
+    },
+    {
+      "id": "github-mukul975-anthropic-cybersecurity-skills",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "score": 83.3
     }
   ],
   "top_growth": [
@@ -58,11 +58,6 @@
       "id": "github-debpalash-voicestudio",
       "name": "VoiceStudio",
       "growth": 3483
-    },
-    {
-      "id": "github-alibaba-open-code-review",
-      "name": "open-code-review",
-      "growth": 2704
     },
     {
       "id": "github-primeintellect-ai-prime-agent",
@@ -78,6 +73,11 @@
       "id": "github-harry0703-moneyprinterturbo",
       "name": "MoneyPrinterTurbo",
       "growth": 2304
+    },
+    {
+      "id": "github-cathrynlavery-diagram-design",
+      "name": "diagram-design",
+      "growth": 1739
     }
   ]
 }

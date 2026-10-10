@@ -17,8 +17,409 @@
       "business": 0.1
     }
   },
-  "updated_at": "2026-10-09T14:33:52+08:00",
+  "updated_at": "2026-10-10T14:17:05+08:00",
   "days": [
+    {
+      "date": "2026-10-10",
+      "display_date": "2026年10月10日",
+      "weekday": "星期六",
+      "updated_at": "2026-10-10T14:17:05+08:00",
+      "tools": [
+        {
+          "id": "github-alibaba-open-code-review",
+          "slug": "open-code-review",
+          "name": "open-code-review",
+          "original_name": "alibaba/open-code-review",
+          "tagline_zh": "open-code-review 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "open-code-review 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/alibaba/open-code-review",
+          "official_url": "https://open-codereview.ai",
+          "repo_url": "https://github.com/alibaba/open-code-review",
+          "logo_url": "https://avatars.githubusercontent.com/u/1961952?v=4",
+          "category": "编程开发",
+          "tags": [
+            "编程开发",
+            "Go"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "Apache-2.0",
+          "stars": 45475,
+          "star_growth": 326,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-07-27",
+          "updated_at": "2026-10-10T06:16:25Z",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 81.2,
+          "score_heat": 89.4,
+          "score_freshness": 78,
+          "score_usefulness": 87,
+          "score_product": 83,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-07-27",
+              "score": 83.5
+            },
+            {
+              "date": "2026-07-28",
+              "score": 83.5
+            },
+            {
+              "date": "2026-07-30",
+              "score": 78.6
+            },
+            {
+              "date": "2026-09-14",
+              "score": 81.3
+            },
+            {
+              "date": "2026-09-16",
+              "score": 83.8
+            },
+            {
+              "date": "2026-09-17",
+              "score": 83.8
+            },
+            {
+              "date": "2026-09-18",
+              "score": 82.7
+            },
+            {
+              "date": "2026-09-19",
+              "score": 83.8
+            },
+            {
+              "date": "2026-10-10",
+              "score": 81.2
+            }
+          ],
+          "rank": 1,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-liquidai-d1-3b",
+          "slug": "d1-3b",
+          "name": "d1-3B",
+          "original_name": "LiquidAI/d1-3B",
+          "tagline_zh": "d1-3B 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "d1-3B 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors lfm2_vl image-text-to-text liquid lfm2.5 edge decision",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/LiquidAI/d1-3B",
+          "official_url": "https://huggingface.co/LiquidAI/d1-3B",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "transformers",
+            "safetensors",
+            "lfm2_vl",
+            "image-text-to-text",
+            "liquid",
+            "lfm2.5",
+            "edge",
+            "decision",
+            "classification",
+            "calibration",
+            "system-one"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 240,
+          "trending_score": 238,
+          "published_at": "2026-10-05T09:55:28.000Z",
+          "discovered_at": "2026-10-09",
+          "updated_at": "2026-10-07T20:23:00.000Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 79.9,
+          "score_heat": 100,
+          "score_freshness": 76.7,
+          "score_usefulness": 74.6,
+          "score_product": 75.8,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-10-09",
+              "score": 80.8
+            },
+            {
+              "date": "2026-10-10",
+              "score": 79.9
+            }
+          ],
+          "rank": 2,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-qwen-qwen-image-2-1-turbo",
+          "slug": "qwen-image-2-1-turbo",
+          "name": "Qwen-Image-2.1-Turbo",
+          "original_name": "Qwen/Qwen-Image-2.1-Turbo",
+          "tagline_zh": "Qwen-Image-2.1-Turbo 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Qwen-Image-2.1-Turbo 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "diffusers safetensors qwen image-generation image-editing text-to-image base_model:Qwen/Qwen-Image-2.1 base_model:finetune:Qwen/Qwen-Image-2.1",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+          "official_url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "diffusers",
+            "safetensors",
+            "qwen",
+            "image-generation",
+            "image-editing",
+            "text-to-image",
+            "base_model:Qwen/Qwen-Image-2.1",
+            "base_model:finetune:Qwen/Qwen-Image-2.1",
+            "license:other",
+            "diffusers:QwenImage21Pipeline",
+            "region:us"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 340,
+          "trending_score": 338,
+          "published_at": "2026-10-09T04:50:01.000Z",
+          "discovered_at": "2026-10-10",
+          "updated_at": "2026-10-09T14:14:45.000Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 78.7,
+          "score_heat": 100,
+          "score_freshness": 94.9,
+          "score_usefulness": 61.1,
+          "score_product": 82.8,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-10-10",
+              "score": 78.7
+            }
+          ],
+          "rank": 3,
+          "carried_forward": false
+        },
+        {
+          "id": "github-cathrynlavery-diagram-design",
+          "slug": "diagram-design",
+          "name": "diagram-design",
+          "original_name": "cathrynlavery/diagram-design",
+          "tagline_zh": "diagram-design 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "diagram-design 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/cathrynlavery/diagram-design",
+          "official_url": "https://cathrynlavery.github.io/diagram-design/",
+          "repo_url": "https://github.com/cathrynlavery/diagram-design",
+          "logo_url": "https://avatars.githubusercontent.com/u/50469282?v=4",
+          "category": "编程开发",
+          "tags": [
+            "编程开发",
+            "HTML"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "MIT",
+          "stars": 48178,
+          "star_growth": 1739,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-10-08",
+          "updated_at": "2026-10-10T06:15:52Z",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 77.5,
+          "score_heat": 100,
+          "score_freshness": 78,
+          "score_usefulness": 71.5,
+          "score_product": 72.9,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-10-08",
+              "score": 78.7
+            },
+            {
+              "date": "2026-10-10",
+              "score": 77.5
+            }
+          ],
+          "rank": 4,
+          "carried_forward": false
+        },
+        {
+          "id": "producthunt-openvids",
+          "slug": "openvids",
+          "name": "OpenVids",
+          "original_name": "OpenVids",
+          "tagline_zh": "OpenVids 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "OpenVids 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Open-source video editor you run by chatting with AI agents Discussion | Link",
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "source_url": "https://www.producthunt.com/products/openvids",
+          "official_url": "https://www.producthunt.com/products/openvids",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": null,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": null,
+          "trending_score": null,
+          "published_at": "2026-10-08T19:58:50+00:00",
+          "discovered_at": "2026-10-10",
+          "updated_at": "2026-10-10T14:17:05+08:00",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 73.2,
+          "score_heat": 85,
+          "score_freshness": 93.1,
+          "score_usefulness": 65.5,
+          "score_product": 54.6,
+          "score_business": 55,
+          "score_history": [
+            {
+              "date": "2026-10-10",
+              "score": 73.2
+            }
+          ],
+          "rank": 5,
+          "carried_forward": false
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 8
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 26
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    },
     {
       "date": "2026-10-09",
       "display_date": "2026年10月09日",
