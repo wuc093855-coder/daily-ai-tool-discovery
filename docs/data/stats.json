@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-10T14:17:05+08:00",
+  "generated_at": "2026-10-11T14:17:18+08:00",
   "history_sufficient": true,
-  "days": 75,
-  "total_tools": 181,
+  "days": 76,
+  "total_tools": 183,
   "today_tools": 5,
-  "today_scanned": 129,
+  "today_scanned": 120,
   "category_counts": {
     "编程开发": 32,
-    "AI Agent": 61,
+    "AI Agent": 62,
     "开源模型": 37,
     "音频工具": 9,
     "搜索研究": 9,
@@ -16,15 +16,15 @@
     "写作办公": 3,
     "数据分析": 5,
     "自动化": 14,
-    "图像生成": 7,
+    "图像生成": 8,
     "本地工具": 1
   },
   "source_counts": {
     "GitHub": 58,
-    "Hugging Face": 51,
-    "Product Hunt": 72
+    "Hugging Face": 52,
+    "Product Hunt": 73
   },
-  "open_source_ratio": 0.973,
+  "open_source_ratio": 0.9732,
   "free_ratio": null,
   "top_scored": [
     {
@@ -43,14 +43,14 @@
       "score": 83.7
     },
     {
-      "id": "github-huggingface-transformers",
-      "name": "transformers",
-      "score": 83.4
-    },
-    {
       "id": "github-mukul975-anthropic-cybersecurity-skills",
       "name": "Anthropic-Cybersecurity-Skills",
       "score": 83.3
+    },
+    {
+      "id": "github-thedotmack-claude-mem",
+      "name": "claude-mem",
+      "score": 83.2
     }
   ],
   "top_growth": [
@@ -75,9 +75,9 @@
       "growth": 2304
     },
     {
-      "id": "github-cathrynlavery-diagram-design",
-      "name": "diagram-design",
-      "growth": 1739
+      "id": "github-dietrichgebert-ponytail",
+      "name": "ponytail",
+      "growth": 1435
     }
   ]
 }
