@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-12T14:23:16+08:00",
+  "generated_at": "2026-10-13T15:00:51+08:00",
   "history_sufficient": true,
-  "days": 77,
-  "total_tools": 185,
+  "days": 78,
+  "total_tools": 187,
   "today_tools": 5,
-  "today_scanned": 112,
+  "today_scanned": 123,
   "category_counts": {
     "编程开发": 32,
-    "AI Agent": 63,
-    "开源模型": 38,
+    "AI Agent": 64,
+    "开源模型": 39,
     "音频工具": 9,
     "搜索研究": 9,
     "商业与营销": 3,
@@ -21,10 +21,10 @@
   },
   "source_counts": {
     "GitHub": 59,
-    "Hugging Face": 52,
-    "Product Hunt": 74
+    "Hugging Face": 53,
+    "Product Hunt": 75
   },
-  "open_source_ratio": 0.9735,
+  "open_source_ratio": 0.9737,
   "free_ratio": null,
   "top_scored": [
     {
@@ -75,9 +75,9 @@
       "growth": 2304
     },
     {
-      "id": "github-dietrichgebert-ponytail",
-      "name": "ponytail",
-      "growth": 1435
+      "id": "github-cathrynlavery-diagram-design",
+      "name": "diagram-design",
+      "growth": 2081
     }
   ]
 }
