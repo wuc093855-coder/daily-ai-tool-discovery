@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-13T15:00:51+08:00",
+  "generated_at": "2026-10-14T13:16:10+08:00",
   "history_sufficient": true,
-  "days": 78,
-  "total_tools": 187,
+  "days": 79,
+  "total_tools": 189,
   "today_tools": 5,
-  "today_scanned": 123,
+  "today_scanned": 124,
   "category_counts": {
     "编程开发": 32,
-    "AI Agent": 64,
-    "开源模型": 39,
+    "AI Agent": 65,
+    "开源模型": 40,
     "音频工具": 9,
     "搜索研究": 9,
     "商业与营销": 3,
@@ -21,10 +21,10 @@
   },
   "source_counts": {
     "GitHub": 59,
-    "Hugging Face": 53,
-    "Product Hunt": 75
+    "Hugging Face": 54,
+    "Product Hunt": 76
   },
-  "open_source_ratio": 0.9737,
+  "open_source_ratio": 0.9739,
   "free_ratio": null,
   "top_scored": [
     {
@@ -55,11 +55,6 @@
   ],
   "top_growth": [
     {
-      "id": "github-debpalash-voicestudio",
-      "name": "VoiceStudio",
-      "growth": 3483
-    },
-    {
       "id": "github-primeintellect-ai-prime-agent",
       "name": "prime-agent",
       "growth": 2642
@@ -77,7 +72,12 @@
     {
       "id": "github-cathrynlavery-diagram-design",
       "name": "diagram-design",
-      "growth": 2081
+      "growth": 1815
+    },
+    {
+      "id": "github-debpalash-voicestudio",
+      "name": "VoiceStudio",
+      "growth": 1748
     }
   ]
 }
