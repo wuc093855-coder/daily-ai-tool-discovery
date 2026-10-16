@@ -17,8 +17,397 @@
       "business": 0.1
     }
   },
-  "updated_at": "2026-10-15T13:03:05+08:00",
+  "updated_at": "2026-10-16T12:52:23+08:00",
   "days": [
+    {
+      "date": "2026-10-16",
+      "display_date": "2026年10月16日",
+      "weekday": "星期五",
+      "updated_at": "2026-10-16T12:52:23+08:00",
+      "tools": [
+        {
+          "id": "github-xerj-org-xerj",
+          "slug": "xerj",
+          "name": "xerj",
+          "original_name": "xerj-org/xerj",
+          "tagline_zh": "xerj 是一款聚焦于AI 搜索、研究与知识管理的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "xerj 是一款聚焦于AI 搜索、研究与知识管理的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/xerj-org/xerj",
+          "official_url": "https://xerj.org",
+          "repo_url": "https://github.com/xerj-org/xerj",
+          "logo_url": "https://avatars.githubusercontent.com/u/297525353?v=4",
+          "category": "搜索研究",
+          "tags": [
+            "搜索研究",
+            "Rust"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "Apache-2.0",
+          "stars": 5875,
+          "star_growth": 715,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-10-16",
+          "updated_at": "2026-10-16T04:50:44Z",
+          "suitable_for": "研究人员、学生、知识工作者和咨询团队",
+          "core_features": [
+            "检索并整理分散信息",
+            "对文档或知识库进行问答",
+            "提高研究与阅读效率"
+          ],
+          "use_cases": [
+            "行业与竞品研究",
+            "私有知识库问答",
+            "长文档快速理解"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。交付研究报告；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "交付研究报告",
+            "搭建企业知识库",
+            "提供资料整理服务"
+          ],
+          "score_total": 82.1,
+          "score_heat": 93.1,
+          "score_freshness": 78,
+          "score_usefulness": 87,
+          "score_product": 83,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-10-16",
+              "score": 82.1
+            }
+          ],
+          "rank": 1,
+          "carried_forward": false
+        },
+        {
+          "id": "github-k-dense-ai-scientific-agent-skills",
+          "slug": "scientific-agent-skills",
+          "name": "scientific-agent-skills",
+          "original_name": "K-Dense-AI/scientific-agent-skills",
+          "tagline_zh": "scientific-agent-skills 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "scientific-agent-skills 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "official_url": "https://arxiv.org/abs/2609.00065",
+          "repo_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "logo_url": "https://avatars.githubusercontent.com/u/238572432?v=4",
+          "category": "编程开发",
+          "tags": [
+            "编程开发",
+            "Python"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "MIT",
+          "stars": 50693,
+          "star_growth": 1091,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-08-28",
+          "updated_at": "2026-10-16T04:51:42Z",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 80.9,
+          "score_heat": 100,
+          "score_freshness": 78,
+          "score_usefulness": 78,
+          "score_product": 83,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-08-28",
+              "score": 80.5
+            },
+            {
+              "date": "2026-08-29",
+              "score": 79.9
+            },
+            {
+              "date": "2026-08-30",
+              "score": 81.1
+            },
+            {
+              "date": "2026-08-31",
+              "score": 81.2
+            },
+            {
+              "date": "2026-09-01",
+              "score": 80.1
+            },
+            {
+              "date": "2026-09-02",
+              "score": 81.2
+            },
+            {
+              "date": "2026-10-16",
+              "score": 80.9
+            }
+          ],
+          "rank": 2,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-vllm-sr-d3",
+          "slug": "d3",
+          "name": "d3",
+          "original_name": "vllm-sr/d3",
+          "tagline_zh": "d3 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "d3 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors qwen3_5 feature-extraction zero-shot-classification decision-model classification system-one",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/vllm-sr/d3",
+          "official_url": "https://huggingface.co/vllm-sr/d3",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "transformers",
+            "safetensors",
+            "qwen3_5",
+            "feature-extraction",
+            "zero-shot-classification",
+            "decision-model",
+            "classification",
+            "system-one",
+            "multimodal",
+            "vision",
+            "video"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 201,
+          "trending_score": 196,
+          "published_at": "2026-10-10T09:38:30.000Z",
+          "discovered_at": "2026-10-15",
+          "updated_at": "2026-10-15T07:19:31.000Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 79.7,
+          "score_heat": 100,
+          "score_freshness": 72.2,
+          "score_usefulness": 77.4,
+          "score_product": 80,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-10-15",
+              "score": 81.4
+            },
+            {
+              "date": "2026-10-16",
+              "score": 79.7
+            }
+          ],
+          "rank": 3,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-black-forest-labs-flux-3-image-klein-comfy",
+          "slug": "flux-3-image-klein-comfy",
+          "name": "flux-3-image-klein-comfy",
+          "original_name": "black-forest-labs/flux-3-image-klein-comfy",
+          "tagline_zh": "flux-3-image-klein-comfy 是一款聚焦于AI 图像生成与视觉设计的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "flux-3-image-klein-comfy 是一款聚焦于AI 图像生成与视觉设计的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "diffusion-single-file comfyui image-generation image-editing flux flux-3 black-forest-labs image-to-image",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+          "official_url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "图像生成",
+          "tags": [
+            "图像生成",
+            "diffusion-single-file",
+            "comfyui",
+            "image-generation",
+            "image-editing",
+            "flux",
+            "flux-3",
+            "black-forest-labs",
+            "image-to-image",
+            "en",
+            "base_model:black-forest-labs/flux-3-image-klein",
+            "base_model:finetune:black-forest-labs/flux-3-image-klein"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": false,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 259,
+          "trending_score": 240,
+          "published_at": "2026-10-14T12:00:13.000Z",
+          "discovered_at": "2026-10-16",
+          "updated_at": "2026-10-16T01:16:09.000Z",
+          "suitable_for": "设计师、自媒体创作者、电商从业者和营销团队",
+          "core_features": [
+            "生成或编辑视觉素材",
+            "加快创意方案迭代",
+            "降低设计内容的制作门槛"
+          ],
+          "use_cases": [
+            "制作电商与社媒素材",
+            "生成创意概念图",
+            "辅助品牌视觉探索"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。制作电商图与社媒素材；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "制作电商图与社媒素材",
+            "提供视觉设计服务",
+            "生产数字素材产品"
+          ],
+          "score_total": 77.4,
+          "score_heat": 100,
+          "score_freshness": 91.8,
+          "score_usefulness": 58.5,
+          "score_product": 78.7,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-10-16",
+              "score": 77.4
+            }
+          ],
+          "rank": 4,
+          "carried_forward": false
+        },
+        {
+          "id": "producthunt-chatway-mcp",
+          "slug": "chatway-mcp",
+          "name": "Chatway MCP",
+          "original_name": "Chatway MCP",
+          "tagline_zh": "Chatway MCP 是一款聚焦于AI 商业增长与营销的AI 产品，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Chatway MCP 是一款聚焦于AI 商业增长与营销的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Let ChatGPT & Claude answer customer support tickets via MCP Discussion | Link",
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "source_url": "https://www.producthunt.com/products/chatway",
+          "official_url": "https://www.producthunt.com/products/chatway",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "商业与营销",
+          "tags": [
+            "商业与营销"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": null,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": null,
+          "trending_score": null,
+          "published_at": "2026-10-14T11:30:36+00:00",
+          "discovered_at": "2026-10-16",
+          "updated_at": "2026-10-16T12:52:23+08:00",
+          "suitable_for": "创业者、销售、市场团队和电商经营者",
+          "core_features": [
+            "辅助获客、销售或营销执行",
+            "提升内容和触达效率",
+            "支持业务增长实验"
+          ],
+          "use_cases": [
+            "营销内容生成",
+            "销售线索处理",
+            "增长流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。提供营销代运营；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "提供营销代运营",
+            "交付增长自动化",
+            "开发垂直营销工具"
+          ],
+          "score_total": 71.9,
+          "score_heat": 91.6,
+          "score_freshness": 91.7,
+          "score_usefulness": 56.6,
+          "score_product": 54.7,
+          "score_business": 55,
+          "score_history": [
+            {
+              "date": "2026-10-16",
+              "score": 71.9
+            }
+          ],
+          "rank": 5,
+          "carried_forward": false
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 10
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 21
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    },
     {
       "date": "2026-10-15",
       "display_date": "2026年10月15日",
