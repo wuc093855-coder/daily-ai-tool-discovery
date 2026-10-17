@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-16T12:52:23+08:00",
+  "generated_at": "2026-10-17T12:53:30+08:00",
   "history_sufficient": true,
-  "days": 81,
-  "total_tools": 195,
+  "days": 82,
+  "total_tools": 196,
   "today_tools": 5,
-  "today_scanned": 126,
+  "today_scanned": 122,
   "category_counts": {
     "编程开发": 32,
-    "AI Agent": 67,
+    "AI Agent": 68,
     "开源模型": 41,
     "音频工具": 9,
     "搜索研究": 10,
@@ -22,11 +22,16 @@
   "source_counts": {
     "GitHub": 61,
     "Hugging Face": 56,
-    "Product Hunt": 78
+    "Product Hunt": 79
   },
   "open_source_ratio": 0.9664,
   "free_ratio": null,
   "top_scored": [
+    {
+      "id": "github-ruvnet-ruflo",
+      "name": "ruflo",
+      "score": 84.6
+    },
     {
       "id": "github-asgeirtj-system-prompts-leaks",
       "name": "system_prompts_leaks",
@@ -43,14 +48,9 @@
       "score": 83.7
     },
     {
-      "id": "github-mukul975-anthropic-cybersecurity-skills",
-      "name": "Anthropic-Cybersecurity-Skills",
-      "score": 83.3
-    },
-    {
-      "id": "github-thedotmack-claude-mem",
-      "name": "claude-mem",
-      "score": 83.2
+      "id": "github-xerj-org-xerj",
+      "name": "xerj",
+      "score": 83.4
     }
   ],
   "top_growth": [
