@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-17T12:53:30+08:00",
+  "generated_at": "2026-10-18T13:00:49+08:00",
   "history_sufficient": true,
-  "days": 82,
-  "total_tools": 196,
+  "days": 83,
+  "total_tools": 198,
   "today_tools": 5,
-  "today_scanned": 122,
+  "today_scanned": 124,
   "category_counts": {
     "编程开发": 32,
-    "AI Agent": 68,
+    "AI Agent": 69,
     "开源模型": 41,
     "音频工具": 9,
     "搜索研究": 10,
@@ -16,22 +16,17 @@
     "写作办公": 3,
     "数据分析": 5,
     "自动化": 14,
-    "图像生成": 9,
+    "图像生成": 10,
     "本地工具": 1
   },
   "source_counts": {
     "GitHub": 61,
-    "Hugging Face": 56,
-    "Product Hunt": 79
+    "Hugging Face": 57,
+    "Product Hunt": 80
   },
-  "open_source_ratio": 0.9664,
+  "open_source_ratio": 0.9667,
   "free_ratio": null,
   "top_scored": [
-    {
-      "id": "github-ruvnet-ruflo",
-      "name": "ruflo",
-      "score": 84.6
-    },
     {
       "id": "github-asgeirtj-system-prompts-leaks",
       "name": "system_prompts_leaks",
@@ -50,7 +45,12 @@
     {
       "id": "github-xerj-org-xerj",
       "name": "xerj",
-      "score": 83.4
+      "score": 83.7
+    },
+    {
+      "id": "github-mukul975-anthropic-cybersecurity-skills",
+      "name": "Anthropic-Cybersecurity-Skills",
+      "score": 83.3
     }
   ],
   "top_growth": [
