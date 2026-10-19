@@ -1,36 +1,41 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-18T13:00:49+08:00",
+  "generated_at": "2026-10-19T13:09:32+08:00",
   "history_sufficient": true,
-  "days": 83,
-  "total_tools": 198,
+  "days": 84,
+  "total_tools": 200,
   "today_tools": 5,
-  "today_scanned": 124,
+  "today_scanned": 123,
   "category_counts": {
-    "编程开发": 32,
-    "AI Agent": 69,
+    "编程开发": 33,
+    "AI Agent": 68,
     "开源模型": 41,
     "音频工具": 9,
     "搜索研究": 10,
     "商业与营销": 4,
     "写作办公": 3,
     "数据分析": 5,
-    "自动化": 14,
-    "图像生成": 10,
+    "自动化": 15,
+    "图像生成": 11,
     "本地工具": 1
   },
   "source_counts": {
     "GitHub": 61,
-    "Hugging Face": 57,
-    "Product Hunt": 80
+    "Hugging Face": 58,
+    "Product Hunt": 81
   },
-  "open_source_ratio": 0.9667,
+  "open_source_ratio": 0.9669,
   "free_ratio": null,
   "top_scored": [
     {
       "id": "github-asgeirtj-system-prompts-leaks",
       "name": "system_prompts_leaks",
       "score": 84.6
+    },
+    {
+      "id": "github-ruvnet-ruflo",
+      "name": "ruflo",
+      "score": 83.9
     },
     {
       "id": "huggingface-xiaomimimo-mimo-v2-6-flash-rl",
@@ -46,11 +51,6 @@
       "id": "github-xerj-org-xerj",
       "name": "xerj",
       "score": 83.7
-    },
-    {
-      "id": "github-mukul975-anthropic-cybersecurity-skills",
-      "name": "Anthropic-Cybersecurity-Skills",
-      "score": 83.3
     }
   ],
   "top_growth": [
