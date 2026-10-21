@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-20T13:09:51+08:00",
+  "generated_at": "2026-10-21T13:11:32+08:00",
   "history_sufficient": true,
-  "days": 85,
-  "total_tools": 201,
+  "days": 86,
+  "total_tools": 205,
   "today_tools": 5,
-  "today_scanned": 126,
+  "today_scanned": 128,
   "category_counts": {
-    "编程开发": 33,
-    "AI Agent": 69,
-    "开源模型": 41,
+    "编程开发": 34,
+    "AI Agent": 70,
+    "开源模型": 43,
     "音频工具": 9,
     "搜索研究": 10,
     "商业与营销": 4,
@@ -20,22 +20,22 @@
     "本地工具": 1
   },
   "source_counts": {
-    "GitHub": 61,
-    "Hugging Face": 58,
-    "Product Hunt": 82
+    "GitHub": 62,
+    "Hugging Face": 60,
+    "Product Hunt": 83
   },
-  "open_source_ratio": 0.9669,
+  "open_source_ratio": 0.9677,
   "free_ratio": null,
   "top_scored": [
+    {
+      "id": "github-ruvnet-ruflo",
+      "name": "ruflo",
+      "score": 84.7
+    },
     {
       "id": "github-asgeirtj-system-prompts-leaks",
       "name": "system_prompts_leaks",
       "score": 84.6
-    },
-    {
-      "id": "github-ruvnet-ruflo",
-      "name": "ruflo",
-      "score": 84.1
     },
     {
       "id": "huggingface-xiaomimimo-mimo-v2-6-flash-rl",

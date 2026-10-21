@@ -5,7 +5,14 @@
     <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/</link>
     <description>每天筛选 5 个真正值得关注的 AI 工具。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 20 Oct 2026 05:09:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 05:11:32 +0000</lastBuildDate>
+    <item>
+      <title>2026-10-21 每日 AI 工具精选</title>
+      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
+      <guid isPermaLink="false">daily-ai-tools-2026-10-21</guid>
+      <description>今日精选：ruflo、headroom、Kromoss、DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8、Kling 4.0</description>
+      <pubDate>Wed, 21 Oct 2026 00:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>2026-10-20 每日 AI 工具精选</title>
       <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
@@ -96,13 +103,6 @@
       <guid isPermaLink="false">daily-ai-tools-2026-10-08</guid>
       <description>今日精选：claude-mem、GEV-26B-Decide-NVFP4、embeddinggemma-2-GGUF、diagram-design、Vresk</description>
       <pubDate>Thu, 08 Oct 2026 00:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026-10-07 每日 AI 工具精选</title>
-      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
-      <guid isPermaLink="false">daily-ai-tools-2026-10-07</guid>
-      <description>今日精选：claude-mem、GEV-26B-Decide-NVFP4、GEV-26B-Decide、agency-agents、iphone-use</description>
-      <pubDate>Wed, 07 Oct 2026 00:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
