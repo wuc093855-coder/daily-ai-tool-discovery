@@ -17,8 +17,384 @@
       "business": 0.1
     }
   },
-  "updated_at": "2026-10-21T13:11:32+08:00",
+  "updated_at": "2026-10-22T13:15:01+08:00",
   "days": [
+    {
+      "date": "2026-10-22",
+      "display_date": "2026年10月22日",
+      "weekday": "星期四",
+      "updated_at": "2026-10-22T13:15:01+08:00",
+      "tools": [
+        {
+          "id": "github-headroomlabs-ai-headroom",
+          "slug": "headroom",
+          "name": "headroom",
+          "original_name": "headroomlabs-ai/headroom",
+          "tagline_zh": "headroom 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "headroom 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/headroomlabs-ai/headroom",
+          "official_url": "https://docs.headroomlabs.ai/docs",
+          "repo_url": "https://github.com/headroomlabs-ai/headroom",
+          "logo_url": "https://avatars.githubusercontent.com/u/294291659?v=4",
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent",
+            "Python"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "Apache-2.0",
+          "stars": 77359,
+          "star_growth": 474,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-10-21",
+          "updated_at": "2026-10-22T05:13:29Z",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 81.6,
+          "score_heat": 94.8,
+          "score_freshness": 78,
+          "score_usefulness": 91.2,
+          "score_product": 75.6,
+          "score_business": 36,
+          "score_history": [
+            {
+              "date": "2026-10-21",
+              "score": 82.0
+            },
+            {
+              "date": "2026-10-22",
+              "score": 81.6
+            }
+          ],
+          "rank": 1,
+          "carried_forward": false
+        },
+        {
+          "id": "github-stablyai-orca",
+          "slug": "orca",
+          "name": "orca",
+          "original_name": "stablyai/orca",
+          "tagline_zh": "orca 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "orca 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/stablyai/orca",
+          "official_url": "https://orca.dev",
+          "repo_url": "https://github.com/stablyai/orca",
+          "logo_url": "https://avatars.githubusercontent.com/u/127256420?v=4",
+          "category": "编程开发",
+          "tags": [
+            "编程开发",
+            "TypeScript"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "MIT",
+          "stars": 101640,
+          "star_growth": 1541,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-08-13",
+          "updated_at": "2026-10-22T05:14:21Z",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 78.4,
+          "score_heat": 100,
+          "score_freshness": 78,
+          "score_usefulness": 72.9,
+          "score_product": 75,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-08-13",
+              "score": 75.8
+            },
+            {
+              "date": "2026-10-19",
+              "score": 78.4
+            },
+            {
+              "date": "2026-10-22",
+              "score": 78.4
+            }
+          ],
+          "rank": 2,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-xhtoken-spark-x2-6-4b",
+          "slug": "spark-x2-6-4b",
+          "name": "Spark-X2.6-4B",
+          "original_name": "XHToken/Spark-X2.6-4B",
+          "tagline_zh": "Spark-X2.6-4B 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Spark-X2.6-4B 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors spark2_5 text-generation llm sparkx2_5 conversational custom_code",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+          "official_url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "transformers",
+            "safetensors",
+            "spark2_5",
+            "text-generation",
+            "llm",
+            "sparkx2_5",
+            "conversational",
+            "custom_code",
+            "en",
+            "zh",
+            "base_model:XHToken/Spark-X2.6-4B-Base"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 191,
+          "trending_score": 179,
+          "published_at": "2026-10-19T03:19:51.000Z",
+          "discovered_at": "2026-10-22",
+          "updated_at": "2026-10-21T08:51:53.000Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 77.2,
+          "score_heat": 100,
+          "score_freshness": 85.2,
+          "score_usefulness": 66.4,
+          "score_product": 77,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-10-22",
+              "score": 77.2
+            }
+          ],
+          "rank": 3,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-lodestones-kromoss",
+          "slug": "kromoss",
+          "name": "Kromoss",
+          "original_name": "lodestones/Kromoss",
+          "tagline_zh": "Kromoss 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Kromoss 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "diffusers safetensors moss-image text-to-image en base_model:OpenMOSS-Team/MOSS-Image-Base base_model:finetune:OpenMOSS-Team/MOSS-Image-Base license:apache-2.0",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/lodestones/Kromoss",
+          "official_url": "https://huggingface.co/lodestones/Kromoss",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "diffusers",
+            "safetensors",
+            "moss-image",
+            "text-to-image",
+            "en",
+            "base_model:OpenMOSS-Team/MOSS-Image-Base",
+            "base_model:finetune:OpenMOSS-Team/MOSS-Image-Base",
+            "license:apache-2.0",
+            "diffusers:MOSSImagePipeline",
+            "region:us"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 206,
+          "trending_score": 203,
+          "published_at": "2026-10-19T01:34:35.000Z",
+          "discovered_at": "2026-10-21",
+          "updated_at": "2026-10-20T14:31:08.000Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 76,
+          "score_heat": 100,
+          "score_freshness": 84.9,
+          "score_usefulness": 62.4,
+          "score_product": 84.7,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-10-21",
+              "score": 79.1
+            },
+            {
+              "date": "2026-10-22",
+              "score": 76.0
+            }
+          ],
+          "rank": 4,
+          "carried_forward": false
+        },
+        {
+          "id": "producthunt-tend",
+          "slug": "tend",
+          "name": "Tend",
+          "original_name": "Tend",
+          "tagline_zh": "Tend 是一款聚焦于AI 工作流与流程自动化的AI 产品，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Tend 是一款聚焦于AI 工作流与流程自动化的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Personal AI for businesses and entrepreneurs. Discussion | Link",
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "source_url": "https://www.producthunt.com/products/tend-5",
+          "official_url": "https://www.producthunt.com/products/tend-5",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "自动化",
+          "tags": [
+            "自动化"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": null,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": null,
+          "trending_score": null,
+          "published_at": "2026-10-20T18:30:09+00:00",
+          "discovered_at": "2026-10-22",
+          "updated_at": "2026-10-22T13:15:01+08:00",
+          "suitable_for": "运营人员、独立开发者、小团队和效率爱好者",
+          "core_features": [
+            "连接工具和数据完成重复流程",
+            "减少人工操作与信息搬运",
+            "支持快速搭建自动化方案"
+          ],
+          "use_cases": [
+            "业务流程自动化",
+            "跨工具信息同步",
+            "低代码工作流搭建"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。提供流程代搭建；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "提供流程代搭建",
+            "交付运营自动化",
+            "售卖工作流模板"
+          ],
+          "score_total": 70,
+          "score_heat": 85,
+          "score_freshness": 93.1,
+          "score_usefulness": 55.5,
+          "score_product": 53,
+          "score_business": 55,
+          "score_history": [
+            {
+              "date": "2026-10-22",
+              "score": 70.0
+            }
+          ],
+          "rank": 5,
+          "carried_forward": false
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 10
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 25
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    },
     {
       "date": "2026-10-21",
       "display_date": "2026年10月21日",

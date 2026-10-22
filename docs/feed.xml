@@ -5,7 +5,14 @@
     <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/</link>
     <description>每天筛选 5 个真正值得关注的 AI 工具。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 21 Oct 2026 05:11:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 05:15:01 +0000</lastBuildDate>
+    <item>
+      <title>2026-10-22 每日 AI 工具精选</title>
+      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
+      <guid isPermaLink="false">daily-ai-tools-2026-10-22</guid>
+      <description>今日精选：headroom、orca、Spark-X2.6-4B、Kromoss、Tend</description>
+      <pubDate>Thu, 22 Oct 2026 00:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>2026-10-21 每日 AI 工具精选</title>
       <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
@@ -96,13 +103,6 @@
       <guid isPermaLink="false">daily-ai-tools-2026-10-09</guid>
       <description>今日精选：system_prompts_leaks、d1-3B、GEV-26B-Decide-NVFP4、embeddinggemma-2-GGUF、pmtui</description>
       <pubDate>Fri, 09 Oct 2026 00:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026-10-08 每日 AI 工具精选</title>
-      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
-      <guid isPermaLink="false">daily-ai-tools-2026-10-08</guid>
-      <description>今日精选：claude-mem、GEV-26B-Decide-NVFP4、embeddinggemma-2-GGUF、diagram-design、Vresk</description>
-      <pubDate>Thu, 08 Oct 2026 00:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
