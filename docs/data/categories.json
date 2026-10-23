@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-22T13:15:01+08:00",
+  "generated_at": "2026-10-23T13:14:01+08:00",
   "categories": [
     {
       "name": "AI Agent",
@@ -8,7 +8,7 @@
     },
     {
       "name": "编程开发",
-      "count": 34
+      "count": 36
     },
     {
       "name": "图像生成",
@@ -40,7 +40,7 @@
     },
     {
       "name": "开源模型",
-      "count": 44
+      "count": 45
     },
     {
       "name": "本地工具",

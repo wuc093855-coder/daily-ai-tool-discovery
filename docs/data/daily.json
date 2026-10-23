@@ -17,8 +17,389 @@
       "business": 0.1
     }
   },
-  "updated_at": "2026-10-22T13:15:01+08:00",
+  "updated_at": "2026-10-23T13:14:01+08:00",
   "days": [
+    {
+      "date": "2026-10-23",
+      "display_date": "2026年10月23日",
+      "weekday": "星期五",
+      "updated_at": "2026-10-23T13:14:01+08:00",
+      "tools": [
+        {
+          "id": "huggingface-comfy-org-fibo-2-0",
+          "slug": "fibo-2-0",
+          "name": "Fibo-2.0",
+          "original_name": "Comfy-Org/Fibo-2.0",
+          "tagline_zh": "Fibo-2.0 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Fibo-2.0 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "diffusion-single-file comfyui arxiv:2511.06876 base_model:briaai/Fibo-2.0-dev base_model:finetune:briaai/Fibo-2.0-dev license:cc-by-nc-4.0 region:us",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/Comfy-Org/Fibo-2.0",
+          "official_url": "https://huggingface.co/Comfy-Org/Fibo-2.0",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "diffusion-single-file",
+            "comfyui",
+            "arxiv:2511.06876",
+            "base_model:briaai/Fibo-2.0-dev",
+            "base_model:finetune:briaai/Fibo-2.0-dev",
+            "license:cc-by-nc-4.0",
+            "region:us"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 138,
+          "trending_score": 138,
+          "published_at": "2026-10-20T18:53:36.000Z",
+          "discovered_at": "2026-10-23",
+          "updated_at": "2026-10-21T10:28:29.000Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 80,
+          "score_heat": 100,
+          "score_freshness": 88.3,
+          "score_usefulness": 70.6,
+          "score_product": 83.4,
+          "score_business": 36,
+          "score_history": [
+            {
+              "date": "2026-10-23",
+              "score": 80.0
+            }
+          ],
+          "rank": 1,
+          "carried_forward": false
+        },
+        {
+          "id": "github-graphify-labs-graphify",
+          "slug": "graphify",
+          "name": "graphify",
+          "original_name": "Graphify-Labs/graphify",
+          "tagline_zh": "graphify 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "graphify 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/Graphify-Labs/graphify",
+          "official_url": "https://www.graphify.com",
+          "repo_url": "https://github.com/Graphify-Labs/graphify",
+          "logo_url": "https://avatars.githubusercontent.com/u/297659074?v=4",
+          "category": "编程开发",
+          "tags": [
+            "编程开发",
+            "Python"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "Apache-2.0",
+          "stars": 133191,
+          "star_growth": 1408,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-10-23",
+          "updated_at": "2026-10-23T05:12:32Z",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 77.9,
+          "score_heat": 100,
+          "score_freshness": 78,
+          "score_usefulness": 67.9,
+          "score_product": 81.3,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-10-23",
+              "score": 77.9
+            }
+          ],
+          "rank": 2,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-xhtoken-spark-x2-6-4b",
+          "slug": "spark-x2-6-4b",
+          "name": "Spark-X2.6-4B",
+          "original_name": "XHToken/Spark-X2.6-4B",
+          "tagline_zh": "Spark-X2.6-4B 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Spark-X2.6-4B 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors spark2_5 text-generation llm sparkx2_5 conversational custom_code",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+          "official_url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "transformers",
+            "safetensors",
+            "spark2_5",
+            "text-generation",
+            "llm",
+            "sparkx2_5",
+            "conversational",
+            "custom_code",
+            "en",
+            "zh",
+            "base_model:XHToken/Spark-X2.6-4B-Base"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 268,
+          "trending_score": 250,
+          "published_at": "2026-10-19T03:19:51.000Z",
+          "discovered_at": "2026-10-22",
+          "updated_at": "2026-10-21T08:51:53.000Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 76.7,
+          "score_heat": 100,
+          "score_freshness": 80.4,
+          "score_usefulness": 66.4,
+          "score_product": 77,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-10-22",
+              "score": 77.2
+            },
+            {
+              "date": "2026-10-23",
+              "score": 76.7
+            }
+          ],
+          "rank": 3,
+          "carried_forward": false
+        },
+        {
+          "id": "github-dietrichgebert-ponytail",
+          "slug": "ponytail",
+          "name": "ponytail",
+          "original_name": "DietrichGebert/ponytail",
+          "tagline_zh": "ponytail 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "ponytail 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/DietrichGebert/ponytail",
+          "official_url": "https://ponytail.dev",
+          "repo_url": "https://github.com/DietrichGebert/ponytail",
+          "logo_url": "https://avatars.githubusercontent.com/u/137048761?v=4",
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent",
+            "JavaScript"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "MIT",
+          "stars": 173804,
+          "star_growth": 1948,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-09-03",
+          "updated_at": "2026-10-23T05:13:24Z",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 75.5,
+          "score_heat": 100,
+          "score_freshness": 78,
+          "score_usefulness": 67.8,
+          "score_product": 67.1,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-09-03",
+              "score": 75.7
+            },
+            {
+              "date": "2026-09-04",
+              "score": 75.7
+            },
+            {
+              "date": "2026-09-05",
+              "score": 74.2
+            },
+            {
+              "date": "2026-10-02",
+              "score": 75.7
+            },
+            {
+              "date": "2026-10-03",
+              "score": 74.7
+            },
+            {
+              "date": "2026-10-23",
+              "score": 75.5
+            }
+          ],
+          "rank": 4,
+          "carried_forward": false
+        },
+        {
+          "id": "producthunt-dadan",
+          "slug": "dadan",
+          "name": "Dadan",
+          "original_name": "Dadan",
+          "tagline_zh": "Dadan 是一款聚焦于AI 编程与开发提效的AI 产品，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Dadan 是一款聚焦于AI 编程与开发提效的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "One AI video workspace for recordings, meetings and guides Discussion | Link",
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "source_url": "https://www.producthunt.com/products/dadan",
+          "official_url": "https://www.producthunt.com/products/dadan",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "编程开发",
+          "tags": [
+            "编程开发"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": null,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": null,
+          "trending_score": null,
+          "published_at": "2026-10-20T11:49:27+00:00",
+          "discovered_at": "2026-10-23",
+          "updated_at": "2026-10-23T13:14:01+08:00",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 70.9,
+          "score_heat": 91.6,
+          "score_freshness": 86.9,
+          "score_usefulness": 56.4,
+          "score_product": 54.4,
+          "score_business": 55,
+          "score_history": [
+            {
+              "date": "2026-10-23",
+              "score": 70.9
+            }
+          ],
+          "rank": 5,
+          "carried_forward": false
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 6
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 29
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    },
     {
       "date": "2026-10-22",
       "display_date": "2026年10月22日",
