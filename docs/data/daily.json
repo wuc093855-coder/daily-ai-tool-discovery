@@ -17,8 +17,369 @@
       "business": 0.1
     }
   },
-  "updated_at": "2026-10-23T13:14:01+08:00",
+  "updated_at": "2026-10-24T12:55:56+08:00",
   "days": [
+    {
+      "date": "2026-10-24",
+      "display_date": "2026年10月24日",
+      "weekday": "星期六",
+      "updated_at": "2026-10-24T12:55:56+08:00",
+      "tools": [
+        {
+          "id": "huggingface-minimaxai-minimax-m3-1-flash",
+          "slug": "minimax-m3-1-flash",
+          "name": "MiniMax-M3.1-Flash",
+          "original_name": "MiniMaxAI/MiniMax-M3.1-Flash",
+          "tagline_zh": "MiniMax-M3.1-Flash 是一款聚焦于AI 编程与开发提效的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "MiniMax-M3.1-Flash 是一款聚焦于AI 编程与开发提效的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors minimax_m3_vl image-text-to-text multimodal moe agent coding",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
+          "official_url": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "编程开发",
+          "tags": [
+            "编程开发",
+            "transformers",
+            "safetensors",
+            "minimax_m3_vl",
+            "image-text-to-text",
+            "multimodal",
+            "moe",
+            "agent",
+            "coding",
+            "video",
+            "conversational",
+            "custom_code"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 261,
+          "trending_score": 255,
+          "published_at": "2026-10-17T06:37:50.000Z",
+          "discovered_at": "2026-10-24",
+          "updated_at": "2026-10-23T03:37:20.000Z",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 81.9,
+          "score_heat": 100,
+          "score_freshness": 66.7,
+          "score_usefulness": 84.1,
+          "score_product": 76.4,
+          "score_business": 69,
+          "score_history": [
+            {
+              "date": "2026-10-24",
+              "score": 81.9
+            }
+          ],
+          "rank": 1,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-comfy-org-fibo-2-0",
+          "slug": "fibo-2-0",
+          "name": "Fibo-2.0",
+          "original_name": "Comfy-Org/Fibo-2.0",
+          "tagline_zh": "Fibo-2.0 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Fibo-2.0 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "diffusion-single-file comfyui arxiv:2511.06876 base_model:briaai/Fibo-2.0-dev base_model:finetune:briaai/Fibo-2.0-dev license:cc-by-nc-4.0 region:us",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/Comfy-Org/Fibo-2.0",
+          "official_url": "https://huggingface.co/Comfy-Org/Fibo-2.0",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "diffusion-single-file",
+            "comfyui",
+            "arxiv:2511.06876",
+            "base_model:briaai/Fibo-2.0-dev",
+            "base_model:finetune:briaai/Fibo-2.0-dev",
+            "license:cc-by-nc-4.0",
+            "region:us"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 152,
+          "trending_score": 152,
+          "published_at": "2026-10-20T18:53:36.000Z",
+          "discovered_at": "2026-10-23",
+          "updated_at": "2026-10-21T10:28:29.000Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 79,
+          "score_heat": 100,
+          "score_freshness": 83.6,
+          "score_usefulness": 70.6,
+          "score_product": 83.4,
+          "score_business": 36,
+          "score_history": [
+            {
+              "date": "2026-10-23",
+              "score": 80.0
+            },
+            {
+              "date": "2026-10-24",
+              "score": 79.0
+            }
+          ],
+          "rank": 2,
+          "carried_forward": false
+        },
+        {
+          "id": "github-snailsploit-claude-red",
+          "slug": "claude-red",
+          "name": "Claude-Red",
+          "original_name": "SnailSploit/Claude-Red",
+          "tagline_zh": "Claude-Red 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Claude-Red 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/SnailSploit/Claude-Red",
+          "official_url": "https://github.com/SnailSploit/Claude-Red",
+          "repo_url": "https://github.com/SnailSploit/Claude-Red",
+          "logo_url": "https://avatars.githubusercontent.com/u/95986478?v=4",
+          "category": "编程开发",
+          "tags": [
+            "编程开发",
+            "Python"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "MIT",
+          "stars": 8605,
+          "star_growth": 226,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-10-24",
+          "updated_at": "2026-10-24T04:49:31Z",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 74.9,
+          "score_heat": 81.4,
+          "score_freshness": 78,
+          "score_usefulness": 69,
+          "score_product": 83,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-10-24",
+              "score": 74.9
+            }
+          ],
+          "rank": 3,
+          "carried_forward": false
+        },
+        {
+          "id": "github-nvidia-openshell",
+          "slug": "openshell",
+          "name": "OpenShell",
+          "original_name": "NVIDIA/OpenShell",
+          "tagline_zh": "OpenShell 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "OpenShell 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/NVIDIA/OpenShell",
+          "official_url": "https://docs.nvidia.com/openshell/latest/",
+          "repo_url": "https://github.com/NVIDIA/OpenShell",
+          "logo_url": "https://avatars.githubusercontent.com/u/1728152?v=4",
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent",
+            "Rust"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "Apache-2.0",
+          "stars": 18911,
+          "star_growth": 1119,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-10-24",
+          "updated_at": "2026-10-24T04:55:13Z",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 72.9,
+          "score_heat": 100,
+          "score_freshness": 78,
+          "score_usefulness": 64.6,
+          "score_product": 62.1,
+          "score_business": 36,
+          "score_history": [
+            {
+              "date": "2026-10-24",
+              "score": 72.9
+            }
+          ],
+          "rank": 4,
+          "carried_forward": false
+        },
+        {
+          "id": "producthunt-termi-protocol",
+          "slug": "termi-protocol",
+          "name": "Termi Protocol",
+          "original_name": "Termi Protocol",
+          "tagline_zh": "Termi Protocol 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Termi Protocol 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Watch AI agents code in 3D and hand off the work Discussion | Link",
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "source_url": "https://www.producthunt.com/products/termi-protocol",
+          "official_url": "https://www.producthunt.com/products/termi-protocol",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": null,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": null,
+          "trending_score": null,
+          "published_at": "2026-10-23T04:32:57+00:00",
+          "discovered_at": "2026-10-24",
+          "updated_at": "2026-10-24T12:55:56+08:00",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 71.7,
+          "score_heat": 82.8,
+          "score_freshness": 95.1,
+          "score_usefulness": 64.7,
+          "score_product": 53.3,
+          "score_business": 55,
+          "score_history": [
+            {
+              "date": "2026-10-24",
+              "score": 71.7
+            }
+          ],
+          "rank": 5,
+          "carried_forward": false
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 5
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 29
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    },
     {
       "date": "2026-10-23",
       "display_date": "2026年10月23日",

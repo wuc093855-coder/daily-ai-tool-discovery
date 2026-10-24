@@ -5,7 +5,14 @@
     <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/</link>
     <description>每天筛选 5 个真正值得关注的 AI 工具。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 23 Oct 2026 05:14:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 04:55:56 +0000</lastBuildDate>
+    <item>
+      <title>2026-10-24 每日 AI 工具精选</title>
+      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
+      <guid isPermaLink="false">daily-ai-tools-2026-10-24</guid>
+      <description>今日精选：MiniMax-M3.1-Flash、Fibo-2.0、Claude-Red、OpenShell、Termi Protocol</description>
+      <pubDate>Sat, 24 Oct 2026 00:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>2026-10-23 每日 AI 工具精选</title>
       <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
@@ -96,13 +103,6 @@
       <guid isPermaLink="false">daily-ai-tools-2026-10-11</guid>
       <description>今日精选：Qwen-Image-2.1-Turbo-Uncensored-GGUF、transformers、diagram-design、d1-3B、Lune</description>
       <pubDate>Sun, 11 Oct 2026 00:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026-10-10 每日 AI 工具精选</title>
-      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
-      <guid isPermaLink="false">daily-ai-tools-2026-10-10</guid>
-      <description>今日精选：open-code-review、d1-3B、Qwen-Image-2.1-Turbo、diagram-design、OpenVids</description>
-      <pubDate>Sat, 10 Oct 2026 00:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
