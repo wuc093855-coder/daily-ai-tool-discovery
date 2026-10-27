@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-25T13:08:46+08:00",
+  "generated_at": "2026-10-27T13:27:41+08:00",
   "history_sufficient": true,
   "days": 90,
-  "total_tools": 216,
+  "total_tools": 218,
   "today_tools": 5,
   "today_scanned": 129,
   "category_counts": {
     "编程开发": 39,
-    "AI Agent": 72,
+    "AI Agent": 74,
     "开源模型": 45,
     "音频工具": 9,
     "搜索研究": 10,
@@ -20,11 +20,11 @@
     "本地工具": 1
   },
   "source_counts": {
-    "GitHub": 66,
+    "GitHub": 67,
     "Hugging Face": 63,
-    "Product Hunt": 87
+    "Product Hunt": 88
   },
-  "open_source_ratio": 0.9695,
+  "open_source_ratio": 0.9773,
   "free_ratio": null,
   "top_scored": [
     {
@@ -55,11 +55,6 @@
   ],
   "top_growth": [
     {
-      "id": "github-debpalash-voicestudio",
-      "name": "VoiceStudio",
-      "growth": 3538
-    },
-    {
       "id": "github-primeintellect-ai-prime-agent",
       "name": "prime-agent",
       "growth": 2642
@@ -73,6 +68,11 @@
       "id": "github-harry0703-moneyprinterturbo",
       "name": "MoneyPrinterTurbo",
       "growth": 2304
+    },
+    {
+      "id": "github-debpalash-voicestudio",
+      "name": "VoiceStudio",
+      "growth": 2297
     },
     {
       "id": "github-ifixai-ai-ifixai",
