@@ -17,8 +17,417 @@
       "business": 0.1
     }
   },
-  "updated_at": "2026-10-29T14:19:02+08:00",
+  "updated_at": "2026-10-30T14:18:29+08:00",
   "days": [
+    {
+      "date": "2026-10-30",
+      "display_date": "2026年10月30日",
+      "weekday": "星期五",
+      "updated_at": "2026-10-30T14:18:29+08:00",
+      "tools": [
+        {
+          "id": "github-thedotmack-claude-mem",
+          "slug": "claude-mem",
+          "name": "claude-mem",
+          "original_name": "thedotmack/claude-mem",
+          "tagline_zh": "claude-mem 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "claude-mem 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/thedotmack/claude-mem",
+          "official_url": "https://claude-mem.ai",
+          "repo_url": "https://github.com/thedotmack/claude-mem",
+          "logo_url": "https://avatars.githubusercontent.com/u/683968?v=4",
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent",
+            "TypeScript"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "Apache-2.0",
+          "stars": 105039,
+          "star_growth": 336,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-10-04",
+          "updated_at": "2026-10-30T06:17:50Z",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 81.8,
+          "score_heat": 91.8,
+          "score_freshness": 78,
+          "score_usefulness": 87,
+          "score_product": 83,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-10-04",
+              "score": 77.8
+            },
+            {
+              "date": "2026-10-05",
+              "score": 83.5
+            },
+            {
+              "date": "2026-10-06",
+              "score": 83.0
+            },
+            {
+              "date": "2026-10-07",
+              "score": 83.0
+            },
+            {
+              "date": "2026-10-08",
+              "score": 83.2
+            },
+            {
+              "date": "2026-10-30",
+              "score": 81.8
+            }
+          ],
+          "rank": 1,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-baidu-unlimited-ocr-2",
+          "slug": "unlimited-ocr-2",
+          "name": "Unlimited-OCR-2",
+          "original_name": "baidu/Unlimited-OCR-2",
+          "tagline_zh": "Unlimited-OCR-2 是一款聚焦于AI 编程与开发提效的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Unlimited-OCR-2 是一款聚焦于AI 编程与开发提效的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors unlimited-ocr feature-extraction baidu vision-language ocr custom_code",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/baidu/Unlimited-OCR-2",
+          "official_url": "https://huggingface.co/baidu/Unlimited-OCR-2",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "编程开发",
+          "tags": [
+            "编程开发",
+            "transformers",
+            "safetensors",
+            "unlimited-ocr",
+            "feature-extraction",
+            "baidu",
+            "vision-language",
+            "ocr",
+            "custom_code",
+            "image-text-to-text",
+            "multilingual",
+            "arxiv:2606.23050"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 418,
+          "trending_score": 380,
+          "published_at": "2026-10-26T03:57:46.000Z",
+          "discovered_at": "2026-10-28",
+          "updated_at": "2026-10-29T09:18:46.000Z",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 80.6,
+          "score_heat": 100,
+          "score_freshness": 80.3,
+          "score_usefulness": 75.8,
+          "score_product": 77.6,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-10-28",
+              "score": 83.2
+            },
+            {
+              "date": "2026-10-29",
+              "score": 82.2
+            },
+            {
+              "date": "2026-10-30",
+              "score": 80.6
+            }
+          ],
+          "rank": 2,
+          "carried_forward": false
+        },
+        {
+          "id": "github-nightly-labs-openbot",
+          "slug": "openbot",
+          "name": "openbot",
+          "original_name": "nightly-labs/openbot",
+          "tagline_zh": "openbot 是一款聚焦于本地运行与隐私友好的 AI 能力的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "openbot 是一款聚焦于本地运行与隐私友好的 AI 能力的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/nightly-labs/openbot",
+          "official_url": "https://openbot.run/",
+          "repo_url": "https://github.com/nightly-labs/openbot",
+          "logo_url": "https://avatars.githubusercontent.com/u/100160810?v=4",
+          "category": "本地工具",
+          "tags": [
+            "本地工具",
+            "TypeScript"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": 4009,
+          "star_growth": 709,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-10-28",
+          "updated_at": "2026-10-30T06:13:34Z",
+          "suitable_for": "重视隐私的个人用户、开发者和企业技术团队",
+          "core_features": [
+            "在本地或自托管环境运行",
+            "减少敏感数据外传",
+            "提供更高的可控性"
+          ],
+          "use_cases": [
+            "私有数据处理",
+            "离线 AI 工作流",
+            "企业内网部署"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。提供私有化部署；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "提供私有化部署",
+            "交付本地 AI 方案",
+            "提供运维和集成服务"
+          ],
+          "score_total": 76.9,
+          "score_heat": 92.1,
+          "score_freshness": 78,
+          "score_usefulness": 73.8,
+          "score_product": 76.4,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-10-28",
+              "score": 76.9
+            },
+            {
+              "date": "2026-10-29",
+              "score": 77.9
+            },
+            {
+              "date": "2026-10-30",
+              "score": 76.9
+            }
+          ],
+          "rank": 3,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-nanbeige-nanbeige4-3-33b",
+          "slug": "nanbeige4-3-33b",
+          "name": "Nanbeige4.3-33B",
+          "original_name": "Nanbeige/Nanbeige4.3-33B",
+          "tagline_zh": "Nanbeige4.3-33B 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Nanbeige4.3-33B 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors llama text-generation llm nanbeige conversational en",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+          "official_url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "开源模型",
+          "tags": [
+            "开源模型",
+            "transformers",
+            "safetensors",
+            "llama",
+            "text-generation",
+            "llm",
+            "nanbeige",
+            "conversational",
+            "en",
+            "zh",
+            "base_model:Nanbeige/Nanbeige4.3-33B-Base",
+            "base_model:finetune:Nanbeige/Nanbeige4.3-33B-Base"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 782,
+          "trending_score": 767,
+          "published_at": "2026-10-24T02:49:18.000Z",
+          "discovered_at": "2026-10-27",
+          "updated_at": "2026-10-28T01:59:01.000Z",
+          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
+          "core_features": [
+            "提供可复用的模型或推理能力",
+            "支持集成到二次开发项目",
+            "帮助快速验证 AI 应用想法"
+          ],
+          "use_cases": [
+            "模型能力评估",
+            "构建垂直 AI 应用",
+            "研究与二次开发"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "开发垂直工具",
+            "封装模型 API 服务",
+            "交付企业 AI 方案"
+          ],
+          "score_total": 75.7,
+          "score_heat": 100,
+          "score_freshness": 70.5,
+          "score_usefulness": 74.5,
+          "score_product": 75.6,
+          "score_business": 36,
+          "score_history": [
+            {
+              "date": "2026-10-27",
+              "score": 79.3
+            },
+            {
+              "date": "2026-10-28",
+              "score": 78.3
+            },
+            {
+              "date": "2026-10-29",
+              "score": 76.7
+            },
+            {
+              "date": "2026-10-30",
+              "score": 75.7
+            }
+          ],
+          "rank": 4,
+          "carried_forward": false
+        },
+        {
+          "id": "producthunt-polylane-for-chatgpt",
+          "slug": "polylane-for-chatgpt",
+          "name": "Polylane for ChatGPT",
+          "original_name": "Polylane for ChatGPT",
+          "tagline_zh": "Polylane for ChatGPT 是一款聚焦于AI 工作流与流程自动化的AI 产品，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Polylane for ChatGPT 是一款聚焦于AI 工作流与流程自动化的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Ask ChatGPT what broke in production Discussion | Link",
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "source_url": "https://www.producthunt.com/products/polylane",
+          "official_url": "https://www.producthunt.com/products/polylane",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "自动化",
+          "tags": [
+            "自动化"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": null,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": null,
+          "trending_score": null,
+          "published_at": "2026-10-28T22:04:42+00:00",
+          "discovered_at": "2026-10-30",
+          "updated_at": "2026-10-30T14:18:29+08:00",
+          "suitable_for": "运营人员、独立开发者、小团队和效率爱好者",
+          "core_features": [
+            "连接工具和数据完成重复流程",
+            "减少人工操作与信息搬运",
+            "支持快速搭建自动化方案"
+          ],
+          "use_cases": [
+            "业务流程自动化",
+            "跨工具信息同步",
+            "低代码工作流搭建"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。提供流程代搭建；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "提供流程代搭建",
+            "交付运营自动化",
+            "售卖工作流模板"
+          ],
+          "score_total": 70.8,
+          "score_heat": 93.8,
+          "score_freshness": 93.6,
+          "score_usefulness": 54.9,
+          "score_product": 52,
+          "score_business": 44,
+          "score_history": [
+            {
+              "date": "2026-10-30",
+              "score": 70.8
+            }
+          ],
+          "rank": 5,
+          "carried_forward": false
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 9
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 26
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    },
     {
       "date": "2026-10-29",
       "display_date": "2026年10月29日",
@@ -34680,399 +35089,6 @@
         "producthunt": {
           "ok": true,
           "candidates": 24
-        },
-        "huggingface": {
-          "ok": true,
-          "candidates": 95
-        }
-      }
-    },
-    {
-      "date": "2026-07-30",
-      "display_date": "2026年07月30日",
-      "weekday": "星期四",
-      "updated_at": "2026-07-30T11:42:33+08:00",
-      "tools": [
-        {
-          "id": "huggingface-kwaipilot-kat-coder-v2-5-dev",
-          "slug": "kat-coder-v2-5-dev",
-          "name": "KAT-Coder-V2.5-Dev",
-          "original_name": "Kwaipilot/KAT-Coder-V2.5-Dev",
-          "tagline_zh": "KAT-Coder-V2.5-Dev 是一款聚焦于AI 智能体与任务执行的AI 模型，适合用来提升产出效率或快速验证想法。",
-          "description_zh": "KAT-Coder-V2.5-Dev 是一款聚焦于AI 智能体与任务执行的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
-          "original_description": "transformers safetensors qwen3_5_moe image-text-to-text code agent agentic-coding moe",
-          "source": "Hugging Face",
-          "source_key": "huggingface",
-          "source_url": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
-          "official_url": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
-          "repo_url": null,
-          "logo_url": null,
-          "category": "AI Agent",
-          "tags": [
-            "AI Agent",
-            "transformers",
-            "safetensors",
-            "qwen3_5_moe",
-            "image-text-to-text",
-            "code",
-            "agent",
-            "agentic-coding",
-            "moe",
-            "coding",
-            "text-generation",
-            "conversational"
-          ],
-          "pricing_type": "open_source",
-          "is_free": null,
-          "is_open_source": true,
-          "license": null,
-          "stars": null,
-          "star_growth": null,
-          "likes": 320,
-          "trending_score": 316,
-          "published_at": "2026-07-23T09:54:08.000Z",
-          "discovered_at": "2026-07-27",
-          "updated_at": "2026-07-28T04:35:27.000Z",
-          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
-          "core_features": [
-            "把复杂目标拆解为可执行步骤",
-            "连接工具完成多阶段任务",
-            "减少人工重复操作"
-          ],
-          "use_cases": [
-            "搭建垂直任务智能体",
-            "自动执行多步骤工作流",
-            "验证 Agent 产品想法"
-          ],
-          "pros": [],
-          "limitations": [],
-          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
-          "monetization_ideas": [
-            "为企业搭建行业智能体",
-            "交付自动化工作流",
-            "封装垂直场景服务"
-          ],
-          "score_total": 81,
-          "score_heat": 100,
-          "score_freshness": 67.6,
-          "score_usefulness": 84.1,
-          "score_product": 76.4,
-          "score_business": 58,
-          "score_history": [
-            {
-              "date": "2026-07-27",
-              "score": 82.3
-            },
-            {
-              "date": "2026-07-28",
-              "score": 82.3
-            },
-            {
-              "date": "2026-07-29",
-              "score": 82.0
-            },
-            {
-              "date": "2026-07-30",
-              "score": 81.0
-            }
-          ],
-          "rank": 1,
-          "carried_forward": false
-        },
-        {
-          "id": "huggingface-unsloth-kimi-k3-gguf",
-          "slug": "kimi-k3-gguf",
-          "name": "Kimi-K3-GGUF",
-          "original_name": "unsloth/Kimi-K3-GGUF",
-          "tagline_zh": "Kimi-K3-GGUF 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
-          "description_zh": "Kimi-K3-GGUF 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
-          "original_description": "transformers gguf unsloth conversational image-text-to-text base_model:moonshotai/Kimi-K3 base_model:quantized:moonshotai/Kimi-K3 license:other",
-          "source": "Hugging Face",
-          "source_key": "huggingface",
-          "source_url": "https://huggingface.co/unsloth/Kimi-K3-GGUF",
-          "official_url": "https://huggingface.co/unsloth/Kimi-K3-GGUF",
-          "repo_url": null,
-          "logo_url": null,
-          "category": "开源模型",
-          "tags": [
-            "开源模型",
-            "transformers",
-            "gguf",
-            "unsloth",
-            "conversational",
-            "image-text-to-text",
-            "base_model:moonshotai/Kimi-K3",
-            "base_model:quantized:moonshotai/Kimi-K3",
-            "license:other",
-            "endpoints_compatible",
-            "region:us",
-            "imatrix"
-          ],
-          "pricing_type": "open_source",
-          "is_free": null,
-          "is_open_source": true,
-          "license": null,
-          "stars": null,
-          "star_growth": null,
-          "likes": 166,
-          "trending_score": 164,
-          "published_at": "2026-07-27T17:24:30.000Z",
-          "discovered_at": "2026-07-30",
-          "updated_at": "2026-07-29T18:03:55.000Z",
-          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
-          "core_features": [
-            "提供可复用的模型或推理能力",
-            "支持集成到二次开发项目",
-            "帮助快速验证 AI 应用想法"
-          ],
-          "use_cases": [
-            "模型能力评估",
-            "构建垂直 AI 应用",
-            "研究与二次开发"
-          ],
-          "pros": [],
-          "limitations": [],
-          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
-          "monetization_ideas": [
-            "开发垂直工具",
-            "封装模型 API 服务",
-            "交付企业 AI 方案"
-          ],
-          "score_total": 79.8,
-          "score_heat": 100,
-          "score_freshness": 88.3,
-          "score_usefulness": 70.2,
-          "score_product": 82.9,
-          "score_business": 47,
-          "score_history": [
-            {
-              "date": "2026-07-30",
-              "score": 79.8
-            }
-          ],
-          "rank": 2,
-          "carried_forward": false
-        },
-        {
-          "id": "github-alibaba-open-code-review",
-          "slug": "open-code-review",
-          "name": "open-code-review",
-          "original_name": "alibaba/open-code-review",
-          "tagline_zh": "open-code-review 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。",
-          "description_zh": "open-code-review 是一款聚焦于AI 编程与开发提效的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
-          "original_description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-          "source": "GitHub",
-          "source_key": "github",
-          "source_url": "https://github.com/alibaba/open-code-review",
-          "official_url": "https://open-codereview.ai",
-          "repo_url": "https://github.com/alibaba/open-code-review",
-          "logo_url": "https://avatars.githubusercontent.com/u/1961952?v=4",
-          "category": "编程开发",
-          "tags": [
-            "编程开发",
-            "Go"
-          ],
-          "pricing_type": "open_source",
-          "is_free": null,
-          "is_open_source": true,
-          "license": "Apache-2.0",
-          "stars": 16135,
-          "star_growth": 359,
-          "likes": null,
-          "trending_score": null,
-          "published_at": null,
-          "discovered_at": "2026-07-27",
-          "updated_at": "2026-07-30T03:42:33Z",
-          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
-          "core_features": [
-            "辅助生成、理解或重构代码",
-            "融入常见开发流程",
-            "减少重复开发与排错时间"
-          ],
-          "use_cases": [
-            "代码生成与审查",
-            "快速搭建原型",
-            "开发流程自动化"
-          ],
-          "pros": [],
-          "limitations": [],
-          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
-          "monetization_ideas": [
-            "更快交付网站或应用",
-            "提供自动化脚本服务",
-            "承接客户定制开发"
-          ],
-          "score_total": 78.6,
-          "score_heat": 88,
-          "score_freshness": 78,
-          "score_usefulness": 87,
-          "score_product": 83,
-          "score_business": 47,
-          "score_history": [
-            {
-              "date": "2026-07-27",
-              "score": 83.5
-            },
-            {
-              "date": "2026-07-28",
-              "score": 83.5
-            },
-            {
-              "date": "2026-07-30",
-              "score": 78.6
-            }
-          ],
-          "rank": 3,
-          "carried_forward": false
-        },
-        {
-          "id": "github-moeru-ai-airi",
-          "slug": "airi",
-          "name": "airi",
-          "original_name": "moeru-ai/airi",
-          "tagline_zh": "airi 是一款聚焦于AI 音频、语音与音乐处理的开源项目，适合用来提升产出效率或快速验证想法。",
-          "description_zh": "airi 是一款聚焦于AI 音频、语音与音乐处理的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
-          "original_description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-          "source": "GitHub",
-          "source_key": "github",
-          "source_url": "https://github.com/moeru-ai/airi",
-          "official_url": "https://airi.moeru.ai/docs/",
-          "repo_url": "https://github.com/moeru-ai/airi",
-          "logo_url": "https://avatars.githubusercontent.com/u/165476306?v=4",
-          "category": "音频工具",
-          "tags": [
-            "音频工具",
-            "TypeScript"
-          ],
-          "pricing_type": "open_source",
-          "is_free": null,
-          "is_open_source": true,
-          "license": "MIT",
-          "stars": 45480,
-          "star_growth": 682,
-          "likes": null,
-          "trending_score": null,
-          "published_at": null,
-          "discovered_at": "2026-07-27",
-          "updated_at": "2026-07-30T03:40:13Z",
-          "suitable_for": "播客主、视频创作者、配音从业者和内容团队",
-          "core_features": [
-            "处理语音或音频内容",
-            "支持转写、生成或增强场景",
-            "降低音频制作的时间成本"
-          ],
-          "use_cases": [
-            "语音转写与字幕",
-            "配音和音频增强",
-            "播客内容制作"
-          ],
-          "pros": [],
-          "limitations": [],
-          "business_potential": "具备实际商业应用空间。提供转写与配音服务；商用前请确认许可证、隐私和平台条款。",
-          "monetization_ideas": [
-            "提供转写与配音服务",
-            "承接播客后期",
-            "制作音频内容产品"
-          ],
-          "score_total": 77.4,
-          "score_heat": 97.5,
-          "score_freshness": 78,
-          "score_usefulness": 78,
-          "score_product": 83,
-          "score_business": 47,
-          "score_history": [
-            {
-              "date": "2026-07-27",
-              "score": 79.2
-            },
-            {
-              "date": "2026-07-28",
-              "score": 79.3
-            },
-            {
-              "date": "2026-07-29",
-              "score": 79.6
-            },
-            {
-              "date": "2026-07-30",
-              "score": 77.4
-            }
-          ],
-          "rank": 4,
-          "carried_forward": false
-        },
-        {
-          "id": "producthunt-task-monki",
-          "slug": "task-monki",
-          "name": "Task Monki",
-          "original_name": "Task Monki",
-          "tagline_zh": "Task Monki 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。",
-          "description_zh": "Task Monki 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
-          "original_description": "Run coding agents through the full development process Discussion | Link",
-          "source": "Product Hunt",
-          "source_key": "producthunt",
-          "source_url": "https://www.producthunt.com/products/task-monki",
-          "official_url": "https://www.producthunt.com/products/task-monki",
-          "repo_url": null,
-          "logo_url": null,
-          "category": "AI Agent",
-          "tags": [
-            "AI Agent"
-          ],
-          "pricing_type": null,
-          "is_free": null,
-          "is_open_source": null,
-          "license": null,
-          "stars": null,
-          "star_growth": null,
-          "likes": null,
-          "trending_score": null,
-          "published_at": "2026-07-28T21:38:08+00:00",
-          "discovered_at": "2026-07-30",
-          "updated_at": "2026-07-30T11:42:33+08:00",
-          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
-          "core_features": [
-            "把复杂目标拆解为可执行步骤",
-            "连接工具完成多阶段任务",
-            "减少人工重复操作"
-          ],
-          "use_cases": [
-            "搭建垂直任务智能体",
-            "自动执行多步骤工作流",
-            "验证 Agent 产品想法"
-          ],
-          "pros": [],
-          "limitations": [],
-          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
-          "monetization_ideas": [
-            "为企业搭建行业智能体",
-            "交付自动化工作流",
-            "封装垂直场景服务"
-          ],
-          "score_total": 70.5,
-          "score_heat": 89.4,
-          "score_freshness": 94,
-          "score_usefulness": 56.1,
-          "score_product": 54,
-          "score_business": 44,
-          "score_history": [
-            {
-              "date": "2026-07-30",
-              "score": 70.5
-            }
-          ],
-          "rank": 5,
-          "carried_forward": false
-        }
-      ],
-      "source_status": {
-        "github": {
-          "ok": true,
-          "candidates": 9
-        },
-        "producthunt": {
-          "ok": true,
-          "candidates": 23
         },
         "huggingface": {
           "ok": true,
