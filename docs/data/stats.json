@@ -1,22 +1,22 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T14:18:29+08:00",
+  "generated_at": "2026-10-31T14:10:13+08:00",
   "history_sufficient": true,
   "days": 90,
   "total_tools": 217,
   "today_tools": 5,
-  "today_scanned": 130,
+  "today_scanned": 131,
   "category_counts": {
     "音频工具": 8,
-    "AI Agent": 75,
-    "搜索研究": 10,
-    "写作办公": 3,
     "开源模型": 42,
-    "编程开发": 40,
+    "搜索研究": 10,
+    "AI Agent": 74,
+    "编程开发": 42,
     "数据分析": 5,
     "自动化": 17,
     "图像生成": 12,
     "商业与营销": 3,
+    "写作办公": 2,
     "本地工具": 2
   },
   "source_counts": {
@@ -43,13 +43,13 @@
       "score": 83.8
     },
     {
-      "id": "github-tencentcloud-tencentdb-agent-memory",
-      "name": "TencentDB-Agent-Memory",
-      "score": 83.7
+      "id": "github-thedotmack-claude-mem",
+      "name": "claude-mem",
+      "score": 83.8
     },
     {
-      "id": "github-xerj-org-xerj",
-      "name": "xerj",
+      "id": "github-tencentcloud-tencentdb-agent-memory",
+      "name": "TencentDB-Agent-Memory",
       "score": 83.7
     }
   ],

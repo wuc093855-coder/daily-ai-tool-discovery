@@ -5,7 +5,14 @@
     <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/</link>
     <description>每天筛选 5 个真正值得关注的 AI 工具。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 30 Oct 2026 06:18:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 06:10:13 +0000</lastBuildDate>
+    <item>
+      <title>2026-10-31 每日 AI 工具精选</title>
+      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
+      <guid isPermaLink="false">daily-ai-tools-2026-10-31</guid>
+      <description>今日精选：claude-mem、Pika-H3-Flex、Unlimited-OCR-2、OpenBot、Vaani Developer Platform</description>
+      <pubDate>Sat, 31 Oct 2026 00:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>2026-10-30 每日 AI 工具精选</title>
       <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
@@ -96,13 +103,6 @@
       <guid isPermaLink="false">daily-ai-tools-2026-10-17</guid>
       <description>今日精选：ruflo、xerj、d3、flux-3-image-klein-comfy、Parallax</description>
       <pubDate>Sat, 17 Oct 2026 00:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026-10-16 每日 AI 工具精选</title>
-      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
-      <guid isPermaLink="false">daily-ai-tools-2026-10-16</guid>
-      <description>今日精选：xerj、scientific-agent-skills、d3、flux-3-image-klein-comfy、Chatway MCP</description>
-      <pubDate>Fri, 16 Oct 2026 00:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
