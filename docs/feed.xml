@@ -5,7 +5,14 @@
     <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/</link>
     <description>每天筛选 5 个真正值得关注的 AI 工具。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 03 Nov 2026 07:09:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 06:54:45 +0000</lastBuildDate>
+    <item>
+      <title>2026-11-04 每日 AI 工具精选</title>
+      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
+      <guid isPermaLink="false">daily-ai-tools-2026-11-04</guid>
+      <description>今日精选：claude-mem、Mage-VL-Cowork、Claude-Code-Game-Studios、Pika-H3-Flex、Peji</description>
+      <pubDate>Wed, 04 Nov 2026 00:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>2026-11-03 每日 AI 工具精选</title>
       <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
@@ -96,13 +103,6 @@
       <guid isPermaLink="false">daily-ai-tools-2026-10-21</guid>
       <description>今日精选：ruflo、headroom、Kromoss、DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8、Kling 4.0</description>
       <pubDate>Wed, 21 Oct 2026 00:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026-10-20 每日 AI 工具精选</title>
-      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
-      <guid isPermaLink="false">daily-ai-tools-2026-10-20</guid>
-      <description>今日精选：ruflo、claude-code、DeepSeek-V4.1-Flash-1017、MOSS-Image、Point and Yap</description>
-      <pubDate>Tue, 20 Oct 2026 00:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
