@@ -1,27 +1,27 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-05T15:14:26+08:00",
+  "generated_at": "2026-11-06T15:14:37+08:00",
   "history_sufficient": true,
   "days": 90,
   "total_tools": 221,
   "today_tools": 5,
-  "today_scanned": 126,
+  "today_scanned": 129,
   "category_counts": {
     "AI Agent": 76,
     "编程开发": 42,
-    "音频工具": 8,
     "开源模型": 42,
     "数据分析": 5,
     "自动化": 18,
-    "图像生成": 12,
+    "音频工具": 7,
+    "图像生成": 13,
     "搜索研究": 10,
     "商业与营销": 3,
     "写作办公": 2,
     "本地工具": 3
   },
   "source_counts": {
-    "GitHub": 71,
-    "Hugging Face": 62,
+    "GitHub": 72,
+    "Hugging Face": 61,
     "Product Hunt": 88
   },
   "open_source_ratio": 0.9778,
@@ -55,6 +55,11 @@
   ],
   "top_growth": [
     {
+      "id": "github-nvidia-auto-ontology",
+      "name": "auto-ontology",
+      "growth": 2679
+    },
+    {
       "id": "github-primeintellect-ai-prime-agent",
       "name": "prime-agent",
       "growth": 2642
@@ -73,11 +78,6 @@
       "id": "github-debpalash-voicestudio",
       "name": "VoiceStudio",
       "growth": 2297
-    },
-    {
-      "id": "github-ifixai-ai-ifixai",
-      "name": "iFixAi",
-      "growth": 2109
     }
   ]
 }
