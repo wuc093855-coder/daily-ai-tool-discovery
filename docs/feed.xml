@@ -5,7 +5,14 @@
     <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/</link>
     <description>每天筛选 5 个真正值得关注的 AI 工具。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 06 Nov 2026 07:14:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 06:27:55 +0000</lastBuildDate>
+    <item>
+      <title>2026-11-07 每日 AI 工具精选</title>
+      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
+      <guid isPermaLink="false">daily-ai-tools-2026-11-07</guid>
+      <description>今日精选：auto-ontology、Kimi-K3.1-Pro、Mage-VL-Cowork、skills、OrgSync</description>
+      <pubDate>Sat, 07 Nov 2026 00:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>2026-11-06 每日 AI 工具精选</title>
       <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
@@ -96,13 +103,6 @@
       <guid isPermaLink="false">daily-ai-tools-2026-10-24</guid>
       <description>今日精选：MiniMax-M3.1-Flash、Fibo-2.0、Claude-Red、OpenShell、Termi Protocol</description>
       <pubDate>Sat, 24 Oct 2026 00:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026-10-23 每日 AI 工具精选</title>
-      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
-      <guid isPermaLink="false">daily-ai-tools-2026-10-23</guid>
-      <description>今日精选：Fibo-2.0、graphify、Spark-X2.6-4B、ponytail、Dadan</description>
-      <pubDate>Fri, 23 Oct 2026 00:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
