@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T14:27:55+08:00",
+  "generated_at": "2026-11-08T14:34:08+08:00",
   "history_sufficient": true,
   "days": 90,
-  "total_tools": 218,
+  "total_tools": 217,
   "today_tools": 5,
   "today_scanned": 123,
   "category_counts": {
-    "开源模型": 42,
-    "AI Agent": 74,
-    "编程开发": 41,
+    "开源模型": 41,
+    "编程开发": 39,
+    "AI Agent": 75,
     "数据分析": 5,
-    "自动化": 18,
+    "自动化": 17,
     "音频工具": 7,
-    "图像生成": 13,
+    "图像生成": 15,
     "搜索研究": 10,
     "商业与营销": 3,
     "写作办公": 2,
@@ -22,7 +22,7 @@
   "source_counts": {
     "Hugging Face": 60,
     "GitHub": 70,
-    "Product Hunt": 88
+    "Product Hunt": 87
   },
   "open_source_ratio": 0.9773,
   "free_ratio": null,
