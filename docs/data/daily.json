@@ -17,8 +17,389 @@
       "business": 0.1
     }
   },
-  "updated_at": "2026-11-08T14:34:08+08:00",
+  "updated_at": "2026-11-09T15:03:34+08:00",
   "days": [
+    {
+      "date": "2026-11-09",
+      "display_date": "2026年11月09日",
+      "weekday": "星期一",
+      "updated_at": "2026-11-09T15:03:34+08:00",
+      "tools": [
+        {
+          "id": "huggingface-moonshotai-kimi-k3-1-pro",
+          "slug": "kimi-k3-1-pro",
+          "name": "Kimi-K3.1-Pro",
+          "original_name": "moonshotai/Kimi-K3.1-Pro",
+          "tagline_zh": "Kimi-K3.1-Pro 是一款聚焦于AI 编程与开发提效的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Kimi-K3.1-Pro 是一款聚焦于AI 编程与开发提效的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "transformers safetensors kimi_k31 text-generation compressed-tensors conversational image-text-to-text custom_code",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+          "official_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "编程开发",
+          "tags": [
+            "编程开发",
+            "transformers",
+            "safetensors",
+            "kimi_k31",
+            "text-generation",
+            "compressed-tensors",
+            "conversational",
+            "image-text-to-text",
+            "custom_code",
+            "license:other",
+            "eval-results",
+            "endpoints_compatible"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 1741,
+          "trending_score": 566.5,
+          "published_at": "2026-11-02T04:13:51.000Z",
+          "discovered_at": "2026-11-05",
+          "updated_at": "2026-11-05T07:11:43.000Z",
+          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
+          "core_features": [
+            "辅助生成、理解或重构代码",
+            "融入常见开发流程",
+            "减少重复开发与排错时间"
+          ],
+          "use_cases": [
+            "代码生成与审查",
+            "快速搭建原型",
+            "开发流程自动化"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "更快交付网站或应用",
+            "提供自动化脚本服务",
+            "承接客户定制开发"
+          ],
+          "score_total": 76.3,
+          "score_heat": 100,
+          "score_freshness": 65.8,
+          "score_usefulness": 68.1,
+          "score_product": 79.7,
+          "score_business": 58,
+          "score_history": [
+            {
+              "date": "2026-11-05",
+              "score": 80.2
+            },
+            {
+              "date": "2026-11-06",
+              "score": 78.8
+            },
+            {
+              "date": "2026-11-07",
+              "score": 78.3
+            },
+            {
+              "date": "2026-11-08",
+              "score": 77.3
+            },
+            {
+              "date": "2026-11-09",
+              "score": 76.3
+            }
+          ],
+          "rank": 1,
+          "carried_forward": false
+        },
+        {
+          "id": "huggingface-prunaai-p-h3-image-comfy",
+          "slug": "p-h3-image-comfy",
+          "name": "P-H3-Image-Comfy",
+          "original_name": "PrunaAI/P-H3-Image-Comfy",
+          "tagline_zh": "P-H3-Image-Comfy 是一款聚焦于AI 图像生成与视觉设计的AI 模型，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "P-H3-Image-Comfy 是一款聚焦于AI 图像生成与视觉设计的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "diffusion-single-file comfyui text-to-image image-to-image image-generation image-editing prompt-upsampling lora",
+          "source": "Hugging Face",
+          "source_key": "huggingface",
+          "source_url": "https://huggingface.co/PrunaAI/P-H3-Image-Comfy",
+          "official_url": "https://huggingface.co/PrunaAI/P-H3-Image-Comfy",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "图像生成",
+          "tags": [
+            "图像生成",
+            "diffusion-single-file",
+            "comfyui",
+            "text-to-image",
+            "image-to-image",
+            "image-generation",
+            "image-editing",
+            "prompt-upsampling",
+            "lora",
+            "int8",
+            "4-bit",
+            "minimax-h3"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": 258,
+          "trending_score": 223,
+          "published_at": "2026-10-28T11:26:05.000Z",
+          "discovered_at": "2026-11-08",
+          "updated_at": "2026-11-03T15:55:08.000Z",
+          "suitable_for": "设计师、自媒体创作者、电商从业者和营销团队",
+          "core_features": [
+            "生成或编辑视觉素材",
+            "加快创意方案迭代",
+            "降低设计内容的制作门槛"
+          ],
+          "use_cases": [
+            "制作电商与社媒素材",
+            "生成创意概念图",
+            "辅助品牌视觉探索"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。制作电商图与社媒素材；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "制作电商图与社媒素材",
+            "提供视觉设计服务",
+            "生产数字素材产品"
+          ],
+          "score_total": 75.1,
+          "score_heat": 100,
+          "score_freshness": 43.3,
+          "score_usefulness": 86,
+          "score_product": 79.4,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-11-08",
+              "score": 76.1
+            },
+            {
+              "date": "2026-11-09",
+              "score": 75.1
+            }
+          ],
+          "rank": 2,
+          "carried_forward": false
+        },
+        {
+          "id": "github-vercel-labs-agent-browser",
+          "slug": "agent-browser",
+          "name": "agent-browser",
+          "original_name": "vercel-labs/agent-browser",
+          "tagline_zh": "agent-browser 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "agent-browser 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Browser automation CLI for AI agents",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/vercel-labs/agent-browser",
+          "official_url": "https://agent-browser.dev",
+          "repo_url": "https://github.com/vercel-labs/agent-browser",
+          "logo_url": "https://avatars.githubusercontent.com/u/108547162?v=4",
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent",
+            "Rust"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "Apache-2.0",
+          "stars": 47903,
+          "star_growth": 815,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-11-09",
+          "updated_at": "2026-11-09T07:03:34Z",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 73.9,
+          "score_heat": 99.6,
+          "score_freshness": 78,
+          "score_usefulness": 71.6,
+          "score_product": 59,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-11-09",
+              "score": 73.9
+            }
+          ],
+          "rank": 3,
+          "carried_forward": false
+        },
+        {
+          "id": "producthunt-agent-clan",
+          "slug": "agent-clan",
+          "name": "Agent Clan",
+          "original_name": "Agent Clan",
+          "tagline_zh": "Agent Clan 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "Agent Clan 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "Command your Claude Code and Codex agents with gestures Discussion | Link",
+          "source": "Product Hunt",
+          "source_key": "producthunt",
+          "source_url": "https://www.producthunt.com/products/agent-clan",
+          "official_url": "https://www.producthunt.com/products/agent-clan",
+          "repo_url": null,
+          "logo_url": null,
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent"
+          ],
+          "pricing_type": null,
+          "is_free": null,
+          "is_open_source": null,
+          "license": null,
+          "stars": null,
+          "star_growth": null,
+          "likes": null,
+          "trending_score": null,
+          "published_at": "2026-11-07T17:52:26+00:00",
+          "discovered_at": "2026-11-09",
+          "updated_at": "2026-11-09T15:03:34+08:00",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 72.4,
+          "score_heat": 93.8,
+          "score_freshness": 92.6,
+          "score_usefulness": 56.2,
+          "score_product": 54.1,
+          "score_business": 55,
+          "score_history": [
+            {
+              "date": "2026-11-09",
+              "score": 72.4
+            }
+          ],
+          "rank": 4,
+          "carried_forward": false
+        },
+        {
+          "id": "github-meta-astryx",
+          "slug": "astryx",
+          "name": "astryx",
+          "original_name": "meta/astryx",
+          "tagline_zh": "astryx 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。",
+          "description_zh": "astryx 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
+          "original_description": "An open source design system that's fully customizable and agent ready",
+          "source": "GitHub",
+          "source_key": "github",
+          "source_url": "https://github.com/meta/astryx",
+          "official_url": "http://astryx.atmeta.com",
+          "repo_url": "https://github.com/meta/astryx",
+          "logo_url": "https://avatars.githubusercontent.com/u/69631?v=4",
+          "category": "AI Agent",
+          "tags": [
+            "AI Agent",
+            "TypeScript"
+          ],
+          "pricing_type": "open_source",
+          "is_free": null,
+          "is_open_source": true,
+          "license": "MIT",
+          "stars": 17691,
+          "star_growth": 875,
+          "likes": null,
+          "trending_score": null,
+          "published_at": null,
+          "discovered_at": "2026-11-09",
+          "updated_at": "2026-11-09T07:03:29Z",
+          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
+          "core_features": [
+            "把复杂目标拆解为可执行步骤",
+            "连接工具完成多阶段任务",
+            "减少人工重复操作"
+          ],
+          "use_cases": [
+            "搭建垂直任务智能体",
+            "自动执行多步骤工作流",
+            "验证 Agent 产品想法"
+          ],
+          "pros": [],
+          "limitations": [],
+          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
+          "monetization_ideas": [
+            "为企业搭建行业智能体",
+            "交付自动化工作流",
+            "封装垂直场景服务"
+          ],
+          "score_total": 71,
+          "score_heat": 98,
+          "score_freshness": 78,
+          "score_usefulness": 56,
+          "score_product": 62.8,
+          "score_business": 47,
+          "score_history": [
+            {
+              "date": "2026-11-09",
+              "score": 71.0
+            }
+          ],
+          "rank": 5,
+          "carried_forward": false
+        }
+      ],
+      "source_status": {
+        "github": {
+          "ok": true,
+          "candidates": 4
+        },
+        "producthunt": {
+          "ok": true,
+          "candidates": 16
+        },
+        "huggingface": {
+          "ok": true,
+          "candidates": 95
+        }
+      }
+    },
     {
       "date": "2026-11-08",
       "display_date": "2026年11月08日",
@@ -34833,379 +35214,6 @@
         "github": {
           "ok": true,
           "candidates": 9
-        },
-        "producthunt": {
-          "ok": true,
-          "candidates": 26
-        },
-        "huggingface": {
-          "ok": true,
-          "candidates": 95
-        }
-      }
-    },
-    {
-      "date": "2026-08-09",
-      "display_date": "2026年08月09日",
-      "weekday": "星期日",
-      "updated_at": "2026-08-09T10:36:09+08:00",
-      "tools": [
-        {
-          "id": "huggingface-drbaph-minimax-h3-turbo-lora-comfyui",
-          "slug": "minimax-h3-turbo-lora-comfyui",
-          "name": "MiniMax-H3-Turbo-Lora-ComfyUI",
-          "original_name": "drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
-          "tagline_zh": "MiniMax-H3-Turbo-Lora-ComfyUI 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。",
-          "description_zh": "MiniMax-H3-Turbo-Lora-ComfyUI 是一款聚焦于AI 模型、推理与应用构建的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
-          "original_description": "minimax-h3 lora adapter comfyui pruned pruned-model curve-form text-to-video",
-          "source": "Hugging Face",
-          "source_key": "huggingface",
-          "source_url": "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
-          "official_url": "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
-          "repo_url": null,
-          "logo_url": null,
-          "category": "开源模型",
-          "tags": [
-            "开源模型",
-            "minimax-h3",
-            "lora",
-            "adapter",
-            "comfyui",
-            "pruned",
-            "pruned-model",
-            "curve-form",
-            "text-to-video",
-            "text-to-audio",
-            "audio-video",
-            "video-generation"
-          ],
-          "pricing_type": "open_source",
-          "is_free": null,
-          "is_open_source": true,
-          "license": null,
-          "stars": null,
-          "star_growth": null,
-          "likes": 207,
-          "trending_score": 201,
-          "published_at": "2026-08-06T05:40:36.000Z",
-          "discovered_at": "2026-08-07",
-          "updated_at": "2026-08-08T22:12:43.000Z",
-          "suitable_for": "AI 开发者、研究人员、创业团队和技术爱好者",
-          "core_features": [
-            "提供可复用的模型或推理能力",
-            "支持集成到二次开发项目",
-            "帮助快速验证 AI 应用想法"
-          ],
-          "use_cases": [
-            "模型能力评估",
-            "构建垂直 AI 应用",
-            "研究与二次开发"
-          ],
-          "pros": [],
-          "limitations": [],
-          "business_potential": "具备实际商业应用空间。开发垂直工具；商用前请确认许可证、隐私和平台条款。",
-          "monetization_ideas": [
-            "开发垂直工具",
-            "封装模型 API 服务",
-            "交付企业 AI 方案"
-          ],
-          "score_total": 77.9,
-          "score_heat": 100,
-          "score_freshness": 86.2,
-          "score_usefulness": 65.4,
-          "score_product": 75.4,
-          "score_business": 47,
-          "score_history": [
-            {
-              "date": "2026-08-07",
-              "score": 78.1
-            },
-            {
-              "date": "2026-08-08",
-              "score": 78.8
-            },
-            {
-              "date": "2026-08-09",
-              "score": 77.9
-            }
-          ],
-          "rank": 1,
-          "carried_forward": false
-        },
-        {
-          "id": "huggingface-abiray-minimax-h3-nvfp4-int4-int8-convrot",
-          "slug": "minimax-h3-nvfp4-int4-int8-convrot",
-          "name": "Minimax-H3-nvfp4-INT4-INT8-Convrot",
-          "original_name": "Abiray/Minimax-H3-nvfp4-INT4-INT8-Convrot",
-          "tagline_zh": "Minimax-H3-nvfp4-INT4-INT8-Convrot 是一款聚焦于AI 编程与开发提效的AI 模型，适合用来提升产出效率或快速验证想法。",
-          "description_zh": "Minimax-H3-nvfp4-INT4-INT8-Convrot 是一款聚焦于AI 编程与开发提效的AI 模型，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
-          "original_description": "diffusers text-to-video image-to-video image-text-to-video video-to-video text-to-audio-video multimodal quantized",
-          "source": "Hugging Face",
-          "source_key": "huggingface",
-          "source_url": "https://huggingface.co/Abiray/Minimax-H3-nvfp4-INT4-INT8-Convrot",
-          "official_url": "https://huggingface.co/Abiray/Minimax-H3-nvfp4-INT4-INT8-Convrot",
-          "repo_url": null,
-          "logo_url": null,
-          "category": "编程开发",
-          "tags": [
-            "编程开发",
-            "diffusers",
-            "text-to-video",
-            "image-to-video",
-            "image-text-to-video",
-            "video-to-video",
-            "text-to-audio-video",
-            "multimodal",
-            "quantized",
-            "comfyui",
-            "int4",
-            "nvfp4"
-          ],
-          "pricing_type": "open_source",
-          "is_free": null,
-          "is_open_source": true,
-          "license": null,
-          "stars": null,
-          "star_growth": null,
-          "likes": 144,
-          "trending_score": 136,
-          "published_at": "2026-08-03T09:54:37.000Z",
-          "discovered_at": "2026-08-09",
-          "updated_at": "2026-08-06T06:48:15.000Z",
-          "suitable_for": "开发者、独立黑客、技术团队和正在学习编程的人",
-          "core_features": [
-            "辅助生成、理解或重构代码",
-            "融入常见开发流程",
-            "减少重复开发与排错时间"
-          ],
-          "use_cases": [
-            "代码生成与审查",
-            "快速搭建原型",
-            "开发流程自动化"
-          ],
-          "pros": [],
-          "limitations": [],
-          "business_potential": "具备实际商业应用空间。更快交付网站或应用；商用前请确认许可证、隐私和平台条款。",
-          "monetization_ideas": [
-            "更快交付网站或应用",
-            "提供自动化脚本服务",
-            "承接客户定制开发"
-          ],
-          "score_total": 76.7,
-          "score_heat": 100,
-          "score_freshness": 72.7,
-          "score_usefulness": 68.1,
-          "score_product": 79.7,
-          "score_business": 58,
-          "score_history": [
-            {
-              "date": "2026-08-09",
-              "score": 76.7
-            }
-          ],
-          "rank": 2,
-          "carried_forward": false
-        },
-        {
-          "id": "github-primeintellect-ai-prime-agent",
-          "slug": "prime-agent",
-          "name": "prime-agent",
-          "original_name": "PrimeIntellect-ai/prime-agent",
-          "tagline_zh": "prime-agent 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。",
-          "description_zh": "prime-agent 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
-          "original_description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-          "source": "GitHub",
-          "source_key": "github",
-          "source_url": "https://github.com/PrimeIntellect-ai/prime-agent",
-          "official_url": "https://github.com/PrimeIntellect-ai/prime-agent",
-          "repo_url": "https://github.com/PrimeIntellect-ai/prime-agent",
-          "logo_url": "https://avatars.githubusercontent.com/u/148051844?v=4",
-          "category": "AI Agent",
-          "tags": [
-            "AI Agent",
-            "TypeScript"
-          ],
-          "pricing_type": "open_source",
-          "is_free": null,
-          "is_open_source": true,
-          "license": "MIT",
-          "stars": 9072,
-          "star_growth": 2483,
-          "likes": null,
-          "trending_score": null,
-          "published_at": null,
-          "discovered_at": "2026-08-08",
-          "updated_at": "2026-08-09T02:34:00Z",
-          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
-          "core_features": [
-            "把复杂目标拆解为可执行步骤",
-            "连接工具完成多阶段任务",
-            "减少人工重复操作"
-          ],
-          "use_cases": [
-            "搭建垂直任务智能体",
-            "自动执行多步骤工作流",
-            "验证 Agent 产品想法"
-          ],
-          "pros": [],
-          "limitations": [],
-          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
-          "monetization_ideas": [
-            "为企业搭建行业智能体",
-            "交付自动化工作流",
-            "封装垂直场景服务"
-          ],
-          "score_total": 74.7,
-          "score_heat": 100,
-          "score_freshness": 78,
-          "score_usefulness": 65.9,
-          "score_product": 64.1,
-          "score_business": 47,
-          "score_history": [
-            {
-              "date": "2026-08-08",
-              "score": 74.7
-            },
-            {
-              "date": "2026-08-09",
-              "score": 74.7
-            }
-          ],
-          "rank": 3,
-          "carried_forward": false
-        },
-        {
-          "id": "producthunt-toolport",
-          "slug": "toolport",
-          "name": "Toolport",
-          "original_name": "Toolport",
-          "tagline_zh": "Toolport 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。",
-          "description_zh": "Toolport 是一款聚焦于AI 智能体与任务执行的AI 产品，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
-          "original_description": "Every tool, one port. One MCP setup for all your AI agents Discussion | Link",
-          "source": "Product Hunt",
-          "source_key": "producthunt",
-          "source_url": "https://www.producthunt.com/products/conduit-12",
-          "official_url": "https://www.producthunt.com/products/conduit-12",
-          "repo_url": null,
-          "logo_url": null,
-          "category": "AI Agent",
-          "tags": [
-            "AI Agent"
-          ],
-          "pricing_type": null,
-          "is_free": null,
-          "is_open_source": null,
-          "license": null,
-          "stars": null,
-          "star_growth": null,
-          "likes": null,
-          "trending_score": null,
-          "published_at": "2026-08-07T20:20:13+00:00",
-          "discovered_at": "2026-08-09",
-          "updated_at": "2026-08-09T10:36:09+08:00",
-          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
-          "core_features": [
-            "把复杂目标拆解为可执行步骤",
-            "连接工具完成多阶段任务",
-            "减少人工重复操作"
-          ],
-          "use_cases": [
-            "搭建垂直任务智能体",
-            "自动执行多步骤工作流",
-            "验证 Agent 产品想法"
-          ],
-          "pros": [],
-          "limitations": [],
-          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
-          "monetization_ideas": [
-            "为企业搭建行业智能体",
-            "交付自动化工作流",
-            "封装垂直场景服务"
-          ],
-          "score_total": 72.8,
-          "score_heat": 87.2,
-          "score_freshness": 93.9,
-          "score_usefulness": 65.4,
-          "score_product": 54.4,
-          "score_business": 44,
-          "score_history": [
-            {
-              "date": "2026-08-09",
-              "score": 72.8
-            }
-          ],
-          "rank": 4,
-          "carried_forward": false
-        },
-        {
-          "id": "github-mattpocock-skills",
-          "slug": "skills",
-          "name": "skills",
-          "original_name": "mattpocock/skills",
-          "tagline_zh": "skills 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。",
-          "description_zh": "skills 是一款聚焦于AI 智能体与任务执行的开源项目，适合用来提升产出效率或快速验证想法。 当前入选依据包括平台趋势、时效性、AI 相关度与实际应用潜力。",
-          "original_description": "Skills for Real Engineers. Straight from my .agents directory.",
-          "source": "GitHub",
-          "source_key": "github",
-          "source_url": "https://github.com/mattpocock/skills",
-          "official_url": "https://aihero.dev/skills",
-          "repo_url": "https://github.com/mattpocock/skills",
-          "logo_url": "https://avatars.githubusercontent.com/u/28293365?v=4",
-          "category": "AI Agent",
-          "tags": [
-            "AI Agent",
-            "Shell"
-          ],
-          "pricing_type": "open_source",
-          "is_free": null,
-          "is_open_source": true,
-          "license": "MIT",
-          "stars": 210098,
-          "star_growth": 1359,
-          "likes": null,
-          "trending_score": null,
-          "published_at": null,
-          "discovered_at": "2026-08-09",
-          "updated_at": "2026-08-09T02:35:35Z",
-          "suitable_for": "独立开发者、运营人员、创业团队和自动化爱好者",
-          "core_features": [
-            "把复杂目标拆解为可执行步骤",
-            "连接工具完成多阶段任务",
-            "减少人工重复操作"
-          ],
-          "use_cases": [
-            "搭建垂直任务智能体",
-            "自动执行多步骤工作流",
-            "验证 Agent 产品想法"
-          ],
-          "pros": [],
-          "limitations": [],
-          "business_potential": "具备实际商业应用空间。为企业搭建行业智能体；商用前请确认许可证、隐私和平台条款。",
-          "monetization_ideas": [
-            "为企业搭建行业智能体",
-            "交付自动化工作流",
-            "封装垂直场景服务"
-          ],
-          "score_total": 71.6,
-          "score_heat": 100,
-          "score_freshness": 78,
-          "score_usefulness": 64.4,
-          "score_product": 61.9,
-          "score_business": 36,
-          "score_history": [
-            {
-              "date": "2026-08-09",
-              "score": 71.6
-            }
-          ],
-          "rank": 5,
-          "carried_forward": false
-        }
-      ],
-      "source_status": {
-        "github": {
-          "ok": true,
-          "candidates": 5
         },
         "producthunt": {
           "ok": true,
