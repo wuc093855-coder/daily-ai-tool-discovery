@@ -8,6 +8,7 @@ from scripts.update_tools import (
     infer_category,
     score_candidate,
     select_top_five,
+    serialize_tool,
 )
 
 
@@ -103,6 +104,30 @@ class ScoringTests(unittest.TestCase):
         self.assertEqual(len(selected), 5)
         self.assertEqual({item.source for item in selected}, {"github", "producthunt", "huggingface"})
         self.assertTrue(all(selected[index - 1].score > selected[index].score for index in range(1, 5)))
+
+
+class OfficialURLTests(unittest.TestCase):
+    def test_invalid_homepage_falls_back_to_repository_url(self):
+        for homepage in ("example.com", "javascript:alert(1)", "https://[broken", "   "):
+            with self.subTest(homepage=homepage):
+                candidate = Candidate(
+                    name="example/codepilot",
+                    url="https://github.com/example/codepilot",
+                    source="github",
+                    official_url=homepage,
+                )
+                tool = serialize_tool(candidate, 1, "2026-11-13", "2026-11-13T19:00:00+08:00", None)
+                self.assertEqual(tool["official_url"], "https://github.com/example/codepilot")
+
+    def test_valid_homepage_is_preserved(self):
+        candidate = Candidate(
+            name="example/codepilot",
+            url="https://github.com/example/codepilot",
+            source="github",
+            official_url="https://example.com/docs?lang=zh#start",
+        )
+        tool = serialize_tool(candidate, 1, "2026-11-13", "2026-11-13T19:00:00+08:00", None)
+        self.assertEqual(tool["official_url"], "https://example.com/docs?lang=zh#start")
 
 
 class DataSchemaTests(unittest.TestCase):

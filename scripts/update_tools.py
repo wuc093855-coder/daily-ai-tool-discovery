@@ -19,9 +19,9 @@ from xml.etree import ElementTree
 from zoneinfo import ZoneInfo
 
 try:
-    from scripts.site_builder import DATA_FILE, SCORE_CONFIG, build_all, catalog_from_days, migrate_data
+    from scripts.site_builder import DATA_FILE, SCORE_CONFIG, build_all, catalog_from_days, migrate_data, valid_url
 except ModuleNotFoundError:  # Supports `python scripts/update_tools.py`.
-    from site_builder import DATA_FILE, SCORE_CONFIG, build_all, catalog_from_days, migrate_data
+    from site_builder import DATA_FILE, SCORE_CONFIG, build_all, catalog_from_days, migrate_data, valid_url
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -588,6 +588,12 @@ def serialize_tool(
     history.append({"date": today, "score": candidate.score})
     components = candidate.score_components
     source_url = candidate.url
+    official_url = (candidate.official_url or "").strip()
+    try:
+        if not official_url or not valid_url(official_url):
+            official_url = source_url
+    except ValueError:  # Malformed hosts, such as an unmatched IPv6 bracket.
+        official_url = source_url
     return {
         "id": previous.get("id") if previous else f"{candidate.source}-{re.sub(r'[^a-z0-9]+', '-', candidate.name.lower()).strip('-')[:80]}",
         "slug": previous.get("slug") if previous else re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")[:80],
@@ -598,7 +604,7 @@ def serialize_tool(
         "source": SOURCE_LABELS[candidate.source],
         "source_key": candidate.source,
         "source_url": source_url,
-        "official_url": candidate.official_url or source_url,
+        "official_url": official_url,
         "repo_url": source_url if candidate.source == "github" else None,
         "logo_url": candidate.logo_url,
         "category": profile["category"],
