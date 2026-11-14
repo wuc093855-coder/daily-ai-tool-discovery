@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-13T18:49:43+08:00",
+  "generated_at": "2026-11-14T14:55:34+08:00",
   "categories": [
     {
       "name": "AI Agent",
-      "count": 76
+      "count": 75
     },
     {
       "name": "编程开发",
@@ -20,7 +20,7 @@
     },
     {
       "name": "音频工具",
-      "count": 9
+      "count": 10
     },
     {
       "name": "写作办公",
@@ -40,7 +40,7 @@
     },
     {
       "name": "开源模型",
-      "count": 38
+      "count": 37
     },
     {
       "name": "本地工具",
