@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T15:01:50+08:00",
+  "generated_at": "2026-11-16T15:08:54+08:00",
   "history_sufficient": true,
   "days": 90,
   "total_tools": 213,
   "today_tools": 5,
-  "today_scanned": 123,
+  "today_scanned": 121,
   "category_counts": {
     "开源模型": 37,
     "AI Agent": 76,
-    "编程开发": 38,
-    "图像生成": 14,
+    "编程开发": 37,
+    "图像生成": 15,
     "商业与营销": 3,
     "搜索研究": 9,
     "自动化": 16,
@@ -20,12 +20,12 @@
     "本地工具": 3
   },
   "source_counts": {
-    "Hugging Face": 57,
-    "GitHub": 70,
+    "Hugging Face": 58,
+    "GitHub": 69,
     "Product Hunt": 86
   },
   "open_source_ratio": 0.9767,
-  "free_ratio": null,
+  "free_ratio": 1.0,
   "top_scored": [
     {
       "id": "github-ruvnet-ruflo",
@@ -43,13 +43,13 @@
       "score": 84.4
     },
     {
-      "id": "github-alibaba-open-code-review",
-      "name": "open-code-review",
+      "id": "huggingface-xiaomimimo-mimo-v2-6-flash-rl",
+      "name": "MiMo-V2.6-Flash-RL",
       "score": 83.8
     },
     {
-      "id": "huggingface-xiaomimimo-mimo-v2-6-flash-rl",
-      "name": "MiMo-V2.6-Flash-RL",
+      "id": "github-thedotmack-claude-mem",
+      "name": "claude-mem",
       "score": 83.8
     }
   ],
