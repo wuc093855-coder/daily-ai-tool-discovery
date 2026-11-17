@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T15:08:54+08:00",
+  "generated_at": "2026-11-17T16:22:00+08:00",
   "history_sufficient": true,
   "days": 90,
-  "total_tools": 213,
+  "total_tools": 211,
   "today_tools": 5,
-  "today_scanned": 121,
+  "today_scanned": 124,
   "category_counts": {
-    "开源模型": 37,
-    "AI Agent": 76,
-    "编程开发": 37,
+    "开源模型": 36,
+    "AI Agent": 75,
+    "编程开发": 36,
     "图像生成": 15,
     "商业与营销": 3,
     "搜索研究": 9,
-    "自动化": 16,
+    "自动化": 17,
     "音频工具": 10,
     "数据分析": 5,
     "写作办公": 2,
@@ -21,10 +21,10 @@
   },
   "source_counts": {
     "Hugging Face": 58,
-    "GitHub": 69,
+    "GitHub": 67,
     "Product Hunt": 86
   },
-  "open_source_ratio": 0.9767,
+  "open_source_ratio": 0.9764,
   "free_ratio": 1.0,
   "top_scored": [
     {
@@ -43,13 +43,13 @@
       "score": 84.4
     },
     {
-      "id": "huggingface-xiaomimimo-mimo-v2-6-flash-rl",
-      "name": "MiMo-V2.6-Flash-RL",
+      "id": "github-alibaba-open-code-review",
+      "name": "open-code-review",
       "score": 83.8
     },
     {
-      "id": "github-thedotmack-claude-mem",
-      "name": "claude-mem",
+      "id": "huggingface-xiaomimimo-mimo-v2-6-flash-rl",
+      "name": "MiMo-V2.6-Flash-RL",
       "score": 83.8
     }
   ],
