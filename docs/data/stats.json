@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T15:51:55+08:00",
+  "generated_at": "2026-11-19T15:48:07+08:00",
   "history_sufficient": true,
   "days": 90,
-  "total_tools": 212,
+  "total_tools": 213,
   "today_tools": 5,
-  "today_scanned": 124,
+  "today_scanned": 128,
   "category_counts": {
-    "AI Agent": 74,
+    "AI Agent": 75,
     "开源模型": 36,
-    "图像生成": 15,
-    "编程开发": 37,
-    "商业与营销": 3,
     "搜索研究": 9,
-    "自动化": 17,
-    "音频工具": 10,
+    "图像生成": 15,
+    "编程开发": 36,
+    "自动化": 18,
+    "音频工具": 11,
     "数据分析": 6,
+    "商业与营销": 2,
     "写作办公": 2,
     "本地工具": 3
   },
   "source_counts": {
     "GitHub": 67,
     "Hugging Face": 59,
-    "Product Hunt": 86
+    "Product Hunt": 87
   },
-  "open_source_ratio": 0.9688,
+  "open_source_ratio": 0.9766,
   "free_ratio": 1.0,
   "top_scored": [
     {
@@ -60,11 +60,6 @@
       "growth": 2305
     },
     {
-      "id": "github-harry0703-moneyprinterturbo",
-      "name": "MoneyPrinterTurbo",
-      "growth": 2304
-    },
-    {
       "id": "github-debpalash-voicestudio",
       "name": "VoiceStudio",
       "growth": 2297
@@ -78,6 +73,11 @@
       "id": "github-cloudflare-security-audit-skill",
       "name": "security-audit-skill",
       "growth": 2085
+    },
+    {
+      "id": "github-nvidia-auto-ontology",
+      "name": "auto-ontology",
+      "growth": 2015
     }
   ]
 }
