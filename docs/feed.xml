@@ -5,7 +5,14 @@
     <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/</link>
     <description>每天筛选 5 个真正值得关注的 AI 工具。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 19 Nov 2026 07:48:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 07:40:05 +0000</lastBuildDate>
+    <item>
+      <title>2026-11-20 每日 AI 工具精选</title>
+      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
+      <guid isPermaLink="false">daily-ai-tools-2026-11-20</guid>
+      <description>今日精选：SenseNova-Loop-9B、Hy4-flash、diagram-design、app-store-compliance、Tecla</description>
+      <pubDate>Fri, 20 Nov 2026 00:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>2026-11-19 每日 AI 工具精选</title>
       <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
@@ -96,13 +103,6 @@
       <guid isPermaLink="false">daily-ai-tools-2026-11-07</guid>
       <description>今日精选：auto-ontology、Kimi-K3.1-Pro、Mage-VL-Cowork、skills、OrgSync</description>
       <pubDate>Sat, 07 Nov 2026 00:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026-11-06 每日 AI 工具精选</title>
-      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
-      <guid isPermaLink="false">daily-ai-tools-2026-11-06</guid>
-      <description>今日精选：auto-ontology、skills、Kimi-K3.1-Pro、Mage-VL-Cowork、Living Brain</description>
-      <pubDate>Fri, 06 Nov 2026 00:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
