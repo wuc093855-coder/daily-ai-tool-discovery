@@ -5,7 +5,14 @@
     <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/</link>
     <description>每天筛选 5 个真正值得关注的 AI 工具。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Nov 2026 07:19:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 08:03:12 +0000</lastBuildDate>
+    <item>
+      <title>2026-11-23 每日 AI 工具精选</title>
+      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
+      <guid isPermaLink="false">daily-ai-tools-2026-11-23</guid>
+      <description>今日精选：diagram-design、app-store-compliance、SenseNova-Loop-9B、Inkling-2-Mini-GGUF、Gauth Personal Study Agent</description>
+      <pubDate>Mon, 23 Nov 2026 00:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>2026-11-22 每日 AI 工具精选</title>
       <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
@@ -96,13 +103,6 @@
       <guid isPermaLink="false">daily-ai-tools-2026-11-10</guid>
       <description>今日精选：daily_stock_analysis、hyperflow-h3-flash、gemma-4-31B-it-ARA-heretic-GGUF、agent-browser、Arcjet AI security models</description>
       <pubDate>Tue, 10 Nov 2026 00:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>2026-11-09 每日 AI 工具精选</title>
-      <link>https://wuc093855-coder.github.io/daily-ai-tool-discovery/index.html#today</link>
-      <guid isPermaLink="false">daily-ai-tools-2026-11-09</guid>
-      <description>今日精选：Kimi-K3.1-Pro、P-H3-Image-Comfy、agent-browser、Agent Clan、astryx</description>
-      <pubDate>Mon, 09 Nov 2026 00:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
