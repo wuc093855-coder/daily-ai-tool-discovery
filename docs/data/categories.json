@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T17:00:16+08:00",
+  "generated_at": "2026-11-26T16:48:05+08:00",
   "categories": [
     {
       "name": "AI Agent",
@@ -8,7 +8,7 @@
     },
     {
       "name": "编程开发",
-      "count": 38
+      "count": 37
     },
     {
       "name": "图像生成",
@@ -20,7 +20,7 @@
     },
     {
       "name": "音频工具",
-      "count": 11
+      "count": 10
     },
     {
       "name": "写作办公",
@@ -32,7 +32,7 @@
     },
     {
       "name": "搜索研究",
-      "count": 8
+      "count": 7
     },
     {
       "name": "自动化",
@@ -40,7 +40,7 @@
     },
     {
       "name": "开源模型",
-      "count": 34
+      "count": 33
     },
     {
       "name": "本地工具",
